@@ -1,0 +1,7 @@
+---
+type Props={compact?: boolean}; const {compact=false}=Astro.props;
+---
+<div class="disclosure" class:list={{compact}}>
+<p><strong>推广链接声明：</strong>本站部分链接为推广链接，通过链接购买本站可能获得佣金，价格不变；推荐基于公开信息和实际使用，不构成购买保证。<a href="/about/#disclosure">了解推荐原则</a></p>
+</div>
+<style>.disclosure{border-left:3px solid var(--accent);background:var(--muted);padding:1rem;line-height:1.8;font-size:.875rem;margin:1rem 0}.compact{padding:.65rem 1rem;margin:0}a{text-decoration:underline;text-underline-offset:3px}</style>

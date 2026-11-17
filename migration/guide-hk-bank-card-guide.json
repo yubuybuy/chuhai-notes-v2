@@ -1,0 +1,2406 @@
+{
+  "_type": "guide",
+  "_id": "imported-hk-bank-card-guide",
+  "title": "香港银行卡开户指南",
+  "slug": {
+    "_type": "slug",
+    "current": "hk-bank-card-guide"
+  },
+  "description": "内地居民开香港银行卡：汇丰、中银香港、渣打、ZA Bank、livi、Mox 的材料、人在哪、费用和门槛，关键步骤以各银行官方页面为准。",
+  "audience": "在国内使用海外服务、想省钱，需要一张香港银行卡的内地居民。",
+  "tags": [
+    "香港银行卡",
+    "开户指南"
+  ],
+  "keywords": [
+    "香港银行卡",
+    "香港银行开户",
+    "汇丰 One 开户",
+    "中银香港开户",
+    "渣打开户",
+    "ZA Bank 开户",
+    "livi 开户",
+    "Mox 开户",
+    "内地见证开户"
+  ],
+  "featured": false,
+  "pubDatetime": "2026-11-11T03:30:00.000Z",
+  "modDatetime": "2026-11-11T06:12:00.000Z",
+  "body": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "033d30ce8f62",
+          "text": "我办港卡就一个原因：付海外服务、收点钱，内地卡总是不方便。办之前我以为随便找家银行、手机上点几下就行，查了一圈官网才发现没那么简单。最大的坑就两个：人在哪，和有没有香港身份证。",
+          "marks": []
+        }
+      ],
+      "_key": "2c1923a4fa8a",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a56e2b0b5f87",
+          "text": "我把汇丰、中银香港、渣打、ZA Bank、livi、Mox 六家银行的官网都翻了一遍，下面写的都是对照官网一条条看过的。",
+          "marks": []
+        }
+      ],
+      "_key": "5f9064f9c825",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ea61f8e21c22",
+          "text": "先说结论。没有香港身份证、人还在内地，能先提交的只有汇丰：用往来港澳通行证在 HSBC HK App 申请，90 天内到香港用 App 启动，启动不用去分行。人已经在香港，汇丰、中银香港、ZA Bank、livi 都能用内地证件线上开。渣打手机开户和 Mox 的官网资格写的是香港身份证。一次香港都不去、想在内地办成的，只有一条：中银香港见证开户，但你得已经是中国银行或中银香港的理财或特选客户。",
+          "marks": []
+        }
+      ],
+      "_key": "7c9faf780787",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "33c361abe347",
+          "text": "准备",
+          "marks": []
+        }
+      ],
+      "_key": "350339405b7e",
+      "markDefs": []
+    },
+    {
+      "_type": "tableBlock",
+      "header": [
+        "准备项",
+        "要求"
+      ],
+      "rows": [
+        {
+          "_type": "tableRow",
+          "cells": [
+            "往来港澳通行证",
+            "汇丰通行证路线：有效期不少于 6 个月。中银香港 App：申请日起不少于 30 天。livi：剩余有效期至少 6 个月"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "内地居民身份证",
+            "中银香港 App：与通行证一起，申请日起不少于 30 天。ZA Bank：正本，开户日起不少于 30 天。livi：剩余有效期至少 6 个月"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "香港身份证",
+            "渣打手机开户要 2018 年版。Mox 要香港身份证（永久或非永久）。汇丰、中银香港另有香港身份证路线"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "出入境纪录",
+            "汇丰人在香港用通行证开户要上传。中银香港 App 要国家移民局出入境纪录，含申请日在内的最近 7 日内发出。ZA Bank 要国家移民管理局出入境证明。livi 写「如需要」"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "内地手机号",
+            "中银香港 App 要有效内地手机号。ZA Bank 要在香港能收短信、接电话，且与内地储蓄卡预留号一致。livi 要能收香港短信并接听电话"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "内地储蓄卡",
+            "ZA Bank 用来核对身份，预留手机号须与开户手机号相同"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "地址",
+            "中银香港 App 要内地地址和有效电邮。livi 访港路线要内地地址。Mox 要有效的香港居住地址和邮寄地址"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "年龄",
+            "官网写的都是年满 18 岁。汇丰 App 还要求 18 至 75 岁"
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c722e17ace22",
+          "text": "汇丰 App 还接受部分海外护照，中国护照不在其中。没有那些护照，就走往来港澳通行证。",
+          "marks": []
+        }
+      ],
+      "_key": "ec23202593fa",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ee10a7179863",
+          "text": "先看你走哪条路",
+          "marks": []
+        }
+      ],
+      "_key": "bed8211270dc",
+      "markDefs": []
+    },
+    {
+      "_type": "tableBlock",
+      "header": [
+        "路线",
+        "人要在哪",
+        "官网写明的费用或门槛",
+        "时效"
+      ],
+      "rows": [
+        {
+          "_type": "tableRow",
+          "cells": [
+            "汇丰，只有通行证，人在内地",
+            "内地提交；90 天内到香港用 App 启动",
+            "2026 年 1 月 1 日或之后新开的非香港身份证汇丰 One：过去 3 个月平均全面理财总值不足港币 1 万元，月费港币 100 元，达标豁免",
+            "90 天内启动"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "汇丰，人在香港",
+            "香港。通行证路线要开 GPS 并上传出入境纪录",
+            "同上。卓越理财：全面理财总值港币 100 万元，不足月费港币 380 元，达标豁免",
+            "扣账卡或银联卡于开户后 4 至 6 个工作日寄出"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "中银香港 App",
+            "身处香港",
+            "App 开户不收费。最低存款，已读页面没写",
+            "服务时间内提交成功开户一般可实时使用；3 个工作天内内部审阅"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "中银香港内地见证",
+            "不用到香港。本人到指定见证网点",
+            "须已是中国银行或中银香港的理财或特选客户。开「中银理财」或「智盈理财」",
+            "文件齐备有效，最快约两星期"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "渣打手机开户",
+            "居于香港或内地，且持有香港身份证",
+            "申请免费。「快易理财」不收服务月费",
+            "官网写数分钟内可开；2 个工作天内通知开户结果"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "ZA Bank",
+            "本人在香港，官方建议在香港主要地区",
+            "不设最低存款",
+            "审核天数，已读页面没写"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "livi",
+            "申请时身处香港",
+            "开户免费，活期存款无最低存款",
+            "最快 5 分钟，按银行开户政策审批"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "Mox",
+            "官网资格是香港身份证加香港地址",
+            "开户不收费，官网写无隐藏收费",
+            "官网写数分钟"
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ce0935a06159",
+          "text": "材料齐也不等于一定批。中银香港写明由银行决定是否批核，livi 写明按既定开户政策审批。",
+          "marks": []
+        }
+      ],
+      "_key": "47c195399295",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "32dadd5160ee",
+          "text": "路线一：汇丰，人在内地先申请",
+          "marks": []
+        }
+      ],
+      "_key": "7dded69f162b",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6b04ab39cb74",
+          "text": "这是我查到唯一一条人在内地就能先提交的路。官网写明，同时符合下面四条，就能用 HSBC HK App 在网上申请：",
+          "marks": []
+        }
+      ],
+      "_key": "89d7c9626409",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c03c078d24b1",
+          "text": "往来港澳通行证有效期不少于 6 个月",
+          "marks": []
+        }
+      ],
+      "_key": "b62d1debb4dd",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "187e9f114de8",
+          "text": "汇丰新客户",
+          "marks": []
+        }
+      ],
+      "_key": "d7eed33b1723",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "09e30f94a946",
+          "text": "18 至 75 岁",
+          "marks": []
+        }
+      ],
+      "_key": "7ccf095eb46c",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0e8de8ec9d90",
+          "text": "提交时人在中国内地或香港",
+          "marks": []
+        }
+      ],
+      "_key": "3b547ebe47ce",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b766d2a1bdba",
+          "text": "人在内地就三步：下载 HSBC HK App，用往来港澳通行证做身份验证并提交申请，提交后 90 天内去香港，在 App 里启动户口。官网写明这一步不用亲临分行。",
+          "marks": []
+        }
+      ],
+      "_key": "f9e7fc95c015",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "768f848eb6bb",
+          "text": "人在香港用通行证申请，还要允许 App 读取 GPS，并上传出入境纪录。人在内地提交的那一段，页面没写提交时就要上传出入境纪录。",
+          "marks": []
+        }
+      ],
+      "_key": "e4b3997242bd",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a1953bee4f52",
+          "text": "App 开户页面列出的账户是汇丰 One 和汇丰卓越理财。还要满足：证件可以是往来港澳通行证；人在指定国家或地区（名单含中国内地）；尚未持有任何汇丰理财或投资户口，或者信用卡。页面写手机开户大约 5 分钟，同时注明实际时间因人而异。",
+          "marks": []
+        }
+      ],
+      "_key": "e53b136347c5",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cbee0933ba53",
+          "text": "费用按身份和开户日分，官网的表是这样的：",
+          "marks": []
+        }
+      ],
+      "_key": "b7928daa522b",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8abd3626bfde",
+          "text": "香港身份证持有人开汇丰 One：没有全面理财总值要求，没有低额结存服务费。",
+          "marks": []
+        }
+      ],
+      "_key": "e7335c31ca9c",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2865aa81f716",
+          "text": "非香港身份证、2026 年 1 月 1 日前已经开立汇丰 One：同样没有这项要求和月费。",
+          "marks": []
+        }
+      ],
+      "_key": "29186f57c57d",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "13fa7d33c6ef",
+          "text": "非香港身份证、2026 年 1 月 1 日或之后新开汇丰 One：过去 3 个月平均全面理财总值要达到港币 1 万元，否则每月港币 100 元。达到就豁免。",
+          "marks": []
+        }
+      ],
+      "_key": "2112533bc120",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d9465c65a316",
+          "text": "汇丰卓越理财：全面理财总值港币 100 万元。达到豁免，不足每月港币 380 元。",
+          "marks": []
+        }
+      ],
+      "_key": "7ef67b1660a2",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dc6f06f6cda9",
+          "text": "全面理财总值按过去 3 个月平均算，包含存款、投资市值、部分保险现金价值、强积金等，不是看某一天的余额。低额结存服务费按每个综合理财户口计。官方问答写：连续 3 个月平均值达不到要求，会在下一个月的第 4 个工作日从账户扣除。新开户不足 3 个月时怎样平均，官网没写。",
+          "marks": []
+        }
+      ],
+      "_key": "d8e5faed5932",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "316e7dec745c",
+          "text": "还有一条容易漏的：指定的汇丰 One 非香港身份证客户，开户后首 6 个月有较低的转账和现金提款限额。官网写明有这档限额，具体金额那页没写。",
+          "marks": []
+        }
+      ],
+      "_key": "3a2a312b3e9d",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d83f49dacde4",
+          "text": "不符合 App 条件，或年龄超过 75 岁，可以到汇丰分行、数码银行站，或打 852 2233 3000。开卓越理财尊尚、卓越理财可以提前网上预约。分行要带的文件，总页只写到身份证明、住址证明及其他可能文件，细项没列出来。",
+          "marks": []
+        }
+      ],
+      "_key": "db723c1d75da",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "24acee76cfec",
+          "text": "汇丰官网写明：不要向任何第三方透露敏感个人资料，不要经中介开户。",
+          "marks": []
+        }
+      ],
+      "_key": "80d10256eba5",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "97afba8d6606",
+          "text": "路线二：中银香港，人在香港用 App",
+          "marks": []
+        }
+      ],
+      "_key": "53b8cd42e0e0",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "af3fadbf3a87",
+          "text": "这条我一开始以为最顺，结果条件一点不少。官网常见问题里，内地居民身份证持有人用 App 开户要同时符合：",
+          "marks": []
+        }
+      ],
+      "_key": "2dfd99873be0",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c85a0b00eb8f",
+          "text": "年满 18 岁",
+          "marks": []
+        }
+      ],
+      "_key": "fe865f906b1b",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "138be6ca45b9",
+          "text": "身处香港",
+          "marks": []
+        }
+      ],
+      "_key": "f9aa0e29a0ea",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "842347d34294",
+          "text": "全新客户，或尚未持有任何中银香港个人或联名储蓄、往来账户",
+          "marks": []
+        }
+      ],
+      "_key": "c06b127b4eb6",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cb8f407bb194",
+          "text": "有效内地居民身份证和往来港澳通行证，两种证件从申请日起都至少还有 30 天",
+          "marks": []
+        }
+      ],
+      "_key": "1c7fc9039962",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8f1537e72bec",
+          "text": "国家移民局发出的出入境纪录电子文件，含申请日在内的最近 7 日内发出",
+          "marks": []
+        }
+      ],
+      "_key": "56d0e3df4254",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "eb8f93090d27",
+          "text": "国籍为中国内地",
+          "marks": []
+        }
+      ],
+      "_key": "60e8c114fbc6",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "68b53c3b82ec",
+          "text": "有效的内地手机号和内地地址",
+          "marks": []
+        }
+      ],
+      "_key": "f2933bf2d201",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3aebe194cf26",
+          "text": "有效电邮",
+          "marks": []
+        }
+      ],
+      "_key": "c9896b9e9710",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "abdd3426b141",
+          "text": "能提供税务居民编号等资料",
+          "marks": []
+        }
+      ],
+      "_key": "62d7674e2fa1",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7d1f7565e12d",
+          "text": "通过 App 申请开户，官网写无需收费。开储蓄账户无需上载住址证明。其他服务收费另见收费表。",
+          "marks": []
+        }
+      ],
+      "_key": "fef2ffc03132",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "eb3cd0289b0d",
+          "text": "成功开户后：服务时间内提交并成功开户，一般可实时使用账户；银行在 3 个工作天内对开户资料作内部审阅，审阅完成前小额转账每天上限港币 10,000 元，审阅后已登记第三者账户和小额转账每天最高总限额提升至港币 60,000 元。中银卡在成功开户后寄出，一般 4 个工作天内按通讯地址寄出，5 个工作天内启用。",
+          "marks": []
+        }
+      ],
+      "_key": "0f8b2c98adf0",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4866d6027401",
+          "text": "分行开户（人已在香港）一般要身份证明文件正本，内地居民对应的是有效往来港澳通行证连同内地居民身份证。开证券账户还要姓名与证件一致的住址证明。银行写明，视尽职审查可能再要职业和收入、开户原因、预期账户活动、税务居民身份和税务编号、财富及资金来源等。审多久，取决于资料够不够。",
+          "marks": []
+        }
+      ],
+      "_key": "d9a0676baa6e",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3e02ca1f79d7",
+          "text": "路线三：中银香港，内地见证开户",
+          "marks": []
+        }
+      ],
+      "_key": "dae102ac9f43",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8471d4da968e",
+          "text": "这是我翻到的唯一一条人不用到香港、在内地就能办中银香港账户的路，但门槛不低。",
+          "marks": []
+        }
+      ],
+      "_key": "ecac0421ee32",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2474dd52a0ee",
+          "text": "条件：",
+          "marks": []
+        }
+      ],
+      "_key": "5be78ab4c772",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9b446d02c061",
+          "text": "年满 18 岁",
+          "marks": []
+        }
+      ],
+      "_key": "441041b14399",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b59d58338cc3",
+          "text": "已经是中国银行或中银香港的理财或特选客户",
+          "marks": []
+        }
+      ],
+      "_key": "7620c2b6db4f",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "185961530a51",
+          "text": "本人到内地、澳门，或香港以外指定见证网点办，不接受他人代办",
+          "marks": []
+        }
+      ],
+      "_key": "72fbbadcbab2",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "76dae5412569",
+          "text": "符合当地见证行自己的准入条件，并按对方要求补文件",
+          "marks": []
+        }
+      ],
+      "_key": "60cda8138bb4",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8f49c3daa58c",
+          "text": "可开的是「中银理财」和「智盈理财」，并可同时申请网上银行、电话银行。文件是身份证明；住址证明在适用时或开投资账户时要交，须为最近 3 个月内政府机构或公共事业机构发出、带姓名和地址的信函或账单。要做跨境汇款，一般还要有含英文姓名的证明文件。文件齐备有效，开户最快约两星期。",
+          "marks": []
+        }
+      ],
+      "_key": "da7c289f9a31",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "902e825b8934",
+          "text": "内地、香港以外客户服务专线：内地拨 +86 400 800 2388；香港以外拨 +852 3988 2222（官网标注为收费电话）。指定网点以中银香港页面上的名单为准。",
+          "marks": []
+        }
+      ],
+      "_key": "8b3851e90610",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9683649b043f",
+          "text": "「理财或特选客户」在内地中国银行要达到多少资产，中银香港这篇页面没有写死一个数字，只写还要符合见证行准入条件。网上流传的金额别当成官网门槛。",
+          "marks": []
+        }
+      ],
+      "_key": "9fbc4b2a76a8",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a849bea126a0",
+          "text": "中银香港综合理财层级的维持金额（达不到时，银行可以调低级别或收回该级别的专属优惠，这不是月费）：",
+          "marks": []
+        }
+      ],
+      "_key": "5faebee418b8",
+      "markDefs": []
+    },
+    {
+      "_type": "tableBlock",
+      "header": [
+        "层级",
+        "综合理财总值"
+      ],
+      "rows": [
+        {
+          "_type": "tableRow",
+          "cells": [
+            "私人财富",
+            "港币 800 万元或以上"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "中银理财",
+            "港币 100 万元或以上"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "智盈理财",
+            "港币 20 万元或以上"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "自在理财",
+            "港币 1 万元或以上"
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "52278e5de9aa",
+          "text": "官网写，自 2019 年 8 月 1 日起，已全面取消所有「综合理财服务」月费。见证开户开的是中银理财或智盈理财，不是页面上的自在理财。App 开出来的户口算哪一级，官网没写。",
+          "marks": []
+        }
+      ],
+      "_key": "bbf6e332408e",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "033f4e7f3cb8",
+          "text": "另外还有一条相关路径：申请南向通的客户，可以到大湾区内地中国银行合资格见证网点办见证，再用中银香港手机银行提交「南向通投资专户」和一般储蓄账户。南向通投资者的具体资产门槛我没细看。南向通不是普通银行卡的替代说明。",
+          "marks": []
+        }
+      ],
+      "_key": "d24d85b0b634",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "20798e2ede04",
+          "text": "路线四：渣打",
+          "marks": []
+        }
+      ],
+      "_key": "c885297da81d",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5eac035caa90",
+          "text": "渣打这条我查完就排除了——没有香港身份证，手机开户这条路走不通。官网要求：",
+          "marks": []
+        }
+      ],
+      "_key": "ecf9536008c7",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "678e26225943",
+          "text": "还没有渣打香港的存款户口（活期、往来或支票、综合存款、定期）",
+          "marks": []
+        }
+      ],
+      "_key": "a8e89306d581",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2d841d103530",
+          "text": "有效香港身份证，2018 年版",
+          "marks": []
+        }
+      ],
+      "_key": "9598c5dd3e1f",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "039b033f7e90",
+          "text": "年满 18 岁",
+          "marks": []
+        }
+      ],
+      "_key": "f0eaa11239d2",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f3b8047e3801",
+          "text": "不是美国居民、美国公民，也没有美国绿卡",
+          "marks": []
+        }
+      ],
+      "_key": "154b12024fe6",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7f05d55cf7e4",
+          "text": "账户作个人用途",
+          "marks": []
+        }
+      ],
+      "_key": "ae0c018048fd",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "af20816f178c",
+          "text": "居于香港或中国内地",
+          "marks": []
+        }
+      ],
+      "_key": "5dbfbe08d52a",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "19477d7b93bb",
+          "text": "App 申请不用上传文件，申请免费。银行若要补充资料，会请你到分行。官网写 2 个工作天内通知开户结果。官网存款页另写：申请人须为香港居民并年满 18 岁；没有香港永久性居民身份证的，带有照片的护照或身份证明亲临分行；不能为美国居民开立该户口。所以只持内地身份证和通行证的访客，官网没有给一条远程开户路径。",
+          "marks": []
+        }
+      ],
+      "_key": "ea16f5ff9a0c",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "53a660c620ce",
+          "text": "「快易理财」（Easy Banking）官网写不收服务月费。升到「优先理财」后：季度内每日平均总结余低于港币 100 万元，该季服务费港币 900 元。优先理财推广页写，全新客户可享首两季服务费豁免；豁免过后仍按上述港币 900 元执行。推广是否仍在有效期，以你申请当天的页面为准。",
+          "marks": []
+        }
+      ],
+      "_key": "c38949080b6e",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a6ad16f387de",
+          "text": "港币储蓄的一般最低开户额是港币 1,000 元；外币储蓄为所选货币 200 元，日元为 20,000 日元。同一页写明，这些最低开户额不适用于海外客户，海外客户的数字要问分行或客户经理。没有香港身份证的内地居民若走分行，最低开户额官网没写。",
+          "marks": []
+        }
+      ],
+      "_key": "b2572ac1d943",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "874053cf80c1",
+          "text": "官网没写渣打在内地网点见证开立一般香港个人账户。",
+          "marks": []
+        }
+      ],
+      "_key": "779101b3de11",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "424d3b597f9f",
+          "text": "路线五：ZA Bank，人在香港",
+          "marks": []
+        }
+      ],
+      "_key": "005df6777836",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dfb149499866",
+          "text": "众安这家我查下来是虚拟银行里对内地居民写得最清楚的一家，但第一条就卡人：必须本人到香港。官网写，访港旅客开户要本人在香港，申请时身处香港主要地区。须同时符合：",
+          "marks": []
+        }
+      ],
+      "_key": "bb5f6c1b264c",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8086a0cb72d2",
+          "text": "年满 18 岁",
+          "marks": []
+        }
+      ],
+      "_key": "22668dd7d613",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dcf26dae99b0",
+          "text": "申请时身处香港",
+          "marks": []
+        }
+      ],
+      "_key": "6ce9e62b0eea",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4c961b8d5853",
+          "text": "内地居民身份证正本，开户日起至少还有 30 天有效期",
+          "marks": []
+        }
+      ],
+      "_key": "b1286b8189ed",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "56a0751fbc2a",
+          "text": "内地手机号，人在香港能收短信、接电话",
+          "marks": []
+        }
+      ],
+      "_key": "77bc663a2d6c",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8ac853c849dd",
+          "text": "内地银行储蓄卡，卡上预留手机号与开户手机号相同",
+          "marks": []
+        }
+      ],
+      "_key": "f677fd6cb0ed",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0134feddb120",
+          "text": "国家移民管理局的有效出入境证明",
+          "marks": []
+        }
+      ],
+      "_key": "ee76530dc5f0",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ce0e635eb4ad",
+          "text": "官方问答：必须本人来香港；开户不设最低存款；暂不接受护照，也不接受单独使用港澳通行证。内地储蓄卡是身份核对，预留电话要和开户电话一致。",
+          "marks": []
+        }
+      ],
+      "_key": "70ac8d4cc531",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "912f3bbe81f4",
+          "text": "开户后官网写明可以使用的服务：",
+          "marks": []
+        }
+      ],
+      "_key": "bb0ceb36e80c",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e366577e27ec",
+          "text": "港元、人民币、美元储蓄",
+          "marks": []
+        }
+      ],
+      "_key": "52be24ed43f6",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "62a25211064a",
+          "text": "定期存款最低港币 1 元",
+          "marks": []
+        }
+      ],
+      "_key": "c7041baa4c52",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5f2663c5e58c",
+          "text": "转数快（FPS）和 CHATS 付款、转账，暂时只支持本地转账",
+          "marks": []
+        }
+      ],
+      "_key": "f93e551d9608",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "72f0880e0914",
+          "text": "跨境汇入（港元、人民币、美元）",
+          "marks": []
+        }
+      ],
+      "_key": "345171bf7830",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "676c5e49e4ba",
+          "text": "ZA Card 签账、自动柜员机提款",
+          "marks": []
+        }
+      ],
+      "_key": "edd642189ccb",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f399e5b21951",
+          "text": "电子月结单、交易记录、外币兑换、自动转账",
+          "marks": []
+        }
+      ],
+      "_key": "2547bffa94a1",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "913d976e4b5f",
+          "text": "官网写明目前不提供：私人贷款、保险和基金认购、支票结算、联名户口。",
+          "marks": []
+        }
+      ],
+      "_key": "4269e99d1697",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "19d53255aaad",
+          "text": "还有一条我差点漏了：活期账户和「钱罂」若过去 18 个月没有任何金融交易（银行付利息、扣手续费不算），会变成不活跃账户，不能转账、入钱、开定期、申请贷款，要在 ZA Bank App 里重新激活。",
+          "marks": []
+        }
+      ],
+      "_key": "280fb8b67216",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f449e6b2306f",
+          "text": "开户要审核几天、会不会寄实体卡，对应问答的标题在官网上，正文没看到。跨境汇出收费以收费表当期为准。",
+          "marks": []
+        }
+      ],
+      "_key": "09b72ef20412",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4cf29b6c5678",
+          "text": "路线六：livi，人在香港",
+          "marks": []
+        }
+      ],
+      "_key": "42143e12d25b",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "19f0122b757d",
+          "text": "livi 跟众安一样，访港旅客只能在香港境内开，官网写明只向位于香港境内的访港旅客提供服务。申请时必须身处香港。",
+          "marks": []
+        }
+      ],
+      "_key": "f6b2fef9a4a1",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "868f76b4c81f",
+          "text": "访港客户条件：",
+          "marks": []
+        }
+      ],
+      "_key": "1fbd5f235b2c",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "90245d3e0984",
+          "text": "年满 18 岁",
+          "marks": []
+        }
+      ],
+      "_key": "10c2fc4932a5",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "77ab9be0c045",
+          "text": "内地居民身份证剩余有效期至少 6 个月",
+          "marks": []
+        }
+      ],
+      "_key": "8621f6f95530",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "19279d47c707",
+          "text": "往来港澳通行证剩余有效期至少 6 个月",
+          "marks": []
+        }
+      ],
+      "_key": "2afdda750946",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "042907ce77d3",
+          "text": "内地手机号（能收香港短信、接听电话）和内地地址",
+          "marks": []
+        }
+      ],
+      "_key": "c6d5d2efad4e",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "807986ec24b1",
+          "text": "开户时身处香港",
+          "marks": []
+        }
+      ],
+      "_key": "115c6d16e6af",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f17d80e0bf71",
+          "text": "国家移民局签发的有效出入境纪录（如需要）",
+          "marks": []
+        }
+      ],
+      "_key": "aa300404a9bc",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0cf83bef408c",
+          "text": "手机有前后镜头，Android 9.0 或以上，或 iOS 14.0 或以上",
+          "marks": []
+        }
+      ],
+      "_key": "82415a5f6116",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "47656abc5147",
+          "text": "邀请码那一条，官网写只适用于申请 livi Business 的新客户。个人访港开户不要按邀请码去理解。",
+          "marks": []
+        }
+      ],
+      "_key": "529ff348e74c",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a26249f456ad",
+          "text": "四步：选证件类型（内地身份证要开定位并验证手机号）；拍摄证件并做人脸识别；填写住址、职业、开户目的；设定登录密码。",
+          "marks": []
+        }
+      ],
+      "_key": "f6b815591c89",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "321f5449ba41",
+          "text": "开户完全免费。页面写活期存款无最低存款要求，liviSave 无费用、无最低存款。最快 5 分钟，实际按开户政策审批。",
+          "marks": []
+        }
+      ],
+      "_key": "33751cbca82a",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "acb583fdff9b",
+          "text": "开户后官网列出的服务：港元、人民币、美元存款；本地转账；转数快缴费；二维码支付；柜员机二维码提款；电子月结单和交易记录。跨境汇入、汇出是否支持，官网没写。",
+          "marks": []
+        }
+      ],
+      "_key": "9e1b6a6d23e4",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d6af1c4b8cc5",
+          "text": "路线七：Mox",
+          "marks": []
+        }
+      ],
+      "_key": "5afcfa42b1c5",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e9bb56e8b788",
+          "text": "Mox 我查完就一句话：没有香港身份证，别想了。官网的开户资格是：",
+          "marks": []
+        }
+      ],
+      "_key": "bf7f23a4d2ff",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8a8519f3a1eb",
+          "text": "香港身份证（永久或非永久居民）",
+          "marks": []
+        }
+      ],
+      "_key": "771b603fa00b",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "23b28e0c23a7",
+          "text": "有效的香港居住地址和邮寄地址",
+          "marks": []
+        }
+      ],
+      "_key": "23dd2efafb1d",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3ac50ec30788",
+          "text": "年满 18 岁",
+          "marks": []
+        }
+      ],
+      "_key": "679a14b5c528",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3feb66bcd482",
+          "text": "要一部手机和香港身份证。开户不收服务费，官网写完全免费、无隐藏收费。过程中要填国籍、出生地、手机、电邮、地址、税务居民国家和税务编号、职业与收入、户口用途，并拍摄身份证正反面和本人照片。",
+          "marks": []
+        }
+      ],
+      "_key": "b87dafdced8d",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f3842b5a1401",
+          "text": "官网没有写接受内地居民身份证，也没有写人在内地、没有香港身份证可以开。没有香港身份证的内地居民，按这页资格对不上。",
+          "marks": []
+        }
+      ],
+      "_key": "8279f20083fa",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "75abf1280239",
+          "text": "Mox Card 可加入 Apple Pay、Google Pay。官网步骤：用 Apple 设备打开 Mox App，选「加入 Apple Pay」，绑定电子版 Mox Card 后即可消费。用 Apple Pay 的费用与实体卡或电子卡相同。定期存款最低港币 1 元，提前支取不收费。Mox 写明是香港存款保障计划成员，合资格存款每人最高港币 80 万元。",
+          "marks": []
+        }
+      ],
+      "_key": "da12ed75ea04",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "53904d4ec86c",
+          "text": "有没有最低开户存款，页面只写开户不收费，没有写一个最低金额。",
+          "marks": []
+        }
+      ],
+      "_key": "68743af0cbe5",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fe9649ba43ca",
+          "text": "开户之后",
+          "marks": []
+        }
+      ],
+      "_key": "fb1848202cb6",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "61ce0c5a1e4b",
+          "text": "入金和转账：",
+          "marks": []
+        }
+      ],
+      "_key": "d9764861bbad",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2e79a2a057a8",
+          "text": "每位内地居民每年有等值 5 万美元的个人便利化购汇额度，汇出要走合规渠道。",
+          "marks": []
+        }
+      ],
+      "_key": "f0c6ad86f068",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "141acc8d726a",
+          "text": "ZA Bank：可以收港元、人民币、美元跨境汇入；本地用转数快和 CHATS。页面写暂时只支持本地转账，没有把跨境汇出写成可用服务。",
+          "marks": []
+        }
+      ],
+      "_key": "1f545ae455f4",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "06f826722525",
+          "text": "中银香港：理财服务页写转数快本地跨行转账费用全免，每日限额可高达港币 100 万元，支持港币及人民币，可在手机银行或网上银行办。",
+          "marks": []
+        }
+      ],
+      "_key": "7d8ed1aafdce",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7b694c72013d",
+          "text": "汇丰：转账港币或人民币到大部分本地银行账户可获豁免收费。每日跨境转账总限额最高可设为港币 300 万元或等值，预设为港币 0 元，要自己调高。指定汇丰 One 非香港身份证客户开户后首 6 个月使用较低限额，具体数字官网没写。",
+          "marks": []
+        }
+      ],
+      "_key": "5be337d465c1",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8191472ef6d1",
+          "text": "livi：本地转账、转数快缴费、二维码支付、柜员机二维码提款。",
+          "marks": []
+        }
+      ],
+      "_key": "ce67f72abe1e",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "934e7caa08eb",
+          "text": "渣打、Mox 的跨境汇入步骤和收费，官网没写清。",
+          "marks": []
+        }
+      ],
+      "_key": "32a9fd428af2",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "01f6b14e4cdb",
+          "text": "卡和 Apple Pay：",
+          "marks": []
+        }
+      ],
+      "_key": "82f82c313a17",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8bfd5848a46b",
+          "text": "汇丰：人在香港，Mastercard 扣账卡及／或银联自动柜员机卡在开户后 4 至 6 个工作日寄出（周一至周五，不含周六、日和公众假期）。人在海外，寄送可能更久。银联卡和 Mastercard 扣账卡可在 HSBC HK App 启动；也可打互动语音热线 852 3163 0633。",
+          "marks": []
+        }
+      ],
+      "_key": "eab0617d2808",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f596c816739c",
+          "text": "Mox：按上一节加入 Apple Pay。也可加入 Google Pay。",
+          "marks": []
+        }
+      ],
+      "_key": "6f58b9ca4ca9",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "08e80bc1f7a9",
+          "text": "中银香港、渣打、ZA Bank、livi 的卡能不能加入 Apple Pay，官网没写。",
+          "marks": []
+        }
+      ],
+      "_key": "19b90cba4915",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2a6a49bc5206",
+          "text": "汇丰账户若一段时间不用，限额会被重置。官方写：连续 6 个月没有调高或调低限额，并且连续 6 个月没有登录流动理财、网上理财或电话理财；或者连续 13 个月没有做过该类交易，就会把转给未登记收款人的分项限额、小额转账限额，以及缴给「证券公司」「体育及娱乐」商户的分项限额重置为港币 0 元。这是限额重置，不是休眠月费。汇丰香港休眠月费，官网没写。",
+          "marks": []
+        }
+      ],
+      "_key": "ea15675b7fe8",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9e4a680837c2",
+          "text": "存款保障：汇丰、中银香港、渣打、ZA Bank、livi、Mox 都是香港存款保障计划成员，合资格存款受保障，每名存款人最高 80 万港币。",
+          "marks": []
+        }
+      ],
+      "_key": "0aaf077c6923",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "269577bb162d",
+          "text": "避坑",
+          "marks": []
+        }
+      ],
+      "_key": "d7aaae0a9469",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cc81e36fb3a6",
+          "text": "不要找中介代开。",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "c9fe48cefae2",
+          "text": " 汇丰官网直接写：不要把敏感个人资料给第三方，不要经中介开户。",
+          "marks": []
+        }
+      ],
+      "_key": "bdb76d21a858",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2aa54caf2adc",
+          "text": "证件有效期按银行自己的算法留够。",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "1d2c447d1683",
+          "text": " 汇丰通行证不少于 6 个月；livi 身份证和通行证都要剩余至少 6 个月；中银香港 App 和 ZA Bank 从申请日或开户日起至少 30 天。快到期再出发，系统可以直接不让提交。",
+          "marks": []
+        }
+      ],
+      "_key": "7b07369346d0",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b328d5b0e393",
+          "text": "人在内地，不要按「虚拟银行全程远程」去试。",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "3643f6a26c2c",
+          "text": " ZA Bank、livi 都写必须身处香港。中银香港 App 的内地身份证路线也写身处香港。",
+          "marks": []
+        }
+      ],
+      "_key": "f67e64c63a63",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "75bcd294f5d1",
+          "text": "汇丰 One 的港币 100 元月费看 3 个月平均，不看你某一天存了多少。",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "a7758d3276c2",
+          "text": " 2026 年 1 月 1 日或之后新开、又没有香港身份证，平均值不足港币 1 万元就收。",
+          "marks": []
+        }
+      ],
+      "_key": "3a7ab6380f6d",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "919f8c5bb990",
+          "text": "卓越理财和优先理财是另一档费用。",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "6a589298838d",
+          "text": " 汇丰卓越理财不足港币 100 万元，每月港币 380 元。渣打优先理财季度日均不足港币 100 万元，该季港币 900 元。只为日常扣款，不必为了开户升到这两档。",
+          "marks": []
+        }
+      ],
+      "_key": "b5d0fc5f16f5",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "63eca507c844",
+          "text": "ZA Bank 放着不管，18 个月后会不能动账。",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "7842888b0bd0",
+          "text": " 银行付利息和扣手续费不算你自己的交易。要在 App 里重新激活。",
+          "marks": []
+        }
+      ],
+      "_key": "f1adbdb93695",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f5bed531c90d",
+          "text": "ZA Bank 不接受护照，也不接受只拿港澳通行证。",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "cf8fd46c5317",
+          "text": " 证件是内地居民身份证正本，再加出入境证明和同号储蓄卡。",
+          "marks": []
+        }
+      ],
+      "_key": "268242840537",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f7b70182ca3e",
+          "text": "渣打、Mox 的公开资格挂在香港身份证上。",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "4bc7ee0e141d",
+          "text": " 没有香港身份证，不要按这两家的手机开户教程准备材料。",
+          "marks": []
+        }
+      ],
+      "_key": "4100ef84c9c8",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "55eed6a2c1a5",
+          "text": "常见问题",
+          "marks": []
+        }
+      ],
+      "_key": "6a9d2e972760",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "806ae7eeea70",
+          "text": "人在内地，一次香港都不去，能开成吗？",
+          "marks": []
+        }
+      ],
+      "_key": "0353eb5376d5",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a9687da33095",
+          "text": "我翻到的官方页面里，写明不用到香港的，是中银香港见证开户：你得已经是中国银行或中银香港的理财或特选客户，本人到指定网点，开中银理财或智盈理财。汇丰允许人在内地提交，但 90 天内仍要到香港用 App 启动。ZA Bank、livi 写明申请时必须在香港。渣打手机开户和 Mox 要香港身份证。",
+          "marks": []
+        }
+      ],
+      "_key": "fa01c97e1ca5",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a08c29247b7c",
+          "text": "哪家没有最低存款？",
+          "marks": []
+        }
+      ],
+      "_key": "97589c324790",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4559ac0d32db",
+          "text": "ZA Bank 写明开户不设最低存款。livi 写活期无最低存款、开户免费。Mox 写开户不收费，没有另写一个最低开户金额。汇丰没有香港身份证且在 2026 年 1 月 1 日或之后开汇丰 One，没有「开户当天必须存入」的句子，但有港币 1 万元的 3 个月平均总值，不够就每月港币 100 元。中银香港 App 开户不收费，最低存款没在官网页面出现。",
+          "marks": []
+        }
+      ],
+      "_key": "d5b99d380c90",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b25a190fea5b",
+          "text": "开好就能绑 Apple Pay 吗？",
+          "marks": []
+        }
+      ],
+      "_key": "a3bec5623fd0",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b6e9d22ddc41",
+          "text": "Mox 可以，官网有加入步骤。汇丰、中银香港、渣打、ZA Bank、livi 在官网页面里没有写 Apple Pay，我也不确定。",
+          "marks": []
+        }
+      ],
+      "_key": "1b13f9a76074",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "718d81f1810a",
+          "text": "内地的钱怎么转到这张卡？",
+          "marks": []
+        }
+      ],
+      "_key": "278bceb49c22",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e7d16bf931c8",
+          "text": "ZA Bank 写明可接收港元、人民币、美元跨境汇入，本地转账用转数快和 CHATS。中银香港写本地转数快免费。汇丰写港币或人民币转到大部分本地银行可豁免收费，跨境总限额预设为 0，要自己设置。从哪家内地银行、用哪条汇路、手续费多少，官网没有一步步写完。",
+          "marks": []
+        }
+      ],
+      "_key": "5b6c2cfb96e6",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0e699884b91b",
+          "text": "长期不用会怎样？",
+          "marks": []
+        }
+      ],
+      "_key": "5390c205b513",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0a0cd63d44ba",
+          "text": "ZA Bank：连续 18 个月没有客户发起的金融交易，账户变为不活跃，不能转账和入钱，须在 App 重新激活。汇丰：满足官网列明的不活动条件后，部分转账和缴费限额重置为港币 0 元。中银香港、渣打、livi、Mox 的不活跃规则，以及汇丰香港收不收休眠费，官网没写。",
+          "marks": []
+        }
+      ],
+      "_key": "e15c89340d2b",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "26110970477e",
+          "text": "为什么会被拒？",
+          "marks": []
+        }
+      ],
+      "_key": "b2f4de952873",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bba86b78b831",
+          "text": "官网没有公布一份「常见拒因」清单。能从资格页直接对上的情况包括：人不在银行要求的地方、证件剩余有效期不够、ZA Bank 的储蓄卡预留手机号和开户手机号不一致、已经是该行客户却走了新客户通道、渣打页写明的美国居民或美国公民或绿卡。银行还可以因尽职审查要求补充材料或不批。",
+          "marks": []
+        }
+      ],
+      "_key": "b60ac3cbec0c",
+      "markDefs": []
+    }
+  ],
+  "bodyMarkdown": "我办港卡就一个原因：付海外服务、收点钱，内地卡总是不方便。办之前我以为随便找家银行、手机上点几下就行，查了一圈官网才发现没那么简单。最大的坑就两个：人在哪，和有没有香港身份证。\n\n我把汇丰、中银香港、渣打、ZA Bank、livi、Mox 六家银行的官网都翻了一遍，下面写的都是对照官网一条条看过的。\n\n先说结论。没有香港身份证、人还在内地，能先提交的只有汇丰：用往来港澳通行证在 HSBC HK App 申请，90 天内到香港用 App 启动，启动不用去分行。人已经在香港，汇丰、中银香港、ZA Bank、livi 都能用内地证件线上开。渣打手机开户和 Mox 的官网资格写的是香港身份证。一次香港都不去、想在内地办成的，只有一条：中银香港见证开户，但你得已经是中国银行或中银香港的理财或特选客户。\n\n## 准备\n\n| 准备项 | 要求 |\n| --- | --- |\n| 往来港澳通行证 | 汇丰通行证路线：有效期不少于 6 个月。中银香港 App：申请日起不少于 30 天。livi：剩余有效期至少 6 个月 |\n| 内地居民身份证 | 中银香港 App：与通行证一起，申请日起不少于 30 天。ZA Bank：正本，开户日起不少于 30 天。livi：剩余有效期至少 6 个月 |\n| 香港身份证 | 渣打手机开户要 2018 年版。Mox 要香港身份证（永久或非永久）。汇丰、中银香港另有香港身份证路线 |\n| 出入境纪录 | 汇丰人在香港用通行证开户要上传。中银香港 App 要国家移民局出入境纪录，含申请日在内的最近 7 日内发出。ZA Bank 要国家移民管理局出入境证明。livi 写「如需要」 |\n| 内地手机号 | 中银香港 App 要有效内地手机号。ZA Bank 要在香港能收短信、接电话，且与内地储蓄卡预留号一致。livi 要能收香港短信并接听电话 |\n| 内地储蓄卡 | ZA Bank 用来核对身份，预留手机号须与开户手机号相同 |\n| 地址 | 中银香港 App 要内地地址和有效电邮。livi 访港路线要内地地址。Mox 要有效的香港居住地址和邮寄地址 |\n| 年龄 | 官网写的都是年满 18 岁。汇丰 App 还要求 18 至 75 岁 |\n\n汇丰 App 还接受部分海外护照，中国护照不在其中。没有那些护照，就走往来港澳通行证。\n\n## 先看你走哪条路\n\n| 路线 | 人要在哪 | 官网写明的费用或门槛 | 时效 |\n| --- | --- | --- | --- |\n| 汇丰，只有通行证，人在内地 | 内地提交；90 天内到香港用 App 启动 | 2026 年 1 月 1 日或之后新开的非香港身份证汇丰 One：过去 3 个月平均全面理财总值不足港币 1 万元，月费港币 100 元，达标豁免 | 90 天内启动 |\n| 汇丰，人在香港 | 香港。通行证路线要开 GPS 并上传出入境纪录 | 同上。卓越理财：全面理财总值港币 100 万元，不足月费港币 380 元，达标豁免 | 扣账卡或银联卡于开户后 4 至 6 个工作日寄出 |\n| 中银香港 App | 身处香港 | App 开户不收费。最低存款，已读页面没写 | 服务时间内提交成功开户一般可实时使用；3 个工作天内内部审阅 |\n| 中银香港内地见证 | 不用到香港。本人到指定见证网点 | 须已是中国银行或中银香港的理财或特选客户。开「中银理财」或「智盈理财」 | 文件齐备有效，最快约两星期 |\n| 渣打手机开户 | 居于香港或内地，且持有香港身份证 | 申请免费。「快易理财」不收服务月费 | 官网写数分钟内可开；2 个工作天内通知开户结果 |\n| ZA Bank | 本人在香港，官方建议在香港主要地区 | 不设最低存款 | 审核天数，已读页面没写 |\n| livi | 申请时身处香港 | 开户免费，活期存款无最低存款 | 最快 5 分钟，按银行开户政策审批 |\n| Mox | 官网资格是香港身份证加香港地址 | 开户不收费，官网写无隐藏收费 | 官网写数分钟 |\n\n材料齐也不等于一定批。中银香港写明由银行决定是否批核，livi 写明按既定开户政策审批。\n\n## 路线一：汇丰，人在内地先申请\n\n这是我查到唯一一条人在内地就能先提交的路。官网写明，同时符合下面四条，就能用 HSBC HK App 在网上申请：\n\n- 往来港澳通行证有效期不少于 6 个月\n- 汇丰新客户\n- 18 至 75 岁\n- 提交时人在中国内地或香港\n\n人在内地就三步：下载 HSBC HK App，用往来港澳通行证做身份验证并提交申请，提交后 90 天内去香港，在 App 里启动户口。官网写明这一步不用亲临分行。\n\n人在香港用通行证申请，还要允许 App 读取 GPS，并上传出入境纪录。人在内地提交的那一段，页面没写提交时就要上传出入境纪录。\n\nApp 开户页面列出的账户是汇丰 One 和汇丰卓越理财。还要满足：证件可以是往来港澳通行证；人在指定国家或地区（名单含中国内地）；尚未持有任何汇丰理财或投资户口，或者信用卡。页面写手机开户大约 5 分钟，同时注明实际时间因人而异。\n\n费用按身份和开户日分，官网的表是这样的：\n\n- 香港身份证持有人开汇丰 One：没有全面理财总值要求，没有低额结存服务费。\n- 非香港身份证、2026 年 1 月 1 日前已经开立汇丰 One：同样没有这项要求和月费。\n- 非香港身份证、2026 年 1 月 1 日或之后新开汇丰 One：过去 3 个月平均全面理财总值要达到港币 1 万元，否则每月港币 100 元。达到就豁免。\n- 汇丰卓越理财：全面理财总值港币 100 万元。达到豁免，不足每月港币 380 元。\n\n全面理财总值按过去 3 个月平均算，包含存款、投资市值、部分保险现金价值、强积金等，不是看某一天的余额。低额结存服务费按每个综合理财户口计。官方问答写：连续 3 个月平均值达不到要求，会在下一个月的第 4 个工作日从账户扣除。新开户不足 3 个月时怎样平均，官网没写。\n\n还有一条容易漏的：指定的汇丰 One 非香港身份证客户，开户后首 6 个月有较低的转账和现金提款限额。官网写明有这档限额，具体金额那页没写。\n\n不符合 App 条件，或年龄超过 75 岁，可以到汇丰分行、数码银行站，或打 852 2233 3000。开卓越理财尊尚、卓越理财可以提前网上预约。分行要带的文件，总页只写到身份证明、住址证明及其他可能文件，细项没列出来。\n\n汇丰官网写明：不要向任何第三方透露敏感个人资料，不要经中介开户。\n\n## 路线二：中银香港，人在香港用 App\n\n这条我一开始以为最顺，结果条件一点不少。官网常见问题里，内地居民身份证持有人用 App 开户要同时符合：\n\n- 年满 18 岁\n- 身处香港\n- 全新客户，或尚未持有任何中银香港个人或联名储蓄、往来账户\n- 有效内地居民身份证和往来港澳通行证，两种证件从申请日起都至少还有 30 天\n- 国家移民局发出的出入境纪录电子文件，含申请日在内的最近 7 日内发出\n- 国籍为中国内地\n- 有效的内地手机号和内地地址\n- 有效电邮\n- 能提供税务居民编号等资料\n\n通过 App 申请开户，官网写无需收费。开储蓄账户无需上载住址证明。其他服务收费另见收费表。\n\n成功开户后：服务时间内提交并成功开户，一般可实时使用账户；银行在 3 个工作天内对开户资料作内部审阅，审阅完成前小额转账每天上限港币 10,000 元，审阅后已登记第三者账户和小额转账每天最高总限额提升至港币 60,000 元。中银卡在成功开户后寄出，一般 4 个工作天内按通讯地址寄出，5 个工作天内启用。\n\n分行开户（人已在香港）一般要身份证明文件正本，内地居民对应的是有效往来港澳通行证连同内地居民身份证。开证券账户还要姓名与证件一致的住址证明。银行写明，视尽职审查可能再要职业和收入、开户原因、预期账户活动、税务居民身份和税务编号、财富及资金来源等。审多久，取决于资料够不够。\n\n## 路线三：中银香港，内地见证开户\n\n这是我翻到的唯一一条人不用到香港、在内地就能办中银香港账户的路，但门槛不低。\n\n条件：\n\n- 年满 18 岁\n- 已经是中国银行或中银香港的理财或特选客户\n- 本人到内地、澳门，或香港以外指定见证网点办，不接受他人代办\n- 符合当地见证行自己的准入条件，并按对方要求补文件\n\n可开的是「中银理财」和「智盈理财」，并可同时申请网上银行、电话银行。文件是身份证明；住址证明在适用时或开投资账户时要交，须为最近 3 个月内政府机构或公共事业机构发出、带姓名和地址的信函或账单。要做跨境汇款，一般还要有含英文姓名的证明文件。文件齐备有效，开户最快约两星期。\n\n内地、香港以外客户服务专线：内地拨 +86 400 800 2388；香港以外拨 +852 3988 2222（官网标注为收费电话）。指定网点以中银香港页面上的名单为准。\n\n「理财或特选客户」在内地中国银行要达到多少资产，中银香港这篇页面没有写死一个数字，只写还要符合见证行准入条件。网上流传的金额别当成官网门槛。\n\n中银香港综合理财层级的维持金额（达不到时，银行可以调低级别或收回该级别的专属优惠，这不是月费）：\n\n| 层级 | 综合理财总值 |\n| --- | --- |\n| 私人财富 | 港币 800 万元或以上 |\n| 中银理财 | 港币 100 万元或以上 |\n| 智盈理财 | 港币 20 万元或以上 |\n| 自在理财 | 港币 1 万元或以上 |\n\n官网写，自 2019 年 8 月 1 日起，已全面取消所有「综合理财服务」月费。见证开户开的是中银理财或智盈理财，不是页面上的自在理财。App 开出来的户口算哪一级，官网没写。\n\n另外还有一条相关路径：申请南向通的客户，可以到大湾区内地中国银行合资格见证网点办见证，再用中银香港手机银行提交「南向通投资专户」和一般储蓄账户。南向通投资者的具体资产门槛我没细看。南向通不是普通银行卡的替代说明。\n\n## 路线四：渣打\n\n渣打这条我查完就排除了——没有香港身份证，手机开户这条路走不通。官网要求：\n\n- 还没有渣打香港的存款户口（活期、往来或支票、综合存款、定期）\n- 有效香港身份证，2018 年版\n- 年满 18 岁\n- 不是美国居民、美国公民，也没有美国绿卡\n- 账户作个人用途\n- 居于香港或中国内地\n\nApp 申请不用上传文件，申请免费。银行若要补充资料，会请你到分行。官网写 2 个工作天内通知开户结果。官网存款页另写：申请人须为香港居民并年满 18 岁；没有香港永久性居民身份证的，带有照片的护照或身份证明亲临分行；不能为美国居民开立该户口。所以只持内地身份证和通行证的访客，官网没有给一条远程开户路径。\n\n「快易理财」（Easy Banking）官网写不收服务月费。升到「优先理财」后：季度内每日平均总结余低于港币 100 万元，该季服务费港币 900 元。优先理财推广页写，全新客户可享首两季服务费豁免；豁免过后仍按上述港币 900 元执行。推广是否仍在有效期，以你申请当天的页面为准。\n\n港币储蓄的一般最低开户额是港币 1,000 元；外币储蓄为所选货币 200 元，日元为 20,000 日元。同一页写明，这些最低开户额不适用于海外客户，海外客户的数字要问分行或客户经理。没有香港身份证的内地居民若走分行，最低开户额官网没写。\n\n官网没写渣打在内地网点见证开立一般香港个人账户。\n\n## 路线五：ZA Bank，人在香港\n\n众安这家我查下来是虚拟银行里对内地居民写得最清楚的一家，但第一条就卡人：必须本人到香港。官网写，访港旅客开户要本人在香港，申请时身处香港主要地区。须同时符合：\n\n1. 年满 18 岁\n2. 申请时身处香港\n3. 内地居民身份证正本，开户日起至少还有 30 天有效期\n4. 内地手机号，人在香港能收短信、接电话\n5. 内地银行储蓄卡，卡上预留手机号与开户手机号相同\n6. 国家移民管理局的有效出入境证明\n\n官方问答：必须本人来香港；开户不设最低存款；暂不接受护照，也不接受单独使用港澳通行证。内地储蓄卡是身份核对，预留电话要和开户电话一致。\n\n开户后官网写明可以使用的服务：\n\n- 港元、人民币、美元储蓄\n- 定期存款最低港币 1 元\n- 转数快（FPS）和 CHATS 付款、转账，暂时只支持本地转账\n- 跨境汇入（港元、人民币、美元）\n- ZA Card 签账、自动柜员机提款\n- 电子月结单、交易记录、外币兑换、自动转账\n\n官网写明目前不提供：私人贷款、保险和基金认购、支票结算、联名户口。\n\n还有一条我差点漏了：活期账户和「钱罂」若过去 18 个月没有任何金融交易（银行付利息、扣手续费不算），会变成不活跃账户，不能转账、入钱、开定期、申请贷款，要在 ZA Bank App 里重新激活。\n\n开户要审核几天、会不会寄实体卡，对应问答的标题在官网上，正文没看到。跨境汇出收费以收费表当期为准。\n\n## 路线六：livi，人在香港\n\nlivi 跟众安一样，访港旅客只能在香港境内开，官网写明只向位于香港境内的访港旅客提供服务。申请时必须身处香港。\n\n访港客户条件：\n\n- 年满 18 岁\n- 内地居民身份证剩余有效期至少 6 个月\n- 往来港澳通行证剩余有效期至少 6 个月\n- 内地手机号（能收香港短信、接听电话）和内地地址\n- 开户时身处香港\n- 国家移民局签发的有效出入境纪录（如需要）\n- 手机有前后镜头，Android 9.0 或以上，或 iOS 14.0 或以上\n\n邀请码那一条，官网写只适用于申请 livi Business 的新客户。个人访港开户不要按邀请码去理解。\n\n四步：选证件类型（内地身份证要开定位并验证手机号）；拍摄证件并做人脸识别；填写住址、职业、开户目的；设定登录密码。\n\n开户完全免费。页面写活期存款无最低存款要求，liviSave 无费用、无最低存款。最快 5 分钟，实际按开户政策审批。\n\n开户后官网列出的服务：港元、人民币、美元存款；本地转账；转数快缴费；二维码支付；柜员机二维码提款；电子月结单和交易记录。跨境汇入、汇出是否支持，官网没写。\n\n## 路线七：Mox\n\nMox 我查完就一句话：没有香港身份证，别想了。官网的开户资格是：\n\n- 香港身份证（永久或非永久居民）\n- 有效的香港居住地址和邮寄地址\n- 年满 18 岁\n\n要一部手机和香港身份证。开户不收服务费，官网写完全免费、无隐藏收费。过程中要填国籍、出生地、手机、电邮、地址、税务居民国家和税务编号、职业与收入、户口用途，并拍摄身份证正反面和本人照片。\n\n官网没有写接受内地居民身份证，也没有写人在内地、没有香港身份证可以开。没有香港身份证的内地居民，按这页资格对不上。\n\nMox Card 可加入 Apple Pay、Google Pay。官网步骤：用 Apple 设备打开 Mox App，选「加入 Apple Pay」，绑定电子版 Mox Card 后即可消费。用 Apple Pay 的费用与实体卡或电子卡相同。定期存款最低港币 1 元，提前支取不收费。Mox 写明是香港存款保障计划成员，合资格存款每人最高港币 80 万元。\n\n有没有最低开户存款，页面只写开户不收费，没有写一个最低金额。\n\n## 开户之后\n\n入金和转账：\n\n- 每位内地居民每年有等值 5 万美元的个人便利化购汇额度，汇出要走合规渠道。\n- ZA Bank：可以收港元、人民币、美元跨境汇入；本地用转数快和 CHATS。页面写暂时只支持本地转账，没有把跨境汇出写成可用服务。\n- 中银香港：理财服务页写转数快本地跨行转账费用全免，每日限额可高达港币 100 万元，支持港币及人民币，可在手机银行或网上银行办。\n- 汇丰：转账港币或人民币到大部分本地银行账户可获豁免收费。每日跨境转账总限额最高可设为港币 300 万元或等值，预设为港币 0 元，要自己调高。指定汇丰 One 非香港身份证客户开户后首 6 个月使用较低限额，具体数字官网没写。\n- livi：本地转账、转数快缴费、二维码支付、柜员机二维码提款。\n- 渣打、Mox 的跨境汇入步骤和收费，官网没写清。\n\n卡和 Apple Pay：\n\n- 汇丰：人在香港，Mastercard 扣账卡及／或银联自动柜员机卡在开户后 4 至 6 个工作日寄出（周一至周五，不含周六、日和公众假期）。人在海外，寄送可能更久。银联卡和 Mastercard 扣账卡可在 HSBC HK App 启动；也可打互动语音热线 852 3163 0633。\n- Mox：按上一节加入 Apple Pay。也可加入 Google Pay。\n- 中银香港、渣打、ZA Bank、livi 的卡能不能加入 Apple Pay，官网没写。\n\n汇丰账户若一段时间不用，限额会被重置。官方写：连续 6 个月没有调高或调低限额，并且连续 6 个月没有登录流动理财、网上理财或电话理财；或者连续 13 个月没有做过该类交易，就会把转给未登记收款人的分项限额、小额转账限额，以及缴给「证券公司」「体育及娱乐」商户的分项限额重置为港币 0 元。这是限额重置，不是休眠月费。汇丰香港休眠月费，官网没写。\n\n存款保障：汇丰、中银香港、渣打、ZA Bank、livi、Mox 都是香港存款保障计划成员，合资格存款受保障，每名存款人最高 80 万港币。\n\n## 避坑\n\n- **不要找中介代开。** 汇丰官网直接写：不要把敏感个人资料给第三方，不要经中介开户。\n- **证件有效期按银行自己的算法留够。** 汇丰通行证不少于 6 个月；livi 身份证和通行证都要剩余至少 6 个月；中银香港 App 和 ZA Bank 从申请日或开户日起至少 30 天。快到期再出发，系统可以直接不让提交。\n- **人在内地，不要按「虚拟银行全程远程」去试。** ZA Bank、livi 都写必须身处香港。中银香港 App 的内地身份证路线也写身处香港。\n- **汇丰 One 的港币 100 元月费看 3 个月平均，不看你某一天存了多少。** 2026 年 1 月 1 日或之后新开、又没有香港身份证，平均值不足港币 1 万元就收。\n- **卓越理财和优先理财是另一档费用。** 汇丰卓越理财不足港币 100 万元，每月港币 380 元。渣打优先理财季度日均不足港币 100 万元，该季港币 900 元。只为日常扣款，不必为了开户升到这两档。\n- **ZA Bank 放着不管，18 个月后会不能动账。** 银行付利息和扣手续费不算你自己的交易。要在 App 里重新激活。\n- **ZA Bank 不接受护照，也不接受只拿港澳通行证。** 证件是内地居民身份证正本，再加出入境证明和同号储蓄卡。\n- **渣打、Mox 的公开资格挂在香港身份证上。** 没有香港身份证，不要按这两家的手机开户教程准备材料。\n\n## 常见问题\n\n### 人在内地，一次香港都不去，能开成吗？\n\n我翻到的官方页面里，写明不用到香港的，是中银香港见证开户：你得已经是中国银行或中银香港的理财或特选客户，本人到指定网点，开中银理财或智盈理财。汇丰允许人在内地提交，但 90 天内仍要到香港用 App 启动。ZA Bank、livi 写明申请时必须在香港。渣打手机开户和 Mox 要香港身份证。\n\n### 哪家没有最低存款？\n\nZA Bank 写明开户不设最低存款。livi 写活期无最低存款、开户免费。Mox 写开户不收费，没有另写一个最低开户金额。汇丰没有香港身份证且在 2026 年 1 月 1 日或之后开汇丰 One，没有「开户当天必须存入」的句子，但有港币 1 万元的 3 个月平均总值，不够就每月港币 100 元。中银香港 App 开户不收费，最低存款没在官网页面出现。\n\n### 开好就能绑 Apple Pay 吗？\n\nMox 可以，官网有加入步骤。汇丰、中银香港、渣打、ZA Bank、livi 在官网页面里没有写 Apple Pay，我也不确定。\n\n### 内地的钱怎么转到这张卡？\n\nZA Bank 写明可接收港元、人民币、美元跨境汇入，本地转账用转数快和 CHATS。中银香港写本地转数快免费。汇丰写港币或人民币转到大部分本地银行可豁免收费，跨境总限额预设为 0，要自己设置。从哪家内地银行、用哪条汇路、手续费多少，官网没有一步步写完。\n\n### 长期不用会怎样？\n\nZA Bank：连续 18 个月没有客户发起的金融交易，账户变为不活跃，不能转账和入钱，须在 App 重新激活。汇丰：满足官网列明的不活动条件后，部分转账和缴费限额重置为港币 0 元。中银香港、渣打、livi、Mox 的不活跃规则，以及汇丰香港收不收休眠费，官网没写。\n\n### 为什么会被拒？\n\n官网没有公布一份「常见拒因」清单。能从资格页直接对上的情况包括：人不在银行要求的地方、证件剩余有效期不够、ZA Bank 的储蓄卡预留手机号和开户手机号不一致、已经是该行客户却走了新客户通道、渣打页写明的美国居民或美国公民或绿卡。银行还可以因尽职审查要求补充材料或不批。",
+  "_migration": {
+    "source": "hk-bank-card-guide.md",
+    "fixes": [],
+    "url": "/blog/hk-bank-card-guide/"
+  }
+}

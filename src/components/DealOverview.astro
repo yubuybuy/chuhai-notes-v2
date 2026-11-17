@@ -1,0 +1,51 @@
+---
+import type { PostEntry } from "@/lib/content";
+type Props = { post: PostEntry };
+const { post } = Astro.props;
+const record = post.data.dealRecord;
+const benefit = typeof record?.benefit === "string" ? record.benefit : "";
+const cost = typeof record?.cost === "string" ? record.cost : "";
+// Managed records already validate HTTPS URLs at import time.
+const claimUrl =
+  typeof record?.claimUrl === "string" && record.claimUrl.startsWith("https://")
+    ? record.claimUrl
+    : undefined;
+---
+
+{
+  record && (
+    <section
+      class="border-border my-7 rounded-xl border p-5 sm:p-6"
+      aria-label="优惠要点"
+    >
+      <p class="text-accent text-sm font-medium">优惠要点</p>
+      <p class="mt-3 text-lg leading-8 font-semibold">{benefit}</p>
+      <p class="text-muted-foreground mt-3 text-sm leading-7">
+        <strong class="text-foreground">费用：</strong>
+        {cost}
+      </p>
+      <div class="mt-5 flex flex-wrap items-center gap-4">
+        {claimUrl ? (
+          <a
+            href={claimUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="bg-accent text-accent-foreground rounded-lg px-5 py-3 text-sm font-medium"
+          >
+            前往官方入口 ↗
+          </a>
+        ) : (
+          <a href="#article" class="text-accent underline underline-offset-4">
+            查看领取步骤 ↓
+          </a>
+        )}
+        <a
+          href="/deals/"
+          class="text-accent text-sm underline underline-offset-4"
+        >
+          更多优惠 →
+        </a>
+      </div>
+    </section>
+  )
+}

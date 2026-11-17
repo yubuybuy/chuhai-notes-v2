@@ -1,0 +1,53 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import DealCard from "@/components/DealCard.astro";
+import { getDeals, dealToPost } from "@/lib/content";
+import config from "@/config";
+
+const deals = (await getDeals()).map(dealToPost);
+---
+
+<Layout
+  title={`优惠速览 | ${config.site.title}`}
+  description="整理 AI 工具、数字服务与游戏优惠，一次看清福利、成本和领取步骤。"
+>
+  <Header />
+  <main id="main-content" class="app-layout py-10">
+    <a href="/" class="text-accent text-sm underline underline-offset-4">首页</a
+    >
+    <h1 class="mt-6 text-3xl font-bold">优惠速览</h1>
+    <p class="text-muted-foreground mt-4 leading-8">
+      免费额度、限时活动与新用户福利。先看适用条件，再按步骤领取。
+    </p>
+    {
+      deals.length > 0 ? (
+        <>
+          <p class="text-muted-foreground mt-6 text-sm">
+            共 {deals.length} 条优惠
+          </p>
+          <ul class="mt-4 grid gap-5">
+            {deals.map(post => (
+              <DealCard {post} />
+            ))}
+          </ul>
+        </>
+      ) : (
+        <div class="border-border mt-8 rounded-xl border p-6">
+          <h2 class="text-lg font-semibold">新的优惠正在整理中</h2>
+          <p class="text-muted-foreground mt-3 leading-7">
+            先看看工具选择与使用笔记，找到适合自己的服务。
+          </p>
+          <a
+            href="/blog/"
+            class="text-accent mt-4 inline-block underline underline-offset-4"
+          >
+            浏览全部文章 →
+          </a>
+        </div>
+      )
+    }
+  </main>
+  <Footer />
+</Layout>

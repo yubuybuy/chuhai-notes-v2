@@ -1,0 +1,2543 @@
+[
+  {
+    "_type": "deal",
+    "_id": "imported-epic-gmh-good-morning-human",
+    "title": "Epic Games《GMH - Good Morning Human》限免领取",
+    "slug": {
+      "_type": "slug",
+      "current": "epic-gmh-good-morning-human"
+    },
+    "description": "Epic Games Store 厂商限免游戏《GMH - Good Morning Human》，免费领取后入库永久保留，多家追踪站称原价 $9.99，截止约 11 月 8 日。",
+    "audience": "未确认，需 Epic Games 账号；地区限制未确认",
+    "benefit": "Epic Games《GMH - Good Morning Human》限免领取",
+    "cost": "",
+    "conditions": "",
+    "expiresAt": null,
+    "claimUrl": null,
+    "verification": null,
+    "dealStatus": "blocked",
+    "dealValidUntil": null,
+    "dealRecord": {
+      "id": "epic-gmh-good-morning-human",
+      "checkedAt": null,
+      "deadlineStatus": null,
+      "expiryNote": null,
+      "steps": [],
+      "evidence": [],
+      "sources": []
+    },
+    "unknowns": [],
+    "tags": [
+      "游戏",
+      "Epic",
+      "限免"
+    ],
+    "pubDatetime": "2026-11-07T15:20:25.000Z",
+    "modDatetime": "2026-11-09T02:05:00.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "blockquote",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f2dc0e9b79aa",
+            "text": "时效说明：本篇是限时福利，发布于 2026-11-07；多家追踪站称活动截至 2026-11-08，2026-11-09 核查时已过截止日。晚看到请以 Epic Games Store 商品页实时状态为准，过期即领不到。",
+            "marks": []
+          }
+        ],
+        "_key": "a493939a93ba",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9bb4cf699a3e",
+            "text": "一眼看清",
+            "marks": []
+          }
+        ],
+        "_key": "fa2062dacce9",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "bfbc578f72df",
+            "text": "能获得什么：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "a52cc3767c88",
+            "text": " 免费领取游戏，入库后永久保留；原价多家追踪站写 $9.99，另有一家写 $10.99",
+            "marks": []
+          }
+        ],
+        "_key": "ae3557c32995",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a26764fce53d",
+            "text": "实际费用：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "786fb5e8ff14",
+            "text": " 免费（$0）；需 Epic Games 账号",
+            "marks": []
+          }
+        ],
+        "_key": "dadb7d6134e2",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "58079b0895a0",
+            "text": "适用人群：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "ec0b2e4ea094",
+            "text": " 未确认，需 Epic Games 账号；地区限制未确认",
+            "marks": []
+          }
+        ],
+        "_key": "c10787062c61",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3e492346fbf6",
+            "text": "截止时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "a4cb2aa9d59b",
+            "text": " 多家追踪站称截至 2026-11-08（有写 11 月 8 日 12:30 CT，有写 11 月 9 日 08:00 JST，即 11 月 8 日 23:00 UTC），口径不一致且未核对官方商店页；2026-11-09 核查时已过上述截止日，按追踪站口径活动已结束",
+            "marks": []
+          }
+        ],
+        "_key": "0222af495cca",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d33994f3941a",
+            "text": "核对时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "fe0348c6960f",
+            "text": " 2026-11-07T15:20:25Z",
+            "marks": []
+          }
+        ],
+        "_key": "2051fa0399c1",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "23c55d8ac5a8",
+            "text": "核对情况：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "e15c89a2fae9",
+            "text": " 候选信息，尚未核对官方活动规则。",
+            "marks": []
+          }
+        ],
+        "_key": "1e9189912e1e",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0784e411f392",
+            "text": "领取条件",
+            "marks": []
+          }
+        ],
+        "_key": "995780275762",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4794e6e42e00",
+            "text": "需在 Epic Games Store 完成免费领取；限免为厂商限免，非每周轮换",
+            "marks": []
+          }
+        ],
+        "_key": "f8f933e95dcc",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "10ff99f73818",
+            "text": "领取入口与步骤",
+            "marks": []
+          }
+        ],
+        "_key": "e1a2e7d43319",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "270d902c80b8",
+            "text": "官方领取入口尚未确认。",
+            "marks": []
+          }
+        ],
+        "_key": "0c00c81c7bab",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "34742f59b884",
+            "text": "登录 Epic Games 账号",
+            "marks": []
+          }
+        ],
+        "_key": "daf0f270aa5c",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "6230ebf4d490",
+            "text": "在 Epic Games Store 找到《GMH - Good Morning Human》商品页",
+            "marks": []
+          }
+        ],
+        "_key": "76acc2ca0184",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a3b826bbd09c",
+            "text": "点击领取并完成免费结账",
+            "marks": []
+          }
+        ],
+        "_key": "4484db82154d",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4fd07fee6766",
+            "text": "尚未确认",
+            "marks": []
+          }
+        ],
+        "_key": "4548c8d1494f",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8355ce50f651",
+            "text": "官方商店商品页未核对",
+            "marks": []
+          }
+        ],
+        "_key": "13c6d98b7a51",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "c9e541d1f2f4",
+            "text": "完整截止时间未确认",
+            "marks": []
+          }
+        ],
+        "_key": "e80dfc949390",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2e0affaf62c0",
+            "text": "原价口径不一致（$9.99 与 $10.99）",
+            "marks": []
+          }
+        ],
+        "_key": "ab8315f66aa8",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a9a6dddc934d",
+            "text": "地区限制未确认",
+            "marks": []
+          }
+        ],
+        "_key": "d417a998e734",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b3fcb5e40a7a",
+            "text": "原帖正文未提供领取链接与截止时间",
+            "marks": []
+          }
+        ],
+        "_key": "4c6fa964f0e4",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "70b27f00b334",
+            "text": "来源",
+            "marks": []
+          }
+        ],
+        "_key": "836b75a1dd01",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "92d212ec536a",
+            "text": "发现来源：",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "c5219044164a",
+            "text": "[EPIC 喜加一] 《GMH - Good Morning Human》厂商限免",
+            "marks": [
+              "6efb335be306"
+            ]
+          }
+        ],
+        "_key": "c35989ae63e9",
+        "markDefs": [
+          {
+            "_key": "6efb335be306",
+            "_type": "link",
+            "href": "https://linux.do/t/topic/3133559"
+          }
+        ],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "02e3efbadc40",
+            "text": "第三方参考：",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "6fe61369138c",
+            "text": "Free Games This Week (Epic, Steam, GOG, Prime)",
+            "marks": [
+              "9211eb105a75"
+            ]
+          }
+        ],
+        "_key": "5330c14939d5",
+        "markDefs": [
+          {
+            "_key": "9211eb105a75",
+            "_type": "link",
+            "href": "https://freegg.gg/free-games-this-week/"
+          }
+        ],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9564cfb0aa37",
+            "text": "第三方参考：",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "4711ccbdd72b",
+            "text": "One more FREE game from Epic Games? Good Morning Human is yours to keep!",
+            "marks": [
+              "80265d948871"
+            ]
+          }
+        ],
+        "_key": "82dfaf042da8",
+        "markDefs": [
+          {
+            "_key": "80265d948871",
+            "_type": "link",
+            "href": "https://gg.deals/deal/one-more-free-game-from-epic-games-good-morning-human-is-yours-to-keep/"
+          }
+        ],
+        "listItem": "bullet",
+        "level": 1
+      }
+    ],
+    "bodyMarkdown": "<!-- 自动导入的候选草稿。字段校验不等于事实核实，当前不会自动公开发布。 -->\n\n> 时效说明：本篇是限时福利，发布于 2026-11-07；多家追踪站称活动截至 2026-11-08，2026-11-09 核查时已过截止日。晚看到请以 Epic Games Store 商品页实时状态为准，过期即领不到。\n\n## 一眼看清\n\n- **能获得什么：** 免费领取游戏，入库后永久保留；原价多家追踪站写 $9.99，另有一家写 $10.99\n- **实际费用：** 免费（$0）；需 Epic Games 账号\n- **适用人群：** 未确认，需 Epic Games 账号；地区限制未确认\n- **截止时间：** 多家追踪站称截至 2026-11-08（有写 11 月 8 日 12:30 CT，有写 11 月 9 日 08:00 JST，即 11 月 8 日 23:00 UTC），口径不一致且未核对官方商店页；2026-11-09 核查时已过上述截止日，按追踪站口径活动已结束\n- **核对时间：** 2026-11-07T15:20:25Z\n- **核对情况：** 候选信息，尚未核对官方活动规则。\n\n## 领取条件\n\n需在 Epic Games Store 完成免费领取；限免为厂商限免，非每周轮换\n\n## 领取入口与步骤\n\n官方领取入口尚未确认。\n\n1. 登录 Epic Games 账号\n2. 在 Epic Games Store 找到《GMH - Good Morning Human》商品页\n3. 点击领取并完成免费结账\n\n## 尚未确认\n\n- 官方商店商品页未核对\n- 完整截止时间未确认\n- 原价口径不一致（$9.99 与 $10.99）\n- 地区限制未确认\n- 原帖正文未提供领取链接与截止时间\n\n## 来源\n\n- 发现来源：[\\[EPIC 喜加一\\] 《GMH - Good Morning Human》厂商限免](<https://linux.do/t/topic/3133559>)\n- 第三方参考：[Free Games This Week \\(Epic, Steam, GOG, Prime\\)](<https://freegg.gg/free-games-this-week/>)\n- 第三方参考：[One more FREE game from Epic Games? Good Morning Human is yours to keep\\!](<https://gg.deals/deal/one-more-free-game-from-epic-games-good-morning-human-is-yours-to-keep/>)\n\n<!-- deal-import:v1 sha256:c24632f8cd2b3f5f1299f4f6dab73e09929c1052c08c496534f835162517aae6 -->",
+    "_migration": {
+      "source": "deals/epic-gmh-good-morning-human.md",
+      "fixes": [],
+      "url": "/blog/deals/epic-gmh-good-morning-human/"
+    }
+  },
+  {
+    "_type": "deal",
+    "_id": "imported-epic-knightica-free",
+    "title": "Epic 限免：Knightica 免费领，原价 $14.99",
+    "slug": {
+      "_type": "slug",
+      "current": "epic-knightica-free"
+    },
+    "description": "Epic Games Store 本周限免 Knightica，原价 $14.99，北京时间 2026-11-13 至 11-20 免费领取，领后永久入库。",
+    "audience": "需 Epic Games 账号；Windows PC",
+    "benefit": "Knightica，Windows PC 版，原价 $14.99，领后永久入库",
+    "cost": "免费（$0）；需 Epic Games 账号",
+    "conditions": "在 Epic Games Store 完成免费领取；领后永久保留",
+    "expiresAt": "2026-11-19T16:00:00.000Z",
+    "claimUrl": "https://store.epicgames.com/p/knightica-3be45c",
+    "verification": "official-page",
+    "dealStatus": "ready",
+    "dealValidUntil": "2026-11-19T16:00:00.000Z",
+    "dealRecord": {
+      "id": "epic-knightica-free",
+      "checkedAt": "2026-11-13T06:08:00.000Z",
+      "deadlineStatus": "confirmed",
+      "expiryNote": "北京时间 2026-11-20 00:00 截止（UTC 11 月 19 日 16:00）；Epic 商店商品页已核对",
+      "steps": [
+        "登录 Epic Games 账号",
+        "在 Epic Games Store 找到 Knightica 商品页",
+        "点获取，确认总价是 0，再下订单"
+      ],
+      "evidence": [
+        {
+          "field": "benefit",
+          "note": "商品页显示免费，原价 US$14.99 划线 -100%",
+          "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+        },
+        {
+          "field": "cost",
+          "note": "商品页显示免费，$0",
+          "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+        },
+        {
+          "field": "audience",
+          "note": "商品页正常展示，未见地区限制",
+          "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+        },
+        {
+          "field": "conditions",
+          "note": "商品页显示获取按钮",
+          "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+        },
+        {
+          "field": "deadline",
+          "note": "商品页写优惠截止于 2026/11/20 GMT+8 00:00",
+          "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+        },
+        {
+          "field": "claimUrl",
+          "note": "商品页地址即领取入口",
+          "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "discovery",
+          "title": "Epic 本周限免：Knightica 免费领",
+          "url": "https://linux.do/c/welfare/36/l/top"
+        },
+        {
+          "kind": "official",
+          "title": "Knightica",
+          "url": "https://store.epicgames.com/p/knightica-3be45c"
+        },
+        {
+          "kind": "secondary",
+          "title": "Epic free games for 12-19 November 2026 — GamerGuru",
+          "url": "https://gamerguru.net/pc-games/epic-games-store-free-games"
+        },
+        {
+          "kind": "secondary",
+          "title": "Free Epic Games This Week (November 2026) - CriticDB",
+          "url": "https://criticdb.com/epic-free-games"
+        },
+        {
+          "kind": "secondary",
+          "title": "本週 Epic Games Store 免費遊戲",
+          "url": "https://games.gg/zh-Hant/lists/free/epic-games/"
+        },
+        {
+          "kind": "secondary",
+          "title": "Free Games This Week: Epic, PS Plus, Prime Gaming and Steam",
+          "url": "https://gamingroute.com/free-games-this-week/"
+        },
+        {
+          "kind": "secondary",
+          "title": "Knightica: Claim This Free Fantasy Strategy Game Now",
+          "url": "https://www.trishtech.com/2026/11/knightica-claim-this-free-fantasy-strategy-game-now/"
+        }
+      ]
+    },
+    "unknowns": [],
+    "tags": [
+      "游戏",
+      "Epic",
+      "限免"
+    ],
+    "pubDatetime": "2026-11-12T16:40:00.000Z",
+    "modDatetime": "2026-11-13T06:08:00.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3ebe0afdf0a9",
+            "text": "Epic 每周四换限免，这周轮到 Knightica。原价 $14.99，北京时间 11 月 13 日 0 点到 11 月 20 日 0 点免费领，领了就永久留在库里，不下载也不会丢。",
+            "marks": []
+          }
+        ],
+        "_key": "61b53ccea88f",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "dff692baf443",
+            "text": "一眼看清",
+            "marks": []
+          }
+        ],
+        "_key": "3cef4ddf7dc7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "408b0693e350",
+            "text": "能获得什么：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "0c4393b93405",
+            "text": " Knightica，Windows PC 版，原价 $14.99，领后永久入库",
+            "marks": []
+          }
+        ],
+        "_key": "d313f0f174d3",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ca08d34e4425",
+            "text": "实际费用：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "c746c1f43246",
+            "text": " 免费（$0）；需 Epic Games 账号",
+            "marks": []
+          }
+        ],
+        "_key": "f58adf35f88c",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "40ad0445410f",
+            "text": "适用人群：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "b7d880e58af9",
+            "text": " 需 Epic Games 账号；Windows PC",
+            "marks": []
+          }
+        ],
+        "_key": "d5e57e8acc5b",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "cd11e2c346c7",
+            "text": "截止时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "febc3874d773",
+            "text": " 北京时间 2026-11-20 00:00（UTC 11 月 19 日 16:00）",
+            "marks": []
+          }
+        ],
+        "_key": "64c0d6988a29",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "779488ff74f8",
+            "text": "核对时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "a6e25b27c91c",
+            "text": " 2026-11-13T06:08:00Z",
+            "marks": []
+          }
+        ],
+        "_key": "167da0a861fe",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d631a5a0be46",
+            "text": "核对情况：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "6a9dd3470dc2",
+            "text": " 已核对 Epic 商店商品页：显示免费，原价 US$14.99 划线 -100%，优惠截止于 2026/11/20 GMT+8 00:00，未见地区限制。",
+            "marks": []
+          }
+        ],
+        "_key": "60bb842083e6",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "6b78d9c6c39b",
+            "text": "领取步骤",
+            "marks": []
+          }
+        ],
+        "_key": "210b649ed70a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "7e2ea8192cf0",
+            "text": "官方领取入口",
+            "marks": [
+              "541af651ef51"
+            ]
+          }
+        ],
+        "_key": "450dd048850d",
+        "markDefs": [
+          {
+            "_key": "541af651ef51",
+            "_type": "link",
+            "href": "https://store.epicgames.com/p/knightica-3be45c"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ce55cef87887",
+            "text": "登录 Epic Games 账号",
+            "marks": []
+          }
+        ],
+        "_key": "cca33e9ad775",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "14a8b27e51f7",
+            "text": "在 Epic Games Store 找到 Knightica 商品页",
+            "marks": []
+          }
+        ],
+        "_key": "d7e91fdf7d30",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "704bb14855c4",
+            "text": "点获取，确认总价是 0，再下订单",
+            "marks": []
+          }
+        ],
+        "_key": "4dff91ef154d",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "86616c39af0b",
+            "text": "过期就回原价，想玩只能等下次打折。",
+            "marks": []
+          }
+        ],
+        "_key": "2b3704e94ce9",
+        "markDefs": []
+      }
+    ],
+    "bodyMarkdown": "Epic 每周四换限免，这周轮到 Knightica。原价 $14.99，北京时间 11 月 13 日 0 点到 11 月 20 日 0 点免费领，领了就永久留在库里，不下载也不会丢。\n\n## 一眼看清\n\n- **能获得什么：** Knightica，Windows PC 版，原价 $14.99，领后永久入库\n- **实际费用：** 免费（$0）；需 Epic Games 账号\n- **适用人群：** 需 Epic Games 账号；Windows PC\n- **截止时间：** 北京时间 2026-11-20 00:00（UTC 11 月 19 日 16:00）\n- **核对时间：** 2026-11-13T06:08:00Z\n- **核对情况：** 已核对 Epic 商店商品页：显示免费，原价 US$14.99 划线 -100%，优惠截止于 2026/11/20 GMT+8 00:00，未见地区限制。\n\n## 领取步骤\n\n[官方领取入口](<https://store.epicgames.com/p/knightica-3be45c>)\n\n1. 登录 Epic Games 账号\n2. 在 Epic Games Store 找到 Knightica 商品页\n3. 点获取，确认总价是 0，再下订单\n\n过期就回原价，想玩只能等下次打折。",
+    "_migration": {
+      "source": "deals/epic-knightica-free.md",
+      "fixes": [],
+      "url": "/blog/deals/epic-knightica-free/"
+    }
+  },
+  {
+    "_type": "deal",
+    "_id": "imported-migu-music-one-year",
+    "title": "咪咕音乐一年会员免费领",
+    "slug": {
+      "_type": "slug",
+      "current": "migu-music-one-year"
+    },
+    "description": "咪咕音乐一年天籁会员免费领，扫码填手机号、微信登录就能领，限新用户，我自己已经领到了。",
+    "audience": "限新用户，老会员领不了",
+    "benefit": "一年咪咕音乐天籁会员",
+    "cost": "免费；需手机号+微信登录",
+    "conditions": "扫码填手机号收验证码，微信登录领取；限新用户",
+    "expiresAt": null,
+    "claimUrl": null,
+    "verification": "unverified",
+    "dealStatus": "blocked",
+    "dealValidUntil": null,
+    "dealRecord": {
+      "id": "migu-music-one-year",
+      "checkedAt": "2026-11-13T06:08:00.000Z",
+      "deadlineStatus": "not-published",
+      "expiryNote": "官方未公布截止日",
+      "steps": [
+        "扫薛之谦应援棒上的二维码",
+        "填手机号收验证码",
+        "微信登录领取"
+      ],
+      "evidence": [],
+      "sources": [
+        {
+          "kind": "discovery",
+          "title": "免费领咪咕音乐会员年卡",
+          "url": "https://linux.do/t/topic/2992391"
+        },
+        {
+          "kind": "secondary",
+          "title": "How to get a year of Migu membership for free",
+          "url": "https://www.nodeloc.com/t/topic/117548"
+        }
+      ]
+    },
+    "unknowns": [
+      "官方活动页未找到，条款以实际领取为准",
+      "每天 17:00–23:00 的领取窗口未确认",
+      "闲鱼有人 10–40 元倒卖这个领取资格"
+    ],
+    "tags": [
+      "音乐",
+      "咪咕",
+      "会员"
+    ],
+    "pubDatetime": "2026-11-12T16:45:00.000Z",
+    "modDatetime": "2026-11-13T06:08:00.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8bca444ba2cb",
+            "text": "这个活动是真的，我自己已经领到了。一年天籁会员，扫码填手机号，微信登录就行。",
+            "marks": []
+          }
+        ],
+        "_key": "8348b5d9bd81",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8cd91438d7b8",
+            "text": "一眼看清",
+            "marks": []
+          }
+        ],
+        "_key": "7ddf475542f1",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0ff2e5b79dc0",
+            "text": "能获得什么：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "6579b95cd070",
+            "text": " 一年咪咕音乐天籁会员",
+            "marks": []
+          }
+        ],
+        "_key": "31a60567fb9a",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "7c975c124759",
+            "text": "实际费用：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "02d455602b01",
+            "text": " 免费；需手机号+微信登录",
+            "marks": []
+          }
+        ],
+        "_key": "0daf1b4ec0c9",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "32696891d5ce",
+            "text": "适用人群：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "a55dab914aee",
+            "text": " 限新用户，老会员领不了",
+            "marks": []
+          }
+        ],
+        "_key": "6f63f8f91a0b",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8543866180e6",
+            "text": "截止时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "b5248c1f9d38",
+            "text": " 官方未公布",
+            "marks": []
+          }
+        ],
+        "_key": "2fd576bbf891",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "00d833703265",
+            "text": "核对时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "854a14db5c15",
+            "text": " 2026-11-13T06:08:00Z",
+            "marks": []
+          }
+        ],
+        "_key": "3a0f837601c6",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "cf401acb1487",
+            "text": "核对情况：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "3af026fa34ea",
+            "text": " 我自己已经领到了；官方活动页未找到。",
+            "marks": []
+          }
+        ],
+        "_key": "11cfe243fa12",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ac0af8fda29d",
+            "text": "领取步骤",
+            "marks": []
+          }
+        ],
+        "_key": "41da3271e3f8",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "87dfe6599556",
+            "text": "扫薛之谦应援棒上的二维码",
+            "marks": []
+          }
+        ],
+        "_key": "c0536fe8dbc2",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "c43f32ee59a2",
+            "text": "填手机号收验证码",
+            "marks": []
+          }
+        ],
+        "_key": "5a4e95975f78",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "bff918e3c3b3",
+            "text": "微信登录领取",
+            "marks": []
+          }
+        ],
+        "_key": "caf03de8d95e",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "10618e16cdac",
+            "text": "注意别跟下载领 30 天那个混了，那是另一个。",
+            "marks": []
+          }
+        ],
+        "_key": "356aa54ef59e",
+        "markDefs": []
+      }
+    ],
+    "bodyMarkdown": "这个活动是真的，我自己已经领到了。一年天籁会员，扫码填手机号，微信登录就行。\n\n## 一眼看清\n\n- **能获得什么：** 一年咪咕音乐天籁会员\n- **实际费用：** 免费；需手机号+微信登录\n- **适用人群：** 限新用户，老会员领不了\n- **截止时间：** 官方未公布\n- **核对时间：** 2026-11-13T06:08:00Z\n- **核对情况：** 我自己已经领到了；官方活动页未找到。\n\n## 领取步骤\n\n1. 扫薛之谦应援棒上的二维码\n2. 填手机号收验证码\n3. 微信登录领取\n\n注意别跟下载领 30 天那个混了，那是另一个。",
+    "_migration": {
+      "source": "deals/migu-music-one-year.md",
+      "fixes": [],
+      "url": "/blog/deals/migu-music-one-year/"
+    }
+  },
+  {
+    "_type": "deal",
+    "_id": "imported-octopus-mobile-new-user-150",
+    "title": "手机八达通新用户：消费满 $100 返 $150 充值额",
+    "slug": {
+      "_type": "slug",
+      "current": "octopus-mobile-new-user-150"
+    },
+    "description": "香港手机八达通新客户推广，2026-11-05 至 2027-01-03 期间加入并完成一次 $100 或以上交易、登记推广，可赚 $150 八达通充值额，另可免费领一张自选卡面。",
+    "audience": "香港；推广期前从未加入手机八达通的新客户，首次为合资格装置加入全新合资格八达通；Android 版须加入 Google Wallet；不适用于透过旅客八达通 App 加入的八达通",
+    "benefit": "手机八达通新用户：消费满 $100 返 $150 充值额",
+    "cost": "",
+    "conditions": "",
+    "expiresAt": null,
+    "claimUrl": null,
+    "verification": null,
+    "dealStatus": "blocked",
+    "dealValidUntil": null,
+    "dealRecord": {
+      "id": "octopus-mobile-new-user-150",
+      "checkedAt": null,
+      "deadlineStatus": null,
+      "expiryNote": null,
+      "steps": [],
+      "evidence": [],
+      "sources": []
+    },
+    "unknowns": [],
+    "tags": [
+      "香港",
+      "八达通",
+      "新用户"
+    ],
+    "pubDatetime": "2026-11-07T15:20:25.000Z",
+    "modDatetime": "2026-11-07T15:20:25.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "5b708b2f53e8",
+            "text": "一眼看清",
+            "marks": []
+          }
+        ],
+        "_key": "955eaedad063",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a4eff2148bfd",
+            "text": "能获得什么：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "f4b0c2cdc8a1",
+            "text": " $150 八达通充值额，另加一张免费自选卡面",
+            "marks": []
+          }
+        ],
+        "_key": "b73fde6ce98b",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "bed962ea6fae",
+            "text": "实际费用：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "0764c8501715",
+            "text": " 需一次消费 $100 港币或以上；开卡费官方页面未写明",
+            "marks": []
+          }
+        ],
+        "_key": "12ecbd8c8d0b",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a31d912ee137",
+            "text": "适用人群：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "fbe73e447dc4",
+            "text": " 香港；推广期前从未加入手机八达通的新客户，首次为合资格装置加入全新合资格八达通；Android 版须加入 Google Wallet；不适用于透过旅客八达通 App 加入的八达通",
+            "marks": []
+          }
+        ],
+        "_key": "407ff33de734",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "695d7d8c21c0",
+            "text": "截止时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "5fafe896c4f5",
+            "text": " 未确认；官方写推广期至 2027-01-03，未给具体时刻与时区，故不补写完整截止时间；卡面领取截至 2027-01-10",
+            "marks": []
+          }
+        ],
+        "_key": "f2cacf9de587",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2285082747cb",
+            "text": "核对时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "59cb03d02258",
+            "text": " 2026-11-07T15:20:25Z",
+            "marks": []
+          }
+        ],
+        "_key": "ae1b4e793528",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e99ec4021a36",
+            "text": "核对情况：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "6b55a14aab58",
+            "text": " 记录附有官方页面依据；未实际完成领取，未知条件见下文。",
+            "marks": []
+          }
+        ],
+        "_key": "130623acf5ba",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a5399cfa6164",
+            "text": "领取条件",
+            "marks": []
+          }
+        ],
+        "_key": "8b9abfb7ba9b",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "1bc0935da018",
+            "text": "推广期内登记推广并完成一次 $100 或以上交易；奖赏于符合推广要求后 7 天后发放；数量有限，先到先得；卡面须于 2027-01-10 或之前在八达通 App 内领取",
+            "marks": []
+          }
+        ],
+        "_key": "e78fd2812c64",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "23d021ab6799",
+            "text": "领取入口与步骤",
+            "marks": []
+          }
+        ],
+        "_key": "ad9fc26acca7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "678025002f3f",
+            "text": "官方领取入口",
+            "marks": [
+              "6cf01c418f47"
+            ]
+          }
+        ],
+        "_key": "28173e03d8b5",
+        "markDefs": [
+          {
+            "_key": "6cf01c418f47",
+            "_type": "link",
+            "href": "https://www.octopuscards.com/onlineform/promotion/general/registration/sc/step1.jsp?promotionRegRefCode=202611MO"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "bf654d4a34ae",
+            "text": "加入或转移实体八达通至手机八达通",
+            "marks": []
+          }
+        ],
+        "_key": "bf09a140bab5",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f12b6d345881",
+            "text": "填妥推广登记表格",
+            "marks": []
+          }
+        ],
+        "_key": "07c4ffa86c54",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0f63fd1e6692",
+            "text": "以手机八达通作一次 $100 或以上消费交易",
+            "marks": []
+          }
+        ],
+        "_key": "a4021f3aa121",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "567ed8bc4f08",
+            "text": "开启八达通 App 通知功能领取奖赏",
+            "marks": []
+          }
+        ],
+        "_key": "e85b319f2d81",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "14c75b87e72b",
+            "text": "于 2027-01-10 或之前在卡面商店免费领取卡面",
+            "marks": []
+          }
+        ],
+        "_key": "a314c3c0bd52",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "804e48cf52e7",
+            "text": "尚未确认",
+            "marks": []
+          }
+        ],
+        "_key": "3d0d560edea4",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "730ac0e77ba2",
+            "text": "是否需要香港手机号注册，官方页面未写，原帖称需要",
+            "marks": []
+          }
+        ],
+        "_key": "97a5a5809c6f",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "12ebbd6260ba",
+            "text": "开卡费金额官方页面未写",
+            "marks": []
+          }
+        ],
+        "_key": "3b521c7302f5",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "68b16b8b1e3b",
+            "text": "奖赏名额是否已满未确认",
+            "marks": []
+          }
+        ],
+        "_key": "ad07324efd52",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "88cbd0ff2bd1",
+            "text": "是否需要实名认证未确认",
+            "marks": []
+          }
+        ],
+        "_key": "2ab4fd38623c",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8f86e258dbe2",
+            "text": "来源",
+            "marks": []
+          }
+        ],
+        "_key": "a5d715e492cd",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b6ee39427026",
+            "text": "发现来源：",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "c12a4899bc11",
+            "text": "11月八达通新用户羊毛消费100返150",
+            "marks": [
+              "9850dcd7b0ae"
+            ]
+          }
+        ],
+        "_key": "1d8c9c5de582",
+        "markDefs": [
+          {
+            "_key": "9850dcd7b0ae",
+            "_type": "link",
+            "href": "https://linux.do/t/topic/3134715"
+          }
+        ],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "6512c5e187f4",
+            "text": "官方依据：",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "b53b10bc4802",
+            "text": "新客户加入手机八达通可赚$150及自选卡面！",
+            "marks": [
+              "75f498139594"
+            ]
+          }
+        ],
+        "_key": "070f9621e6d1",
+        "markDefs": [
+          {
+            "_key": "75f498139594",
+            "_type": "link",
+            "href": "https://www.octopuscards.com/onlineform/promotion/general/registration/sc/step1.jsp?promotionRegRefCode=202611MO"
+          }
+        ],
+        "listItem": "bullet",
+        "level": 1
+      }
+    ],
+    "bodyMarkdown": "<!-- 自动导入的候选草稿。字段校验不等于事实核实，当前不会自动公开发布。 -->\n\n## 一眼看清\n\n- **能获得什么：** $150 八达通充值额，另加一张免费自选卡面\n- **实际费用：** 需一次消费 $100 港币或以上；开卡费官方页面未写明\n- **适用人群：** 香港；推广期前从未加入手机八达通的新客户，首次为合资格装置加入全新合资格八达通；Android 版须加入 Google Wallet；不适用于透过旅客八达通 App 加入的八达通\n- **截止时间：** 未确认；官方写推广期至 2027-01-03，未给具体时刻与时区，故不补写完整截止时间；卡面领取截至 2027-01-10\n- **核对时间：** 2026-11-07T15:20:25Z\n- **核对情况：** 记录附有官方页面依据；未实际完成领取，未知条件见下文。\n\n## 领取条件\n\n推广期内登记推广并完成一次 $100 或以上交易；奖赏于符合推广要求后 7 天后发放；数量有限，先到先得；卡面须于 2027-01-10 或之前在八达通 App 内领取\n\n## 领取入口与步骤\n\n[官方领取入口](<https://www.octopuscards.com/onlineform/promotion/general/registration/sc/step1.jsp?promotionRegRefCode=202611MO>)\n\n1. 加入或转移实体八达通至手机八达通\n2. 填妥推广登记表格\n3. 以手机八达通作一次 $100 或以上消费交易\n4. 开启八达通 App 通知功能领取奖赏\n5. 于 2027-01-10 或之前在卡面商店免费领取卡面\n\n## 尚未确认\n\n- 是否需要香港手机号注册，官方页面未写，原帖称需要\n- 开卡费金额官方页面未写\n- 奖赏名额是否已满未确认\n- 是否需要实名认证未确认\n\n## 来源\n\n- 发现来源：[11月八达通新用户羊毛消费100返150](<https://linux.do/t/topic/3134715>)\n- 官方依据：[新客户加入手机八达通可赚$150及自选卡面！](<https://www.octopuscards.com/onlineform/promotion/general/registration/sc/step1.jsp?promotionRegRefCode=202611MO>)\n\n<!-- deal-import:v1 sha256:156c07f9ce8add29f9d86e920d480d294fcb73292c85911bd397bd75beec01da -->",
+    "_migration": {
+      "source": "deals/octopus-mobile-new-user-150.md",
+      "fixes": [],
+      "url": "/blog/deals/octopus-mobile-new-user-150/"
+    }
+  },
+  {
+    "_type": "deal",
+    "_id": "imported-openrouter-ernie-5-5-flash-preview-free",
+    "title": "OpenRouter 免费模型：百度 ERNIE-5.5-Flash-Preview，$0、1M 上下文",
+    "slug": {
+      "_type": "slug",
+      "current": "openrouter-ernie-5-5-flash-preview-free"
+    },
+    "description": "百度 ERNIE-5.5-Flash-Preview 在 OpenRouter 上免费调用，输入输出都是 $0，上下文 1M，模型号 baidu/ernie-5.5-flash-preview:free。",
+    "audience": "需 OpenRouter 账号；会调 API 用",
+    "benefit": "ERNIE-5.5-Flash-Preview，输入输出 $0，上下文 1,024,000 tokens",
+    "cost": "免费（$0）；需 OpenRouter 账号",
+    "conditions": "注册 OpenRouter 账号、建一把 API key，模型号填 baidu/ernie-5.5-flash-preview:free；免费档有限速",
+    "expiresAt": null,
+    "claimUrl": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
+    "verification": "official-page",
+    "dealStatus": "ready",
+    "dealValidUntil": null,
+    "dealRecord": {
+      "id": "openrouter-ernie-5-5-flash-preview-free",
+      "checkedAt": "2026-11-14T02:40:00.000Z",
+      "deadlineStatus": "not-published",
+      "expiryNote": "官方未写截止日",
+      "steps": [
+        "注册 OpenRouter 账号",
+        "建一把 API key",
+        "把客户端接到 https://openrouter.ai/api/v1",
+        "模型填 baidu/ernie-5.5-flash-preview:free"
+      ],
+      "evidence": [
+        {
+          "field": "benefit",
+          "note": "官方模型页显示免费，上下文 1.0M，2026-11-10 上线",
+          "sourceUrl": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free"
+        },
+        {
+          "field": "cost",
+          "note": "官方模型页写明价格是 0，输入输出都不收费",
+          "sourceUrl": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free"
+        },
+        {
+          "field": "conditions",
+          "note": "官方页写明免费端点有限速，超了按限速文档处理",
+          "sourceUrl": "https://openrouter.ai/docs/use-cases/limits"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "title": "ERNIE-5.5-Flash-Preview (free)",
+          "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free"
+        },
+        {
+          "kind": "official",
+          "title": "API Credit & Rate Limits",
+          "url": "https://openrouter.ai/docs/use-cases/limits"
+        }
+      ]
+    },
+    "unknowns": [
+      "免费档每分钟、每天的具体次数，官方限速页的表格在这次打开时没读出来",
+      "我没实际调过这个模型，只对了官方页"
+    ],
+    "tags": [
+      "AI 工具",
+      "免费额度",
+      "OpenRouter"
+    ],
+    "pubDatetime": "2026-11-14T02:40:00.000Z",
+    "modDatetime": "2026-11-14T02:40:00.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "fda6634f000e",
+            "text": "百度这个新模型 11 月 10 日才上 OpenRouter，免费，上下文 1M。我对着官方页看了一遍，输入输出都是 $0，拿来跑代码、读长文档都够用了。",
+            "marks": []
+          }
+        ],
+        "_key": "30c31de97a48",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3cebf789595b",
+            "text": "一眼看清",
+            "marks": []
+          }
+        ],
+        "_key": "9ceff16dd09d",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f629cc262eb2",
+            "text": "能获得什么：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "b8436f43dcaf",
+            "text": " ERNIE-5.5-Flash-Preview，输入输出 $0，上下文 1,024,000 tokens",
+            "marks": []
+          }
+        ],
+        "_key": "79e644836903",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d4d0041255ec",
+            "text": "实际费用：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "688878c9c318",
+            "text": " 免费（$0）；需 OpenRouter 账号",
+            "marks": []
+          }
+        ],
+        "_key": "9ca23ef8cdbd",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "1bbfd15fd98f",
+            "text": "适用人群：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "e67039f366e1",
+            "text": " 需 OpenRouter 账号；会调 API 用",
+            "marks": []
+          }
+        ],
+        "_key": "8f7c240f2982",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f819f7e7b559",
+            "text": "截止时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "49a813f95b43",
+            "text": " 官方未写",
+            "marks": []
+          }
+        ],
+        "_key": "a077fbbe597b",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f44de34eecd7",
+            "text": "核对时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "2fcbb6a59313",
+            "text": " 2026-11-14T02:40:00Z",
+            "marks": []
+          }
+        ],
+        "_key": "61c77d62e6a4",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9ffa1d0f9bc9",
+            "text": "核对情况：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "1956f3d9c973",
+            "text": " 已核对 OpenRouter 官方模型页：显示免费，上下文 1.0M，2026-11-10 上线，由百度 Qianfan 提供。",
+            "marks": []
+          }
+        ],
+        "_key": "1e706716645e",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "6157b02f5639",
+            "text": "领取步骤",
+            "marks": []
+          }
+        ],
+        "_key": "18f27327558d",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a993ef97270a",
+            "text": "官方模型页",
+            "marks": [
+              "4f6d787042d3"
+            ]
+          }
+        ],
+        "_key": "902e320bf2c2",
+        "markDefs": [
+          {
+            "_key": "4f6d787042d3",
+            "_type": "link",
+            "href": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "82811ab22152",
+            "text": "注册 OpenRouter 账号",
+            "marks": []
+          }
+        ],
+        "_key": "5e2e84111ac8",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e2247727e219",
+            "text": "建一把 API key",
+            "marks": []
+          }
+        ],
+        "_key": "a9f394fa979e",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "07f276cb3621",
+            "text": "把客户端接到 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "1dbaad7ac32a",
+            "text": "https://openrouter.ai/api/v1",
+            "marks": [
+              "c5a50799982d"
+            ]
+          }
+        ],
+        "_key": "4746b1d9ead4",
+        "markDefs": [
+          {
+            "_key": "c5a50799982d",
+            "_type": "link",
+            "href": "https://openrouter.ai/api/v1"
+          }
+        ],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3ebd2adad7d3",
+            "text": "模型填 baidu/ernie-5.5-flash-preview:free",
+            "marks": []
+          }
+        ],
+        "_key": "43ae2b84b724",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "679529bba800",
+            "text": "免费档有限速，请求太密会报 429，等一等再试。模型名里的 :free 别漏了，漏了就不是免费那个。",
+            "marks": []
+          }
+        ],
+        "_key": "b664249b698d",
+        "markDefs": []
+      }
+    ],
+    "bodyMarkdown": "百度这个新模型 11 月 10 日才上 OpenRouter，免费，上下文 1M。我对着官方页看了一遍，输入输出都是 $0，拿来跑代码、读长文档都够用了。\n\n## 一眼看清\n\n- **能获得什么：** ERNIE-5.5-Flash-Preview，输入输出 $0，上下文 1,024,000 tokens\n- **实际费用：** 免费（$0）；需 OpenRouter 账号\n- **适用人群：** 需 OpenRouter 账号；会调 API 用\n- **截止时间：** 官方未写\n- **核对时间：** 2026-11-14T02:40:00Z\n- **核对情况：** 已核对 OpenRouter 官方模型页：显示免费，上下文 1.0M，2026-11-10 上线，由百度 Qianfan 提供。\n\n## 领取步骤\n\n[官方模型页](<https://openrouter.ai/baidu/ernie-5.5-flash-preview:free>)\n\n1. 注册 OpenRouter 账号\n2. 建一把 API key\n3. 把客户端接到 https://openrouter.ai/api/v1\n4. 模型填 baidu/ernie-5.5-flash-preview:free\n\n免费档有限速，请求太密会报 429，等一等再试。模型名里的 :free 别漏了，漏了就不是免费那个。",
+    "_migration": {
+      "source": "deals/openrouter-ernie-5-5-flash-preview-free.md",
+      "fixes": [],
+      "url": "/blog/deals/openrouter-ernie-5-5-flash-preview-free/"
+    }
+  },
+  {
+    "_type": "deal",
+    "_id": "imported-perch-ai-starter",
+    "title": "Perch AI Starter 免费方案：每月 20,000 PT，约合 $20 用量",
+    "slug": {
+      "_type": "slug",
+      "current": "perch-ai-starter"
+    },
+    "description": "Perch AI 免费 Starter 方案，每月含 20,000 PT，不需要信用卡，可在 Web、桌面版和 CLI 使用轮替的前沿模型。",
+    "audience": "需注册 Perch 账号；地区限制未确认",
+    "benefit": "Perch AI Starter 免费方案：每月 20,000 PT，约合 $20 用量",
+    "cost": "",
+    "conditions": "",
+    "expiresAt": null,
+    "claimUrl": null,
+    "verification": null,
+    "dealStatus": "blocked",
+    "dealValidUntil": null,
+    "dealRecord": {
+      "id": "perch-ai-starter",
+      "checkedAt": null,
+      "deadlineStatus": null,
+      "expiryNote": null,
+      "steps": [],
+      "evidence": [],
+      "sources": []
+    },
+    "unknowns": [],
+    "tags": [
+      "AI 工具",
+      "免费额度",
+      "Perch AI"
+    ],
+    "pubDatetime": "2026-11-07T15:20:25.000Z",
+    "modDatetime": "2026-11-07T15:20:25.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9f603d3acb0a",
+            "text": "一眼看清",
+            "marks": []
+          }
+        ],
+        "_key": "5493cc0a7f6c",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d6bf53a34cba",
+            "text": "能获得什么：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "d33a23cda530",
+            "text": " 每月 20,000 PT，官方称相当于 Starter Roost 模型池上最多价值 $20 的内含托管用量",
+            "marks": []
+          }
+        ],
+        "_key": "8436c5b97437",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2edea9d4641d",
+            "text": "实际费用：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "cdec8e7ca1b4",
+            "text": " 免费（$0），不需要信用卡",
+            "marks": []
+          }
+        ],
+        "_key": "cbe1dbcf8cf5",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "173708eee5e0",
+            "text": "适用人群：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "db8d1ea988e6",
+            "text": " 需注册 Perch 账号；地区限制未确认",
+            "marks": []
+          }
+        ],
+        "_key": "fdf9b41d25c3",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "c0f08954c6b8",
+            "text": "截止时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "2f9c22be1cd1",
+            "text": " 未确认；官方未写 Starter 免费方案的截止日，无截止日不等于永久有效；Qwen 3.8 Max 仅提供至 2026-11-20，与免费额度本身的期限不是同一回事",
+            "marks": []
+          }
+        ],
+        "_key": "0c7564d370f1",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a695bd3ceb8e",
+            "text": "核对时间：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "937a991ca69c",
+            "text": " 2026-11-07T15:20:25Z",
+            "marks": []
+          }
+        ],
+        "_key": "96316c90f539",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ebcc2f2fcb41",
+            "text": "核对情况：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "c1e64f4f0e1f",
+            "text": " 记录附有官方页面依据；未实际完成领取，未知条件见下文。",
+            "marks": []
+          }
+        ],
+        "_key": "727d731c4496",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b25afd6e6025",
+            "text": "领取条件",
+            "marks": []
+          }
+        ],
+        "_key": "6765cfc7f867",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "7be552c9a4e8",
+            "text": "用量按每个日历月依 UTC 时间重置；Starter 模型池轮替，依可用情况而定；不含直接 API 存取；免费活动可能成为衍生训练数据，可在设置中关闭 Starter Data Program",
+            "marks": []
+          }
+        ],
+        "_key": "58c0faff8f00",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2ac7e42f6808",
+            "text": "领取入口与步骤",
+            "marks": []
+          }
+        ],
+        "_key": "4453d71326ca",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "cadbc08bc4f8",
+            "text": "官方领取入口",
+            "marks": [
+              "4e3da7a47f05"
+            ]
+          }
+        ],
+        "_key": "a1d9532a62b9",
+        "markDefs": [
+          {
+            "_key": "4e3da7a47f05",
+            "_type": "link",
+            "href": "https://www.perchai.app/"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ef011dc9b07a",
+            "text": "在 chat.perchai.app 建立免费账号",
+            "marks": []
+          }
+        ],
+        "_key": "b893b2a491eb",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "78dcf204317b",
+            "text": "首次登录时选择 Starter 方案",
+            "marks": []
+          }
+        ],
+        "_key": "7967cdd7d2a8",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "74b38660df52",
+            "text": "在 Web、桌面版或 CLI 中使用，每月用量按日历月重置",
+            "marks": []
+          }
+        ],
+        "_key": "a9c7ae87683e",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2c80553c7894",
+            "text": "尚未确认",
+            "marks": []
+          }
+        ],
+        "_key": "b53301ce8b7e",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a35f4d2b7c34",
+            "text": "地区限制未确认",
+            "marks": []
+          }
+        ],
+        "_key": "932d6663159d",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "5607ac8fd0f9",
+            "text": "免费方案是否有长期保留承诺未确认",
+            "marks": []
+          }
+        ],
+        "_key": "c496f633627c",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "559463d2eee5",
+            "text": "周末额度加倍活动的具体规则未确认，原帖称以产品页为准，官方 FAQ 未写",
+            "marks": []
+          }
+        ],
+        "_key": "1f1c5880cf0d",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "732a29a72e52",
+            "text": "来源",
+            "marks": []
+          }
+        ],
+        "_key": "d866f4b7903d",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3a8e65e299c7",
+            "text": "发现来源：",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "7b2a38dc1afb",
+            "text": "Perch AI 每个月20刀免费额度。",
+            "marks": [
+              "1aae2a6b96ad"
+            ]
+          }
+        ],
+        "_key": "d12d8ce262ef",
+        "markDefs": [
+          {
+            "_key": "1aae2a6b96ad",
+            "_type": "link",
+            "href": "https://linux.do/t/topic/3137866"
+          }
+        ],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4ca6ff71fcb4",
+            "text": "官方依据：",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "f94ce241423b",
+            "text": "常見問題 | Perch AI",
+            "marks": [
+              "082bd9a990bc"
+            ]
+          }
+        ],
+        "_key": "58abbbcd525a",
+        "markDefs": [
+          {
+            "_key": "082bd9a990bc",
+            "_type": "link",
+            "href": "https://www.perchai.app/zh-tw/faq"
+          }
+        ],
+        "listItem": "bullet",
+        "level": 1
+      }
+    ],
+    "bodyMarkdown": "<!-- 自动导入的候选草稿。字段校验不等于事实核实，当前不会自动公开发布。 -->\n\n## 一眼看清\n\n- **能获得什么：** 每月 20,000 PT，官方称相当于 Starter Roost 模型池上最多价值 $20 的内含托管用量\n- **实际费用：** 免费（$0），不需要信用卡\n- **适用人群：** 需注册 Perch 账号；地区限制未确认\n- **截止时间：** 未确认；官方未写 Starter 免费方案的截止日，无截止日不等于永久有效；Qwen 3.8 Max 仅提供至 2026-11-20，与免费额度本身的期限不是同一回事\n- **核对时间：** 2026-11-07T15:20:25Z\n- **核对情况：** 记录附有官方页面依据；未实际完成领取，未知条件见下文。\n\n## 领取条件\n\n用量按每个日历月依 UTC 时间重置；Starter 模型池轮替，依可用情况而定；不含直接 API 存取；免费活动可能成为衍生训练数据，可在设置中关闭 Starter Data Program\n\n## 领取入口与步骤\n\n[官方领取入口](<https://www.perchai.app/>)\n\n1. 在 chat.perchai.app 建立免费账号\n2. 首次登录时选择 Starter 方案\n3. 在 Web、桌面版或 CLI 中使用，每月用量按日历月重置\n\n## 尚未确认\n\n- 地区限制未确认\n- 免费方案是否有长期保留承诺未确认\n- 周末额度加倍活动的具体规则未确认，原帖称以产品页为准，官方 FAQ 未写\n\n## 来源\n\n- 发现来源：[Perch AI 每个月20刀免费额度。](<https://linux.do/t/topic/3137866>)\n- 官方依据：[常見問題 \\| Perch AI](<https://www.perchai.app/zh-tw/faq>)\n\n<!-- deal-import:v1 sha256:9a3eda99b644d250e9fe90efda47f62252b50cdc51b457d67e015052702f5267 -->",
+    "_migration": {
+      "source": "deals/perch-ai-starter.md",
+      "fixes": [],
+      "url": "/blog/deals/perch-ai-starter/"
+    }
+  }
+]

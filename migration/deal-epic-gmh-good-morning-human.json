@@ -1,0 +1,518 @@
+{
+  "_type": "deal",
+  "_id": "imported-epic-gmh-good-morning-human",
+  "title": "Epic Games《GMH - Good Morning Human》限免领取",
+  "slug": {
+    "_type": "slug",
+    "current": "epic-gmh-good-morning-human"
+  },
+  "description": "Epic Games Store 厂商限免游戏《GMH - Good Morning Human》，免费领取后入库永久保留，多家追踪站称原价 $9.99，截止约 11 月 8 日。",
+  "audience": "未确认，需 Epic Games 账号；地区限制未确认",
+  "benefit": "Epic Games《GMH - Good Morning Human》限免领取",
+  "cost": "",
+  "conditions": "",
+  "expiresAt": null,
+  "claimUrl": null,
+  "verification": null,
+  "dealStatus": "blocked",
+  "dealValidUntil": null,
+  "dealRecord": {
+    "id": "epic-gmh-good-morning-human",
+    "checkedAt": null,
+    "deadlineStatus": null,
+    "expiryNote": null,
+    "steps": [],
+    "evidence": [],
+    "sources": []
+  },
+  "unknowns": [],
+  "tags": [
+    "游戏",
+    "Epic",
+    "限免"
+  ],
+  "pubDatetime": "2026-11-07T15:20:25.000Z",
+  "modDatetime": "2026-11-09T02:05:00.000Z",
+  "body": [
+    {
+      "_type": "block",
+      "style": "blockquote",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f2dc0e9b79aa",
+          "text": "时效说明：本篇是限时福利，发布于 2026-11-07；多家追踪站称活动截至 2026-11-08，2026-11-09 核查时已过截止日。晚看到请以 Epic Games Store 商品页实时状态为准，过期即领不到。",
+          "marks": []
+        }
+      ],
+      "_key": "a493939a93ba",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9bb4cf699a3e",
+          "text": "一眼看清",
+          "marks": []
+        }
+      ],
+      "_key": "fa2062dacce9",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bfbc578f72df",
+          "text": "能获得什么：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "a52cc3767c88",
+          "text": " 免费领取游戏，入库后永久保留；原价多家追踪站写 $9.99，另有一家写 $10.99",
+          "marks": []
+        }
+      ],
+      "_key": "ae3557c32995",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a26764fce53d",
+          "text": "实际费用：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "786fb5e8ff14",
+          "text": " 免费（$0）；需 Epic Games 账号",
+          "marks": []
+        }
+      ],
+      "_key": "dadb7d6134e2",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "58079b0895a0",
+          "text": "适用人群：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "ec0b2e4ea094",
+          "text": " 未确认，需 Epic Games 账号；地区限制未确认",
+          "marks": []
+        }
+      ],
+      "_key": "c10787062c61",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3e492346fbf6",
+          "text": "截止时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "a4cb2aa9d59b",
+          "text": " 多家追踪站称截至 2026-11-08（有写 11 月 8 日 12:30 CT，有写 11 月 9 日 08:00 JST，即 11 月 8 日 23:00 UTC），口径不一致且未核对官方商店页；2026-11-09 核查时已过上述截止日，按追踪站口径活动已结束",
+          "marks": []
+        }
+      ],
+      "_key": "0222af495cca",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d33994f3941a",
+          "text": "核对时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "fe0348c6960f",
+          "text": " 2026-11-07T15:20:25Z",
+          "marks": []
+        }
+      ],
+      "_key": "2051fa0399c1",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "23c55d8ac5a8",
+          "text": "核对情况：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "e15c89a2fae9",
+          "text": " 候选信息，尚未核对官方活动规则。",
+          "marks": []
+        }
+      ],
+      "_key": "1e9189912e1e",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0784e411f392",
+          "text": "领取条件",
+          "marks": []
+        }
+      ],
+      "_key": "995780275762",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4794e6e42e00",
+          "text": "需在 Epic Games Store 完成免费领取；限免为厂商限免，非每周轮换",
+          "marks": []
+        }
+      ],
+      "_key": "f8f933e95dcc",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "10ff99f73818",
+          "text": "领取入口与步骤",
+          "marks": []
+        }
+      ],
+      "_key": "e1a2e7d43319",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "270d902c80b8",
+          "text": "官方领取入口尚未确认。",
+          "marks": []
+        }
+      ],
+      "_key": "0c00c81c7bab",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "34742f59b884",
+          "text": "登录 Epic Games 账号",
+          "marks": []
+        }
+      ],
+      "_key": "daf0f270aa5c",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6230ebf4d490",
+          "text": "在 Epic Games Store 找到《GMH - Good Morning Human》商品页",
+          "marks": []
+        }
+      ],
+      "_key": "76acc2ca0184",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a3b826bbd09c",
+          "text": "点击领取并完成免费结账",
+          "marks": []
+        }
+      ],
+      "_key": "4484db82154d",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4fd07fee6766",
+          "text": "尚未确认",
+          "marks": []
+        }
+      ],
+      "_key": "4548c8d1494f",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8355ce50f651",
+          "text": "官方商店商品页未核对",
+          "marks": []
+        }
+      ],
+      "_key": "13c6d98b7a51",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c9e541d1f2f4",
+          "text": "完整截止时间未确认",
+          "marks": []
+        }
+      ],
+      "_key": "e80dfc949390",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2e0affaf62c0",
+          "text": "原价口径不一致（$9.99 与 $10.99）",
+          "marks": []
+        }
+      ],
+      "_key": "ab8315f66aa8",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a9a6dddc934d",
+          "text": "地区限制未确认",
+          "marks": []
+        }
+      ],
+      "_key": "d417a998e734",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b3fcb5e40a7a",
+          "text": "原帖正文未提供领取链接与截止时间",
+          "marks": []
+        }
+      ],
+      "_key": "4c6fa964f0e4",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "70b27f00b334",
+          "text": "来源",
+          "marks": []
+        }
+      ],
+      "_key": "836b75a1dd01",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "92d212ec536a",
+          "text": "发现来源：",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "c5219044164a",
+          "text": "[EPIC 喜加一] 《GMH - Good Morning Human》厂商限免",
+          "marks": [
+            "6efb335be306"
+          ]
+        }
+      ],
+      "_key": "c35989ae63e9",
+      "markDefs": [
+        {
+          "_key": "6efb335be306",
+          "_type": "link",
+          "href": "https://linux.do/t/topic/3133559"
+        }
+      ],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "02e3efbadc40",
+          "text": "第三方参考：",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "6fe61369138c",
+          "text": "Free Games This Week (Epic, Steam, GOG, Prime)",
+          "marks": [
+            "9211eb105a75"
+          ]
+        }
+      ],
+      "_key": "5330c14939d5",
+      "markDefs": [
+        {
+          "_key": "9211eb105a75",
+          "_type": "link",
+          "href": "https://freegg.gg/free-games-this-week/"
+        }
+      ],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9564cfb0aa37",
+          "text": "第三方参考：",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "4711ccbdd72b",
+          "text": "One more FREE game from Epic Games? Good Morning Human is yours to keep!",
+          "marks": [
+            "80265d948871"
+          ]
+        }
+      ],
+      "_key": "82dfaf042da8",
+      "markDefs": [
+        {
+          "_key": "80265d948871",
+          "_type": "link",
+          "href": "https://gg.deals/deal/one-more-free-game-from-epic-games-good-morning-human-is-yours-to-keep/"
+        }
+      ],
+      "listItem": "bullet",
+      "level": 1
+    }
+  ],
+  "bodyMarkdown": "<!-- 自动导入的候选草稿。字段校验不等于事实核实，当前不会自动公开发布。 -->\n\n> 时效说明：本篇是限时福利，发布于 2026-11-07；多家追踪站称活动截至 2026-11-08，2026-11-09 核查时已过截止日。晚看到请以 Epic Games Store 商品页实时状态为准，过期即领不到。\n\n## 一眼看清\n\n- **能获得什么：** 免费领取游戏，入库后永久保留；原价多家追踪站写 $9.99，另有一家写 $10.99\n- **实际费用：** 免费（$0）；需 Epic Games 账号\n- **适用人群：** 未确认，需 Epic Games 账号；地区限制未确认\n- **截止时间：** 多家追踪站称截至 2026-11-08（有写 11 月 8 日 12:30 CT，有写 11 月 9 日 08:00 JST，即 11 月 8 日 23:00 UTC），口径不一致且未核对官方商店页；2026-11-09 核查时已过上述截止日，按追踪站口径活动已结束\n- **核对时间：** 2026-11-07T15:20:25Z\n- **核对情况：** 候选信息，尚未核对官方活动规则。\n\n## 领取条件\n\n需在 Epic Games Store 完成免费领取；限免为厂商限免，非每周轮换\n\n## 领取入口与步骤\n\n官方领取入口尚未确认。\n\n1. 登录 Epic Games 账号\n2. 在 Epic Games Store 找到《GMH - Good Morning Human》商品页\n3. 点击领取并完成免费结账\n\n## 尚未确认\n\n- 官方商店商品页未核对\n- 完整截止时间未确认\n- 原价口径不一致（$9.99 与 $10.99）\n- 地区限制未确认\n- 原帖正文未提供领取链接与截止时间\n\n## 来源\n\n- 发现来源：[\\[EPIC 喜加一\\] 《GMH - Good Morning Human》厂商限免](<https://linux.do/t/topic/3133559>)\n- 第三方参考：[Free Games This Week \\(Epic, Steam, GOG, Prime\\)](<https://freegg.gg/free-games-this-week/>)\n- 第三方参考：[One more FREE game from Epic Games? Good Morning Human is yours to keep\\!](<https://gg.deals/deal/one-more-free-game-from-epic-games-good-morning-human-is-yours-to-keep/>)\n\n<!-- deal-import:v1 sha256:c24632f8cd2b3f5f1299f4f6dab73e09929c1052c08c496534f835162517aae6 -->",
+  "_migration": {
+    "source": "deals/epic-gmh-good-morning-human.md",
+    "fixes": [],
+    "url": "/blog/deals/epic-gmh-good-morning-human/"
+  }
+}

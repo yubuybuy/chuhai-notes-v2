@@ -1,0 +1,5330 @@
+[
+  {
+    "_type": "guide",
+    "_id": "imported-airport-recommendation",
+    "title": "机场怎么选：从流量、设备到试用的一份指南",
+    "slug": {
+      "_type": "slug",
+      "current": "airport-recommendation"
+    },
+    "description": "按使用场景估算流量，读懂设备与套餐限制，再用一周试用记录判断是否适合长期使用。",
+    "audience": "有合法网络访问需求，希望按自己的设备、流量和预算选择服务的用户。",
+    "tags": [
+      "机场",
+      "选购指南"
+    ],
+    "keywords": [
+      "机场选择",
+      "流量估算",
+      "套餐比较",
+      "试用记录"
+    ],
+    "featured": true,
+    "pubDatetime": "2026-11-05T23:00:00.000Z",
+    "modDatetime": "2026-11-09T00:50:00.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "1f98ebef2c0e",
+            "text": "选服务之前，先写下三件事：在哪些设备上使用、主要做什么、每月愿意花多少钱。有了这张需求单，套餐中的流量、设备数和线路描述才有比较的意义。",
+            "marks": []
+          }
+        ],
+        "_key": "e7b7533a88cc",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2b11b590777a",
+            "text": "这篇按购买顺序整理选择方法，方便你把候选服务放在同一套标准下比较。",
+            "marks": []
+          }
+        ],
+        "_key": "f3c21dcec837",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2c48e665055e",
+            "text": "第一步：把用途变成需求",
+            "marks": []
+          }
+        ],
+        "_key": "3d5ce6e2e5ff",
+        "markDefs": []
+      },
+      {
+        "_type": "tableBlock",
+        "header": [
+          "使用场景",
+          "优先考虑",
+          "试用时做什么"
+        ],
+        "rows": [
+          {
+            "_type": "tableRow",
+            "cells": [
+              "浏览网页、查资料、文字交流",
+              "日常可用性、设备兼容、操作是否省心",
+              "打开平时常用的网站，连续使用一段时间"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "观看视频、下载较大文件",
+              "月流量、实际吞吐、是否有倍率计费",
+              "用平时的画质播放，观察卡顿和流量消耗"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "会议与实时协作",
+              "延迟波动、掉线、长时间连接",
+              "完成一次实际会议或协作任务"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "手机、电脑等多设备切换",
+              "同时在线限制、配置导入方式",
+              "在两台常用设备间切换，检查是否互相挤下线"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4a6bd95c6c85",
+            "text": "一个人拥有四台设备，不一定需要四台同时在线。把“安装设备数”和“同时在线数”分开记录，能避免买到用不上的额度。",
+            "marks": []
+          }
+        ],
+        "_key": "bd25e12b6d44",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e9e25178527b",
+            "text": "第二步：估算流量，留出余量",
+            "marks": []
+          }
+        ],
+        "_key": "216f8489d99f",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b8fd9c2159ae",
+            "text": "最直接的方法是先记录一周实际用量，再换算成月度需求。如果这一周具有代表性，可以用下面的示例算法：",
+            "marks": []
+          }
+        ],
+        "_key": "c001e4aaa3d6",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "blockquote",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "33c7a1e1c759",
+            "text": "月度预算流量 ≈ 一周实际流量 × 4.3 × 1.2",
+            "marks": []
+          }
+        ],
+        "_key": "0e6e45b01e70",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "fcfd62c26465",
+            "text": "这里的 20% 是便于规划的示例余量，可以按自己的波动调整。假设一周用了 10 GB，估算结果约为 52 GB；这个数字只演示计算方法，不代表任何套餐或用户的真实用量。",
+            "marks": []
+          }
+        ],
+        "_key": "1fcb35237ac7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "c02fa4fc9ea3",
+            "text": "还要确认服务怎样计算流量：上传与下载是否都计入、不同节点是否有倍率、流量何时重置、剩余额度能否结转。比如 2 倍率节点产生 5 GB 的实际流量，若套餐按该倍率扣量，就会消耗 10 GB 额度。",
+            "marks": []
+          }
+        ],
+        "_key": "ac317bc7fda7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "87c83423d481",
+            "text": "视频和大型下载容易改变月度需求。若使用习惯变化很大，先选择较短周期，再根据账单里的实际消耗调整。",
+            "marks": []
+          }
+        ],
+        "_key": "e35697350066",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "03514502db50",
+            "text": "第三步：把套餐放进同一张表",
+            "marks": []
+          }
+        ],
+        "_key": "0cc534d6d535",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3a9532316365",
+            "text": "不要只抄一个“月费”。比较时至少整理以下字段：",
+            "marks": []
+          }
+        ],
+        "_key": "c680316f32df",
+        "markDefs": []
+      },
+      {
+        "_type": "tableBlock",
+        "header": [
+          "项目",
+          "应记录的信息",
+          "它影响什么"
+        ],
+        "rows": [
+          {
+            "_type": "tableRow",
+            "cells": [
+              "付款周期",
+              "月付、季付或年付；首期与续费分别多少",
+              "一次付款金额与长期成本"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "流量规则",
+              "每期额度、重置日期、倍率、超量处理",
+              "是否够用、是否会产生额外支出"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "设备限制",
+              "安装限制、同时连接限制、是否允许路由器",
+              "实际能否覆盖你的设备"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "客户端支持",
+              "官方文档支持的配置格式与操作系统",
+              "能否导入现有客户端"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "售后",
+              "退款窗口、用量门槛、申请渠道",
+              "试用不合适时的退出成本"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "服务范围",
+              "所需地区是否提供、维护通知在哪里查看",
+              "能否满足常用场景"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2303a7a1b4e5",
+            "text": "节点数量只是一项目录信息。同一地点的多个节点可能共享部分资源，名称中的地区也不能直接说明你到它的完整网络路径。最终应以自己常用网络下的实际体验来判断。",
+            "marks": []
+          }
+        ],
+        "_key": "f8decb2455be",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e1b7a0be2070",
+            "text": "第四步：用一周做有记录的试用",
+            "marks": []
+          }
+        ],
+        "_key": "23b27537408a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ffdf296917a3",
+            "text": "试用最好覆盖工作日、周末和常用时段。每次先完成真实任务，再做辅助测速；不要为了跑满速度而消耗大量套餐流量。",
+            "marks": []
+          }
+        ],
+        "_key": "b5d52703912a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "46efa680e6e1",
+            "text": "固定环境。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "06d1260e8c45",
+            "text": " 记下宽带或移动网络、设备系统、客户端版本和所选节点。",
+            "marks": []
+          }
+        ],
+        "_key": "413f470b42ec",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a41fc1cf69ca",
+            "text": "固定任务。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "b3368986ed02",
+            "text": " 例如打开同一组网页、参加一次通话、播放同样画质的视频。",
+            "marks": []
+          }
+        ],
+        "_key": "4b60fd336a47",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b5f0e73628e8",
+            "text": "记录异常。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "60f749d447a9",
+            "text": " 写清发生时间、持续多久、切换节点后是否恢复。",
+            "marks": []
+          }
+        ],
+        "_key": "1d12843c7f26",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8f3bdd2fed2d",
+            "text": "每次只改一项。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "42577497cd85",
+            "text": " 网络、节点和客户端同时更换，会很难判断哪一步起了作用。",
+            "marks": []
+          }
+        ],
+        "_key": "f6d1db0d640b",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "5f2adca02d2a",
+            "text": "在到期前决定。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "fab8fffcc559",
+            "text": " 根据一周记录选择续费、换套餐或停止使用。",
+            "marks": []
+          }
+        ],
+        "_key": "cec339b18a7f",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ef5cebcd15ab",
+            "text": "可直接复制这份记录：",
+            "marks": []
+          }
+        ],
+        "_key": "752db83193b4",
+        "markDefs": []
+      },
+      {
+        "_key": "bf7ed75d0c46",
+        "_type": "code",
+        "language": "text",
+        "code": "日期与时段：\n本地网络 / 设备 / 客户端版本：\n节点与模式：\n实际任务：\n是否完成 / 中断次数：\n消耗流量：\n异常与恢复方法："
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "afc58c0ea5a5",
+            "text": "第五步：把续费当作一次重新选择",
+            "marks": []
+          }
+        ],
+        "_key": "f919e2bae16f",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "45a577443cf8",
+            "text": "长期付款前，算一下平均月成本，也看一次付款需要承担多少金额。折扣再大，如果额度长期闲置，实际价值仍然有限。检查自动续费、取消方式与套餐变更规则，并保留订单和客服记录。",
+            "marks": []
+          }
+        ],
+        "_key": "057fcfd7b7c6",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f79599d4a27f",
+            "text": "如果只想省去自行维护服务器的工作，可重点看服务与客户端的配合；如果需要自己部署应用，应先阅读 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a11813a8dd26",
+            "text": "VPS 选择指南",
+            "marks": [
+              "0a305b3f8704"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "65681a4c54cf",
+            "text": "。不确定客户端和订阅是什么，可以从 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "58b1e0401751",
+            "text": "代理工具入门",
+            "marks": [
+              "08df0f72ed56"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "e0e4a079483d",
+            "text": " 开始。",
+            "marks": []
+          }
+        ],
+        "_key": "3fc29e76b3cf",
+        "markDefs": [
+          {
+            "_key": "0a305b3f8704",
+            "_type": "link",
+            "href": "/blog/vps-recommendation/"
+          },
+          {
+            "_key": "08df0f72ed56",
+            "_type": "link",
+            "href": "/blog/proxy-tools/"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "bdb35505d0f6",
+            "text": "常见问题",
+            "marks": []
+          }
+        ],
+        "_key": "44f1948c66a8",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e7da255e7421",
+            "text": "测速很快，为什么实际使用还是卡？",
+            "marks": []
+          }
+        ],
+        "_key": "5fc28e705c77",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "fa7cbe6c2dcc",
+            "text": "测速目标、应用服务器与当时的网络路径可能不同。单次吞吐测试也无法反映长时间使用中的断连、延迟波动或应用限制。把真实任务作为主要判断依据，测速只用来辅助定位。",
+            "marks": []
+          }
+        ],
+        "_key": "8c1bc99862ab",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "04cddeabdcd5",
+            "text": "有很多节点，就不用准备备用方式了吗？",
+            "marks": []
+          }
+        ],
+        "_key": "dde591c015f2",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "be41a1ebfcbb",
+            "text": "同一服务的节点可能同时受到账号、订阅或服务端故障影响。若有重要任务，应事先想好中断后如何继续，而不是把节点数量直接当作可靠性保证。",
+            "marks": []
+          }
+        ],
+        "_key": "04c099d55d0a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9dbb409c6dce",
+            "text": "应该先换服务，还是先换客户端？",
+            "marks": []
+          }
+        ],
+        "_key": "275593a02459",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "920ef45ab3e9",
+            "text": "先确认普通网络可用、账号和流量正常，再检查配置与客户端。一次只更换一个变量，可以减少重复购买。具体顺序见 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "ebe10221bb39",
+            "text": "工具排错路线",
+            "marks": [
+              "13fb4a2bc838"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "be0fd98bf88a",
+            "text": "。",
+            "marks": []
+          }
+        ],
+        "_key": "f9f65b63a16a",
+        "markDefs": [
+          {
+            "_key": "13fb4a2bc838",
+            "_type": "link",
+            "href": "/blog/proxy-tools/#%E8%BF%9E%E6%8E%A5%E4%B8%8D%E9%80%9A%E6%97%B6%E6%8C%89%E8%BF%99%E4%B8%AA%E9%A1%BA%E5%BA%8F%E6%A3%80%E6%9F%A5"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a371f8637f6e",
+            "text": "更新记录",
+            "marks": []
+          }
+        ],
+        "_key": "120b3631b6e8",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3ec2ef6933c1",
+            "text": "2026-11-09：补充需求对照、流量估算、套餐比较与一周试用方法。",
+            "marks": []
+          }
+        ],
+        "_key": "a1ee6174956b",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "1630442b9abf",
+            "text": "2026-11-06：建立文章与选择标准。",
+            "marks": []
+          }
+        ],
+        "_key": "b2d6bb7961b7",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      }
+    ],
+    "bodyMarkdown": "选服务之前，先写下三件事：在哪些设备上使用、主要做什么、每月愿意花多少钱。有了这张需求单，套餐中的流量、设备数和线路描述才有比较的意义。\n\n这篇按购买顺序整理选择方法，方便你把候选服务放在同一套标准下比较。\n\n## 第一步：把用途变成需求\n\n| 使用场景                   | 优先考虑                           | 试用时做什么                             |\n| -------------------------- | ---------------------------------- | ---------------------------------------- |\n| 浏览网页、查资料、文字交流 | 日常可用性、设备兼容、操作是否省心 | 打开平时常用的网站，连续使用一段时间     |\n| 观看视频、下载较大文件     | 月流量、实际吞吐、是否有倍率计费   | 用平时的画质播放，观察卡顿和流量消耗     |\n| 会议与实时协作             | 延迟波动、掉线、长时间连接         | 完成一次实际会议或协作任务               |\n| 手机、电脑等多设备切换     | 同时在线限制、配置导入方式         | 在两台常用设备间切换，检查是否互相挤下线 |\n\n一个人拥有四台设备，不一定需要四台同时在线。把“安装设备数”和“同时在线数”分开记录，能避免买到用不上的额度。\n\n## 第二步：估算流量，留出余量\n\n最直接的方法是先记录一周实际用量，再换算成月度需求。如果这一周具有代表性，可以用下面的示例算法：\n\n> 月度预算流量 ≈ 一周实际流量 × 4.3 × 1.2\n\n这里的 20% 是便于规划的示例余量，可以按自己的波动调整。假设一周用了 10 GB，估算结果约为 52 GB；这个数字只演示计算方法，不代表任何套餐或用户的真实用量。\n\n还要确认服务怎样计算流量：上传与下载是否都计入、不同节点是否有倍率、流量何时重置、剩余额度能否结转。比如 2 倍率节点产生 5 GB 的实际流量，若套餐按该倍率扣量，就会消耗 10 GB 额度。\n\n视频和大型下载容易改变月度需求。若使用习惯变化很大，先选择较短周期，再根据账单里的实际消耗调整。\n\n## 第三步：把套餐放进同一张表\n\n不要只抄一个“月费”。比较时至少整理以下字段：\n\n| 项目       | 应记录的信息                           | 它影响什么                   |\n| ---------- | -------------------------------------- | ---------------------------- |\n| 付款周期   | 月付、季付或年付；首期与续费分别多少   | 一次付款金额与长期成本       |\n| 流量规则   | 每期额度、重置日期、倍率、超量处理     | 是否够用、是否会产生额外支出 |\n| 设备限制   | 安装限制、同时连接限制、是否允许路由器 | 实际能否覆盖你的设备         |\n| 客户端支持 | 官方文档支持的配置格式与操作系统       | 能否导入现有客户端           |\n| 售后       | 退款窗口、用量门槛、申请渠道           | 试用不合适时的退出成本       |\n| 服务范围   | 所需地区是否提供、维护通知在哪里查看   | 能否满足常用场景             |\n\n节点数量只是一项目录信息。同一地点的多个节点可能共享部分资源，名称中的地区也不能直接说明你到它的完整网络路径。最终应以自己常用网络下的实际体验来判断。\n\n## 第四步：用一周做有记录的试用\n\n试用最好覆盖工作日、周末和常用时段。每次先完成真实任务，再做辅助测速；不要为了跑满速度而消耗大量套餐流量。\n\n1. **固定环境。** 记下宽带或移动网络、设备系统、客户端版本和所选节点。\n2. **固定任务。** 例如打开同一组网页、参加一次通话、播放同样画质的视频。\n3. **记录异常。** 写清发生时间、持续多久、切换节点后是否恢复。\n4. **每次只改一项。** 网络、节点和客户端同时更换，会很难判断哪一步起了作用。\n5. **在到期前决定。** 根据一周记录选择续费、换套餐或停止使用。\n\n可直接复制这份记录：\n\n```text\n日期与时段：\n本地网络 / 设备 / 客户端版本：\n节点与模式：\n实际任务：\n是否完成 / 中断次数：\n消耗流量：\n异常与恢复方法：\n```\n\n## 第五步：把续费当作一次重新选择\n\n长期付款前，算一下平均月成本，也看一次付款需要承担多少金额。折扣再大，如果额度长期闲置，实际价值仍然有限。检查自动续费、取消方式与套餐变更规则，并保留订单和客服记录。\n\n如果只想省去自行维护服务器的工作，可重点看服务与客户端的配合；如果需要自己部署应用，应先阅读 [VPS 选择指南](/blog/vps-recommendation/)。不确定客户端和订阅是什么，可以从 [代理工具入门](/blog/proxy-tools/) 开始。\n\n## 常见问题\n\n### 测速很快，为什么实际使用还是卡？\n\n测速目标、应用服务器与当时的网络路径可能不同。单次吞吐测试也无法反映长时间使用中的断连、延迟波动或应用限制。把真实任务作为主要判断依据，测速只用来辅助定位。\n\n### 有很多节点，就不用准备备用方式了吗？\n\n同一服务的节点可能同时受到账号、订阅或服务端故障影响。若有重要任务，应事先想好中断后如何继续，而不是把节点数量直接当作可靠性保证。\n\n### 应该先换服务，还是先换客户端？\n\n先确认普通网络可用、账号和流量正常，再检查配置与客户端。一次只更换一个变量，可以减少重复购买。具体顺序见 [工具排错路线](/blog/proxy-tools/#连接不通时按这个顺序检查)。\n\n## 更新记录\n\n- 2026-11-09：补充需求对照、流量估算、套餐比较与一周试用方法。\n- 2026-11-06：建立文章与选择标准。",
+    "_migration": {
+      "source": "airport-recommendation.md",
+      "fixes": [],
+      "url": "/blog/airport-recommendation/"
+    }
+  },
+  {
+    "_type": "guide",
+    "_id": "imported-hk-bank-card-guide",
+    "title": "香港银行卡开户指南",
+    "slug": {
+      "_type": "slug",
+      "current": "hk-bank-card-guide"
+    },
+    "description": "内地居民开香港银行卡：汇丰、中银香港、渣打、ZA Bank、livi、Mox 的材料、人在哪、费用和门槛，关键步骤以各银行官方页面为准。",
+    "audience": "在国内使用海外服务、想省钱，需要一张香港银行卡的内地居民。",
+    "tags": [
+      "香港银行卡",
+      "开户指南"
+    ],
+    "keywords": [
+      "香港银行卡",
+      "香港银行开户",
+      "汇丰 One 开户",
+      "中银香港开户",
+      "渣打开户",
+      "ZA Bank 开户",
+      "livi 开户",
+      "Mox 开户",
+      "内地见证开户"
+    ],
+    "featured": false,
+    "pubDatetime": "2026-11-11T03:30:00.000Z",
+    "modDatetime": "2026-11-11T06:12:00.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "033d30ce8f62",
+            "text": "我办港卡就一个原因：付海外服务、收点钱，内地卡总是不方便。办之前我以为随便找家银行、手机上点几下就行，查了一圈官网才发现没那么简单。最大的坑就两个：人在哪，和有没有香港身份证。",
+            "marks": []
+          }
+        ],
+        "_key": "2c1923a4fa8a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a56e2b0b5f87",
+            "text": "我把汇丰、中银香港、渣打、ZA Bank、livi、Mox 六家银行的官网都翻了一遍，下面写的都是对照官网一条条看过的。",
+            "marks": []
+          }
+        ],
+        "_key": "5f9064f9c825",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ea61f8e21c22",
+            "text": "先说结论。没有香港身份证、人还在内地，能先提交的只有汇丰：用往来港澳通行证在 HSBC HK App 申请，90 天内到香港用 App 启动，启动不用去分行。人已经在香港，汇丰、中银香港、ZA Bank、livi 都能用内地证件线上开。渣打手机开户和 Mox 的官网资格写的是香港身份证。一次香港都不去、想在内地办成的，只有一条：中银香港见证开户，但你得已经是中国银行或中银香港的理财或特选客户。",
+            "marks": []
+          }
+        ],
+        "_key": "7c9faf780787",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "33c361abe347",
+            "text": "准备",
+            "marks": []
+          }
+        ],
+        "_key": "350339405b7e",
+        "markDefs": []
+      },
+      {
+        "_type": "tableBlock",
+        "header": [
+          "准备项",
+          "要求"
+        ],
+        "rows": [
+          {
+            "_type": "tableRow",
+            "cells": [
+              "往来港澳通行证",
+              "汇丰通行证路线：有效期不少于 6 个月。中银香港 App：申请日起不少于 30 天。livi：剩余有效期至少 6 个月"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "内地居民身份证",
+              "中银香港 App：与通行证一起，申请日起不少于 30 天。ZA Bank：正本，开户日起不少于 30 天。livi：剩余有效期至少 6 个月"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "香港身份证",
+              "渣打手机开户要 2018 年版。Mox 要香港身份证（永久或非永久）。汇丰、中银香港另有香港身份证路线"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "出入境纪录",
+              "汇丰人在香港用通行证开户要上传。中银香港 App 要国家移民局出入境纪录，含申请日在内的最近 7 日内发出。ZA Bank 要国家移民管理局出入境证明。livi 写「如需要」"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "内地手机号",
+              "中银香港 App 要有效内地手机号。ZA Bank 要在香港能收短信、接电话，且与内地储蓄卡预留号一致。livi 要能收香港短信并接听电话"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "内地储蓄卡",
+              "ZA Bank 用来核对身份，预留手机号须与开户手机号相同"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "地址",
+              "中银香港 App 要内地地址和有效电邮。livi 访港路线要内地地址。Mox 要有效的香港居住地址和邮寄地址"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "年龄",
+              "官网写的都是年满 18 岁。汇丰 App 还要求 18 至 75 岁"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "c722e17ace22",
+            "text": "汇丰 App 还接受部分海外护照，中国护照不在其中。没有那些护照，就走往来港澳通行证。",
+            "marks": []
+          }
+        ],
+        "_key": "ec23202593fa",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ee10a7179863",
+            "text": "先看你走哪条路",
+            "marks": []
+          }
+        ],
+        "_key": "bed8211270dc",
+        "markDefs": []
+      },
+      {
+        "_type": "tableBlock",
+        "header": [
+          "路线",
+          "人要在哪",
+          "官网写明的费用或门槛",
+          "时效"
+        ],
+        "rows": [
+          {
+            "_type": "tableRow",
+            "cells": [
+              "汇丰，只有通行证，人在内地",
+              "内地提交；90 天内到香港用 App 启动",
+              "2026 年 1 月 1 日或之后新开的非香港身份证汇丰 One：过去 3 个月平均全面理财总值不足港币 1 万元，月费港币 100 元，达标豁免",
+              "90 天内启动"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "汇丰，人在香港",
+              "香港。通行证路线要开 GPS 并上传出入境纪录",
+              "同上。卓越理财：全面理财总值港币 100 万元，不足月费港币 380 元，达标豁免",
+              "扣账卡或银联卡于开户后 4 至 6 个工作日寄出"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "中银香港 App",
+              "身处香港",
+              "App 开户不收费。最低存款，已读页面没写",
+              "服务时间内提交成功开户一般可实时使用；3 个工作天内内部审阅"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "中银香港内地见证",
+              "不用到香港。本人到指定见证网点",
+              "须已是中国银行或中银香港的理财或特选客户。开「中银理财」或「智盈理财」",
+              "文件齐备有效，最快约两星期"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "渣打手机开户",
+              "居于香港或内地，且持有香港身份证",
+              "申请免费。「快易理财」不收服务月费",
+              "官网写数分钟内可开；2 个工作天内通知开户结果"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "ZA Bank",
+              "本人在香港，官方建议在香港主要地区",
+              "不设最低存款",
+              "审核天数，已读页面没写"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "livi",
+              "申请时身处香港",
+              "开户免费，活期存款无最低存款",
+              "最快 5 分钟，按银行开户政策审批"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "Mox",
+              "官网资格是香港身份证加香港地址",
+              "开户不收费，官网写无隐藏收费",
+              "官网写数分钟"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ce0935a06159",
+            "text": "材料齐也不等于一定批。中银香港写明由银行决定是否批核，livi 写明按既定开户政策审批。",
+            "marks": []
+          }
+        ],
+        "_key": "47c195399295",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "32dadd5160ee",
+            "text": "路线一：汇丰，人在内地先申请",
+            "marks": []
+          }
+        ],
+        "_key": "7dded69f162b",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "6b04ab39cb74",
+            "text": "这是我查到唯一一条人在内地就能先提交的路。官网写明，同时符合下面四条，就能用 HSBC HK App 在网上申请：",
+            "marks": []
+          }
+        ],
+        "_key": "89d7c9626409",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "c03c078d24b1",
+            "text": "往来港澳通行证有效期不少于 6 个月",
+            "marks": []
+          }
+        ],
+        "_key": "b62d1debb4dd",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "187e9f114de8",
+            "text": "汇丰新客户",
+            "marks": []
+          }
+        ],
+        "_key": "d7eed33b1723",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "09e30f94a946",
+            "text": "18 至 75 岁",
+            "marks": []
+          }
+        ],
+        "_key": "7ccf095eb46c",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0e8de8ec9d90",
+            "text": "提交时人在中国内地或香港",
+            "marks": []
+          }
+        ],
+        "_key": "3b547ebe47ce",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b766d2a1bdba",
+            "text": "人在内地就三步：下载 HSBC HK App，用往来港澳通行证做身份验证并提交申请，提交后 90 天内去香港，在 App 里启动户口。官网写明这一步不用亲临分行。",
+            "marks": []
+          }
+        ],
+        "_key": "f9e7fc95c015",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "768f848eb6bb",
+            "text": "人在香港用通行证申请，还要允许 App 读取 GPS，并上传出入境纪录。人在内地提交的那一段，页面没写提交时就要上传出入境纪录。",
+            "marks": []
+          }
+        ],
+        "_key": "e4b3997242bd",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a1953bee4f52",
+            "text": "App 开户页面列出的账户是汇丰 One 和汇丰卓越理财。还要满足：证件可以是往来港澳通行证；人在指定国家或地区（名单含中国内地）；尚未持有任何汇丰理财或投资户口，或者信用卡。页面写手机开户大约 5 分钟，同时注明实际时间因人而异。",
+            "marks": []
+          }
+        ],
+        "_key": "e53b136347c5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "cbee0933ba53",
+            "text": "费用按身份和开户日分，官网的表是这样的：",
+            "marks": []
+          }
+        ],
+        "_key": "b7928daa522b",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8abd3626bfde",
+            "text": "香港身份证持有人开汇丰 One：没有全面理财总值要求，没有低额结存服务费。",
+            "marks": []
+          }
+        ],
+        "_key": "e7335c31ca9c",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2865aa81f716",
+            "text": "非香港身份证、2026 年 1 月 1 日前已经开立汇丰 One：同样没有这项要求和月费。",
+            "marks": []
+          }
+        ],
+        "_key": "29186f57c57d",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "13fa7d33c6ef",
+            "text": "非香港身份证、2026 年 1 月 1 日或之后新开汇丰 One：过去 3 个月平均全面理财总值要达到港币 1 万元，否则每月港币 100 元。达到就豁免。",
+            "marks": []
+          }
+        ],
+        "_key": "2112533bc120",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d9465c65a316",
+            "text": "汇丰卓越理财：全面理财总值港币 100 万元。达到豁免，不足每月港币 380 元。",
+            "marks": []
+          }
+        ],
+        "_key": "7ef67b1660a2",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "dc6f06f6cda9",
+            "text": "全面理财总值按过去 3 个月平均算，包含存款、投资市值、部分保险现金价值、强积金等，不是看某一天的余额。低额结存服务费按每个综合理财户口计。官方问答写：连续 3 个月平均值达不到要求，会在下一个月的第 4 个工作日从账户扣除。新开户不足 3 个月时怎样平均，官网没写。",
+            "marks": []
+          }
+        ],
+        "_key": "d8e5faed5932",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "316e7dec745c",
+            "text": "还有一条容易漏的：指定的汇丰 One 非香港身份证客户，开户后首 6 个月有较低的转账和现金提款限额。官网写明有这档限额，具体金额那页没写。",
+            "marks": []
+          }
+        ],
+        "_key": "3a2a312b3e9d",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d83f49dacde4",
+            "text": "不符合 App 条件，或年龄超过 75 岁，可以到汇丰分行、数码银行站，或打 852 2233 3000。开卓越理财尊尚、卓越理财可以提前网上预约。分行要带的文件，总页只写到身份证明、住址证明及其他可能文件，细项没列出来。",
+            "marks": []
+          }
+        ],
+        "_key": "db723c1d75da",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "24acee76cfec",
+            "text": "汇丰官网写明：不要向任何第三方透露敏感个人资料，不要经中介开户。",
+            "marks": []
+          }
+        ],
+        "_key": "80d10256eba5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "97afba8d6606",
+            "text": "路线二：中银香港，人在香港用 App",
+            "marks": []
+          }
+        ],
+        "_key": "53b8cd42e0e0",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "af3fadbf3a87",
+            "text": "这条我一开始以为最顺，结果条件一点不少。官网常见问题里，内地居民身份证持有人用 App 开户要同时符合：",
+            "marks": []
+          }
+        ],
+        "_key": "2dfd99873be0",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "c85a0b00eb8f",
+            "text": "年满 18 岁",
+            "marks": []
+          }
+        ],
+        "_key": "fe865f906b1b",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "138be6ca45b9",
+            "text": "身处香港",
+            "marks": []
+          }
+        ],
+        "_key": "f9aa0e29a0ea",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "842347d34294",
+            "text": "全新客户，或尚未持有任何中银香港个人或联名储蓄、往来账户",
+            "marks": []
+          }
+        ],
+        "_key": "c06b127b4eb6",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "cb8f407bb194",
+            "text": "有效内地居民身份证和往来港澳通行证，两种证件从申请日起都至少还有 30 天",
+            "marks": []
+          }
+        ],
+        "_key": "1c7fc9039962",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8f1537e72bec",
+            "text": "国家移民局发出的出入境纪录电子文件，含申请日在内的最近 7 日内发出",
+            "marks": []
+          }
+        ],
+        "_key": "56d0e3df4254",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "eb8f93090d27",
+            "text": "国籍为中国内地",
+            "marks": []
+          }
+        ],
+        "_key": "60e8c114fbc6",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "68b53c3b82ec",
+            "text": "有效的内地手机号和内地地址",
+            "marks": []
+          }
+        ],
+        "_key": "f2933bf2d201",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3aebe194cf26",
+            "text": "有效电邮",
+            "marks": []
+          }
+        ],
+        "_key": "c9896b9e9710",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "abdd3426b141",
+            "text": "能提供税务居民编号等资料",
+            "marks": []
+          }
+        ],
+        "_key": "62d7674e2fa1",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "7d1f7565e12d",
+            "text": "通过 App 申请开户，官网写无需收费。开储蓄账户无需上载住址证明。其他服务收费另见收费表。",
+            "marks": []
+          }
+        ],
+        "_key": "fef2ffc03132",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "eb3cd0289b0d",
+            "text": "成功开户后：服务时间内提交并成功开户，一般可实时使用账户；银行在 3 个工作天内对开户资料作内部审阅，审阅完成前小额转账每天上限港币 10,000 元，审阅后已登记第三者账户和小额转账每天最高总限额提升至港币 60,000 元。中银卡在成功开户后寄出，一般 4 个工作天内按通讯地址寄出，5 个工作天内启用。",
+            "marks": []
+          }
+        ],
+        "_key": "0f8b2c98adf0",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4866d6027401",
+            "text": "分行开户（人已在香港）一般要身份证明文件正本，内地居民对应的是有效往来港澳通行证连同内地居民身份证。开证券账户还要姓名与证件一致的住址证明。银行写明，视尽职审查可能再要职业和收入、开户原因、预期账户活动、税务居民身份和税务编号、财富及资金来源等。审多久，取决于资料够不够。",
+            "marks": []
+          }
+        ],
+        "_key": "d9a0676baa6e",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3e02ca1f79d7",
+            "text": "路线三：中银香港，内地见证开户",
+            "marks": []
+          }
+        ],
+        "_key": "dae102ac9f43",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8471d4da968e",
+            "text": "这是我翻到的唯一一条人不用到香港、在内地就能办中银香港账户的路，但门槛不低。",
+            "marks": []
+          }
+        ],
+        "_key": "ecac0421ee32",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2474dd52a0ee",
+            "text": "条件：",
+            "marks": []
+          }
+        ],
+        "_key": "5be78ab4c772",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9b446d02c061",
+            "text": "年满 18 岁",
+            "marks": []
+          }
+        ],
+        "_key": "441041b14399",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b59d58338cc3",
+            "text": "已经是中国银行或中银香港的理财或特选客户",
+            "marks": []
+          }
+        ],
+        "_key": "7620c2b6db4f",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "185961530a51",
+            "text": "本人到内地、澳门，或香港以外指定见证网点办，不接受他人代办",
+            "marks": []
+          }
+        ],
+        "_key": "72fbbadcbab2",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "76dae5412569",
+            "text": "符合当地见证行自己的准入条件，并按对方要求补文件",
+            "marks": []
+          }
+        ],
+        "_key": "60cda8138bb4",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8f49c3daa58c",
+            "text": "可开的是「中银理财」和「智盈理财」，并可同时申请网上银行、电话银行。文件是身份证明；住址证明在适用时或开投资账户时要交，须为最近 3 个月内政府机构或公共事业机构发出、带姓名和地址的信函或账单。要做跨境汇款，一般还要有含英文姓名的证明文件。文件齐备有效，开户最快约两星期。",
+            "marks": []
+          }
+        ],
+        "_key": "da7c289f9a31",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "902e825b8934",
+            "text": "内地、香港以外客户服务专线：内地拨 +86 400 800 2388；香港以外拨 +852 3988 2222（官网标注为收费电话）。指定网点以中银香港页面上的名单为准。",
+            "marks": []
+          }
+        ],
+        "_key": "8b3851e90610",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9683649b043f",
+            "text": "「理财或特选客户」在内地中国银行要达到多少资产，中银香港这篇页面没有写死一个数字，只写还要符合见证行准入条件。网上流传的金额别当成官网门槛。",
+            "marks": []
+          }
+        ],
+        "_key": "9fbc4b2a76a8",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a849bea126a0",
+            "text": "中银香港综合理财层级的维持金额（达不到时，银行可以调低级别或收回该级别的专属优惠，这不是月费）：",
+            "marks": []
+          }
+        ],
+        "_key": "5faebee418b8",
+        "markDefs": []
+      },
+      {
+        "_type": "tableBlock",
+        "header": [
+          "层级",
+          "综合理财总值"
+        ],
+        "rows": [
+          {
+            "_type": "tableRow",
+            "cells": [
+              "私人财富",
+              "港币 800 万元或以上"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "中银理财",
+              "港币 100 万元或以上"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "智盈理财",
+              "港币 20 万元或以上"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "自在理财",
+              "港币 1 万元或以上"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "52278e5de9aa",
+            "text": "官网写，自 2019 年 8 月 1 日起，已全面取消所有「综合理财服务」月费。见证开户开的是中银理财或智盈理财，不是页面上的自在理财。App 开出来的户口算哪一级，官网没写。",
+            "marks": []
+          }
+        ],
+        "_key": "bbf6e332408e",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "033f4e7f3cb8",
+            "text": "另外还有一条相关路径：申请南向通的客户，可以到大湾区内地中国银行合资格见证网点办见证，再用中银香港手机银行提交「南向通投资专户」和一般储蓄账户。南向通投资者的具体资产门槛我没细看。南向通不是普通银行卡的替代说明。",
+            "marks": []
+          }
+        ],
+        "_key": "d24d85b0b634",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "20798e2ede04",
+            "text": "路线四：渣打",
+            "marks": []
+          }
+        ],
+        "_key": "c885297da81d",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "5eac035caa90",
+            "text": "渣打这条我查完就排除了——没有香港身份证，手机开户这条路走不通。官网要求：",
+            "marks": []
+          }
+        ],
+        "_key": "ecf9536008c7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "678e26225943",
+            "text": "还没有渣打香港的存款户口（活期、往来或支票、综合存款、定期）",
+            "marks": []
+          }
+        ],
+        "_key": "a8e89306d581",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2d841d103530",
+            "text": "有效香港身份证，2018 年版",
+            "marks": []
+          }
+        ],
+        "_key": "9598c5dd3e1f",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "039b033f7e90",
+            "text": "年满 18 岁",
+            "marks": []
+          }
+        ],
+        "_key": "f0eaa11239d2",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f3b8047e3801",
+            "text": "不是美国居民、美国公民，也没有美国绿卡",
+            "marks": []
+          }
+        ],
+        "_key": "154b12024fe6",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "7f05d55cf7e4",
+            "text": "账户作个人用途",
+            "marks": []
+          }
+        ],
+        "_key": "ae0c018048fd",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "af20816f178c",
+            "text": "居于香港或中国内地",
+            "marks": []
+          }
+        ],
+        "_key": "5dbfbe08d52a",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "19477d7b93bb",
+            "text": "App 申请不用上传文件，申请免费。银行若要补充资料，会请你到分行。官网写 2 个工作天内通知开户结果。官网存款页另写：申请人须为香港居民并年满 18 岁；没有香港永久性居民身份证的，带有照片的护照或身份证明亲临分行；不能为美国居民开立该户口。所以只持内地身份证和通行证的访客，官网没有给一条远程开户路径。",
+            "marks": []
+          }
+        ],
+        "_key": "ea16f5ff9a0c",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "53a660c620ce",
+            "text": "「快易理财」（Easy Banking）官网写不收服务月费。升到「优先理财」后：季度内每日平均总结余低于港币 100 万元，该季服务费港币 900 元。优先理财推广页写，全新客户可享首两季服务费豁免；豁免过后仍按上述港币 900 元执行。推广是否仍在有效期，以你申请当天的页面为准。",
+            "marks": []
+          }
+        ],
+        "_key": "c38949080b6e",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a6ad16f387de",
+            "text": "港币储蓄的一般最低开户额是港币 1,000 元；外币储蓄为所选货币 200 元，日元为 20,000 日元。同一页写明，这些最低开户额不适用于海外客户，海外客户的数字要问分行或客户经理。没有香港身份证的内地居民若走分行，最低开户额官网没写。",
+            "marks": []
+          }
+        ],
+        "_key": "b2572ac1d943",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "874053cf80c1",
+            "text": "官网没写渣打在内地网点见证开立一般香港个人账户。",
+            "marks": []
+          }
+        ],
+        "_key": "779101b3de11",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "424d3b597f9f",
+            "text": "路线五：ZA Bank，人在香港",
+            "marks": []
+          }
+        ],
+        "_key": "005df6777836",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "dfb149499866",
+            "text": "众安这家我查下来是虚拟银行里对内地居民写得最清楚的一家，但第一条就卡人：必须本人到香港。官网写，访港旅客开户要本人在香港，申请时身处香港主要地区。须同时符合：",
+            "marks": []
+          }
+        ],
+        "_key": "bb5f6c1b264c",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8086a0cb72d2",
+            "text": "年满 18 岁",
+            "marks": []
+          }
+        ],
+        "_key": "22668dd7d613",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "dcf26dae99b0",
+            "text": "申请时身处香港",
+            "marks": []
+          }
+        ],
+        "_key": "6ce9e62b0eea",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4c961b8d5853",
+            "text": "内地居民身份证正本，开户日起至少还有 30 天有效期",
+            "marks": []
+          }
+        ],
+        "_key": "b1286b8189ed",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "56a0751fbc2a",
+            "text": "内地手机号，人在香港能收短信、接电话",
+            "marks": []
+          }
+        ],
+        "_key": "77bc663a2d6c",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8ac853c849dd",
+            "text": "内地银行储蓄卡，卡上预留手机号与开户手机号相同",
+            "marks": []
+          }
+        ],
+        "_key": "f677fd6cb0ed",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0134feddb120",
+            "text": "国家移民管理局的有效出入境证明",
+            "marks": []
+          }
+        ],
+        "_key": "ee76530dc5f0",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ce0e635eb4ad",
+            "text": "官方问答：必须本人来香港；开户不设最低存款；暂不接受护照，也不接受单独使用港澳通行证。内地储蓄卡是身份核对，预留电话要和开户电话一致。",
+            "marks": []
+          }
+        ],
+        "_key": "70ac8d4cc531",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "912f3bbe81f4",
+            "text": "开户后官网写明可以使用的服务：",
+            "marks": []
+          }
+        ],
+        "_key": "bb0ceb36e80c",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e366577e27ec",
+            "text": "港元、人民币、美元储蓄",
+            "marks": []
+          }
+        ],
+        "_key": "52be24ed43f6",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "62a25211064a",
+            "text": "定期存款最低港币 1 元",
+            "marks": []
+          }
+        ],
+        "_key": "c7041baa4c52",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "5f2663c5e58c",
+            "text": "转数快（FPS）和 CHATS 付款、转账，暂时只支持本地转账",
+            "marks": []
+          }
+        ],
+        "_key": "f93e551d9608",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "72f0880e0914",
+            "text": "跨境汇入（港元、人民币、美元）",
+            "marks": []
+          }
+        ],
+        "_key": "345171bf7830",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "676c5e49e4ba",
+            "text": "ZA Card 签账、自动柜员机提款",
+            "marks": []
+          }
+        ],
+        "_key": "edd642189ccb",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f399e5b21951",
+            "text": "电子月结单、交易记录、外币兑换、自动转账",
+            "marks": []
+          }
+        ],
+        "_key": "2547bffa94a1",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "913d976e4b5f",
+            "text": "官网写明目前不提供：私人贷款、保险和基金认购、支票结算、联名户口。",
+            "marks": []
+          }
+        ],
+        "_key": "4269e99d1697",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "19d53255aaad",
+            "text": "还有一条我差点漏了：活期账户和「钱罂」若过去 18 个月没有任何金融交易（银行付利息、扣手续费不算），会变成不活跃账户，不能转账、入钱、开定期、申请贷款，要在 ZA Bank App 里重新激活。",
+            "marks": []
+          }
+        ],
+        "_key": "280fb8b67216",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f449e6b2306f",
+            "text": "开户要审核几天、会不会寄实体卡，对应问答的标题在官网上，正文没看到。跨境汇出收费以收费表当期为准。",
+            "marks": []
+          }
+        ],
+        "_key": "09b72ef20412",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4cf29b6c5678",
+            "text": "路线六：livi，人在香港",
+            "marks": []
+          }
+        ],
+        "_key": "42143e12d25b",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "19f0122b757d",
+            "text": "livi 跟众安一样，访港旅客只能在香港境内开，官网写明只向位于香港境内的访港旅客提供服务。申请时必须身处香港。",
+            "marks": []
+          }
+        ],
+        "_key": "f6b2fef9a4a1",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "868f76b4c81f",
+            "text": "访港客户条件：",
+            "marks": []
+          }
+        ],
+        "_key": "1fbd5f235b2c",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "90245d3e0984",
+            "text": "年满 18 岁",
+            "marks": []
+          }
+        ],
+        "_key": "10c2fc4932a5",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "77ab9be0c045",
+            "text": "内地居民身份证剩余有效期至少 6 个月",
+            "marks": []
+          }
+        ],
+        "_key": "8621f6f95530",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "19279d47c707",
+            "text": "往来港澳通行证剩余有效期至少 6 个月",
+            "marks": []
+          }
+        ],
+        "_key": "2afdda750946",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "042907ce77d3",
+            "text": "内地手机号（能收香港短信、接听电话）和内地地址",
+            "marks": []
+          }
+        ],
+        "_key": "c6d5d2efad4e",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "807986ec24b1",
+            "text": "开户时身处香港",
+            "marks": []
+          }
+        ],
+        "_key": "115c6d16e6af",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f17d80e0bf71",
+            "text": "国家移民局签发的有效出入境纪录（如需要）",
+            "marks": []
+          }
+        ],
+        "_key": "aa300404a9bc",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0cf83bef408c",
+            "text": "手机有前后镜头，Android 9.0 或以上，或 iOS 14.0 或以上",
+            "marks": []
+          }
+        ],
+        "_key": "82415a5f6116",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "47656abc5147",
+            "text": "邀请码那一条，官网写只适用于申请 livi Business 的新客户。个人访港开户不要按邀请码去理解。",
+            "marks": []
+          }
+        ],
+        "_key": "529ff348e74c",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a26249f456ad",
+            "text": "四步：选证件类型（内地身份证要开定位并验证手机号）；拍摄证件并做人脸识别；填写住址、职业、开户目的；设定登录密码。",
+            "marks": []
+          }
+        ],
+        "_key": "f6b815591c89",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "321f5449ba41",
+            "text": "开户完全免费。页面写活期存款无最低存款要求，liviSave 无费用、无最低存款。最快 5 分钟，实际按开户政策审批。",
+            "marks": []
+          }
+        ],
+        "_key": "33751cbca82a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "acb583fdff9b",
+            "text": "开户后官网列出的服务：港元、人民币、美元存款；本地转账；转数快缴费；二维码支付；柜员机二维码提款；电子月结单和交易记录。跨境汇入、汇出是否支持，官网没写。",
+            "marks": []
+          }
+        ],
+        "_key": "9e1b6a6d23e4",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d6af1c4b8cc5",
+            "text": "路线七：Mox",
+            "marks": []
+          }
+        ],
+        "_key": "5afcfa42b1c5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e9bb56e8b788",
+            "text": "Mox 我查完就一句话：没有香港身份证，别想了。官网的开户资格是：",
+            "marks": []
+          }
+        ],
+        "_key": "bf7f23a4d2ff",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8a8519f3a1eb",
+            "text": "香港身份证（永久或非永久居民）",
+            "marks": []
+          }
+        ],
+        "_key": "771b603fa00b",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "23b28e0c23a7",
+            "text": "有效的香港居住地址和邮寄地址",
+            "marks": []
+          }
+        ],
+        "_key": "23dd2efafb1d",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3ac50ec30788",
+            "text": "年满 18 岁",
+            "marks": []
+          }
+        ],
+        "_key": "679a14b5c528",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3feb66bcd482",
+            "text": "要一部手机和香港身份证。开户不收服务费，官网写完全免费、无隐藏收费。过程中要填国籍、出生地、手机、电邮、地址、税务居民国家和税务编号、职业与收入、户口用途，并拍摄身份证正反面和本人照片。",
+            "marks": []
+          }
+        ],
+        "_key": "b87dafdced8d",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f3842b5a1401",
+            "text": "官网没有写接受内地居民身份证，也没有写人在内地、没有香港身份证可以开。没有香港身份证的内地居民，按这页资格对不上。",
+            "marks": []
+          }
+        ],
+        "_key": "8279f20083fa",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "75abf1280239",
+            "text": "Mox Card 可加入 Apple Pay、Google Pay。官网步骤：用 Apple 设备打开 Mox App，选「加入 Apple Pay」，绑定电子版 Mox Card 后即可消费。用 Apple Pay 的费用与实体卡或电子卡相同。定期存款最低港币 1 元，提前支取不收费。Mox 写明是香港存款保障计划成员，合资格存款每人最高港币 80 万元。",
+            "marks": []
+          }
+        ],
+        "_key": "da12ed75ea04",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "53904d4ec86c",
+            "text": "有没有最低开户存款，页面只写开户不收费，没有写一个最低金额。",
+            "marks": []
+          }
+        ],
+        "_key": "68743af0cbe5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "fe9649ba43ca",
+            "text": "开户之后",
+            "marks": []
+          }
+        ],
+        "_key": "fb1848202cb6",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "61ce0c5a1e4b",
+            "text": "入金和转账：",
+            "marks": []
+          }
+        ],
+        "_key": "d9764861bbad",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2e79a2a057a8",
+            "text": "每位内地居民每年有等值 5 万美元的个人便利化购汇额度，汇出要走合规渠道。",
+            "marks": []
+          }
+        ],
+        "_key": "f0c6ad86f068",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "141acc8d726a",
+            "text": "ZA Bank：可以收港元、人民币、美元跨境汇入；本地用转数快和 CHATS。页面写暂时只支持本地转账，没有把跨境汇出写成可用服务。",
+            "marks": []
+          }
+        ],
+        "_key": "1f545ae455f4",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "06f826722525",
+            "text": "中银香港：理财服务页写转数快本地跨行转账费用全免，每日限额可高达港币 100 万元，支持港币及人民币，可在手机银行或网上银行办。",
+            "marks": []
+          }
+        ],
+        "_key": "7d8ed1aafdce",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "7b694c72013d",
+            "text": "汇丰：转账港币或人民币到大部分本地银行账户可获豁免收费。每日跨境转账总限额最高可设为港币 300 万元或等值，预设为港币 0 元，要自己调高。指定汇丰 One 非香港身份证客户开户后首 6 个月使用较低限额，具体数字官网没写。",
+            "marks": []
+          }
+        ],
+        "_key": "5be337d465c1",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8191472ef6d1",
+            "text": "livi：本地转账、转数快缴费、二维码支付、柜员机二维码提款。",
+            "marks": []
+          }
+        ],
+        "_key": "ce67f72abe1e",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "934e7caa08eb",
+            "text": "渣打、Mox 的跨境汇入步骤和收费，官网没写清。",
+            "marks": []
+          }
+        ],
+        "_key": "32a9fd428af2",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "01f6b14e4cdb",
+            "text": "卡和 Apple Pay：",
+            "marks": []
+          }
+        ],
+        "_key": "82f82c313a17",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8bfd5848a46b",
+            "text": "汇丰：人在香港，Mastercard 扣账卡及／或银联自动柜员机卡在开户后 4 至 6 个工作日寄出（周一至周五，不含周六、日和公众假期）。人在海外，寄送可能更久。银联卡和 Mastercard 扣账卡可在 HSBC HK App 启动；也可打互动语音热线 852 3163 0633。",
+            "marks": []
+          }
+        ],
+        "_key": "eab0617d2808",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f596c816739c",
+            "text": "Mox：按上一节加入 Apple Pay。也可加入 Google Pay。",
+            "marks": []
+          }
+        ],
+        "_key": "6f58b9ca4ca9",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "08e80bc1f7a9",
+            "text": "中银香港、渣打、ZA Bank、livi 的卡能不能加入 Apple Pay，官网没写。",
+            "marks": []
+          }
+        ],
+        "_key": "19b90cba4915",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2a6a49bc5206",
+            "text": "汇丰账户若一段时间不用，限额会被重置。官方写：连续 6 个月没有调高或调低限额，并且连续 6 个月没有登录流动理财、网上理财或电话理财；或者连续 13 个月没有做过该类交易，就会把转给未登记收款人的分项限额、小额转账限额，以及缴给「证券公司」「体育及娱乐」商户的分项限额重置为港币 0 元。这是限额重置，不是休眠月费。汇丰香港休眠月费，官网没写。",
+            "marks": []
+          }
+        ],
+        "_key": "ea15675b7fe8",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9e4a680837c2",
+            "text": "存款保障：汇丰、中银香港、渣打、ZA Bank、livi、Mox 都是香港存款保障计划成员，合资格存款受保障，每名存款人最高 80 万港币。",
+            "marks": []
+          }
+        ],
+        "_key": "0aaf077c6923",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "269577bb162d",
+            "text": "避坑",
+            "marks": []
+          }
+        ],
+        "_key": "d7aaae0a9469",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "cc81e36fb3a6",
+            "text": "不要找中介代开。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "c9fe48cefae2",
+            "text": " 汇丰官网直接写：不要把敏感个人资料给第三方，不要经中介开户。",
+            "marks": []
+          }
+        ],
+        "_key": "bdb76d21a858",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2aa54caf2adc",
+            "text": "证件有效期按银行自己的算法留够。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "1d2c447d1683",
+            "text": " 汇丰通行证不少于 6 个月；livi 身份证和通行证都要剩余至少 6 个月；中银香港 App 和 ZA Bank 从申请日或开户日起至少 30 天。快到期再出发，系统可以直接不让提交。",
+            "marks": []
+          }
+        ],
+        "_key": "7b07369346d0",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b328d5b0e393",
+            "text": "人在内地，不要按「虚拟银行全程远程」去试。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "3643f6a26c2c",
+            "text": " ZA Bank、livi 都写必须身处香港。中银香港 App 的内地身份证路线也写身处香港。",
+            "marks": []
+          }
+        ],
+        "_key": "f67e64c63a63",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "75bcd294f5d1",
+            "text": "汇丰 One 的港币 100 元月费看 3 个月平均，不看你某一天存了多少。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "a7758d3276c2",
+            "text": " 2026 年 1 月 1 日或之后新开、又没有香港身份证，平均值不足港币 1 万元就收。",
+            "marks": []
+          }
+        ],
+        "_key": "3a7ab6380f6d",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "919f8c5bb990",
+            "text": "卓越理财和优先理财是另一档费用。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "6a589298838d",
+            "text": " 汇丰卓越理财不足港币 100 万元，每月港币 380 元。渣打优先理财季度日均不足港币 100 万元，该季港币 900 元。只为日常扣款，不必为了开户升到这两档。",
+            "marks": []
+          }
+        ],
+        "_key": "b5d0fc5f16f5",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "63eca507c844",
+            "text": "ZA Bank 放着不管，18 个月后会不能动账。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "7842888b0bd0",
+            "text": " 银行付利息和扣手续费不算你自己的交易。要在 App 里重新激活。",
+            "marks": []
+          }
+        ],
+        "_key": "f1adbdb93695",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f5bed531c90d",
+            "text": "ZA Bank 不接受护照，也不接受只拿港澳通行证。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "cf8fd46c5317",
+            "text": " 证件是内地居民身份证正本，再加出入境证明和同号储蓄卡。",
+            "marks": []
+          }
+        ],
+        "_key": "268242840537",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f7b70182ca3e",
+            "text": "渣打、Mox 的公开资格挂在香港身份证上。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "4bc7ee0e141d",
+            "text": " 没有香港身份证，不要按这两家的手机开户教程准备材料。",
+            "marks": []
+          }
+        ],
+        "_key": "4100ef84c9c8",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "55eed6a2c1a5",
+            "text": "常见问题",
+            "marks": []
+          }
+        ],
+        "_key": "6a9d2e972760",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "806ae7eeea70",
+            "text": "人在内地，一次香港都不去，能开成吗？",
+            "marks": []
+          }
+        ],
+        "_key": "0353eb5376d5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a9687da33095",
+            "text": "我翻到的官方页面里，写明不用到香港的，是中银香港见证开户：你得已经是中国银行或中银香港的理财或特选客户，本人到指定网点，开中银理财或智盈理财。汇丰允许人在内地提交，但 90 天内仍要到香港用 App 启动。ZA Bank、livi 写明申请时必须在香港。渣打手机开户和 Mox 要香港身份证。",
+            "marks": []
+          }
+        ],
+        "_key": "fa01c97e1ca5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a08c29247b7c",
+            "text": "哪家没有最低存款？",
+            "marks": []
+          }
+        ],
+        "_key": "97589c324790",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4559ac0d32db",
+            "text": "ZA Bank 写明开户不设最低存款。livi 写活期无最低存款、开户免费。Mox 写开户不收费，没有另写一个最低开户金额。汇丰没有香港身份证且在 2026 年 1 月 1 日或之后开汇丰 One，没有「开户当天必须存入」的句子，但有港币 1 万元的 3 个月平均总值，不够就每月港币 100 元。中银香港 App 开户不收费，最低存款没在官网页面出现。",
+            "marks": []
+          }
+        ],
+        "_key": "d5b99d380c90",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b25a190fea5b",
+            "text": "开好就能绑 Apple Pay 吗？",
+            "marks": []
+          }
+        ],
+        "_key": "a3bec5623fd0",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b6e9d22ddc41",
+            "text": "Mox 可以，官网有加入步骤。汇丰、中银香港、渣打、ZA Bank、livi 在官网页面里没有写 Apple Pay，我也不确定。",
+            "marks": []
+          }
+        ],
+        "_key": "1b13f9a76074",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "718d81f1810a",
+            "text": "内地的钱怎么转到这张卡？",
+            "marks": []
+          }
+        ],
+        "_key": "278bceb49c22",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e7d16bf931c8",
+            "text": "ZA Bank 写明可接收港元、人民币、美元跨境汇入，本地转账用转数快和 CHATS。中银香港写本地转数快免费。汇丰写港币或人民币转到大部分本地银行可豁免收费，跨境总限额预设为 0，要自己设置。从哪家内地银行、用哪条汇路、手续费多少，官网没有一步步写完。",
+            "marks": []
+          }
+        ],
+        "_key": "5b6c2cfb96e6",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0e699884b91b",
+            "text": "长期不用会怎样？",
+            "marks": []
+          }
+        ],
+        "_key": "5390c205b513",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0a0cd63d44ba",
+            "text": "ZA Bank：连续 18 个月没有客户发起的金融交易，账户变为不活跃，不能转账和入钱，须在 App 重新激活。汇丰：满足官网列明的不活动条件后，部分转账和缴费限额重置为港币 0 元。中银香港、渣打、livi、Mox 的不活跃规则，以及汇丰香港收不收休眠费，官网没写。",
+            "marks": []
+          }
+        ],
+        "_key": "e15c89340d2b",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "26110970477e",
+            "text": "为什么会被拒？",
+            "marks": []
+          }
+        ],
+        "_key": "b2f4de952873",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "bba86b78b831",
+            "text": "官网没有公布一份「常见拒因」清单。能从资格页直接对上的情况包括：人不在银行要求的地方、证件剩余有效期不够、ZA Bank 的储蓄卡预留手机号和开户手机号不一致、已经是该行客户却走了新客户通道、渣打页写明的美国居民或美国公民或绿卡。银行还可以因尽职审查要求补充材料或不批。",
+            "marks": []
+          }
+        ],
+        "_key": "b60ac3cbec0c",
+        "markDefs": []
+      }
+    ],
+    "bodyMarkdown": "我办港卡就一个原因：付海外服务、收点钱，内地卡总是不方便。办之前我以为随便找家银行、手机上点几下就行，查了一圈官网才发现没那么简单。最大的坑就两个：人在哪，和有没有香港身份证。\n\n我把汇丰、中银香港、渣打、ZA Bank、livi、Mox 六家银行的官网都翻了一遍，下面写的都是对照官网一条条看过的。\n\n先说结论。没有香港身份证、人还在内地，能先提交的只有汇丰：用往来港澳通行证在 HSBC HK App 申请，90 天内到香港用 App 启动，启动不用去分行。人已经在香港，汇丰、中银香港、ZA Bank、livi 都能用内地证件线上开。渣打手机开户和 Mox 的官网资格写的是香港身份证。一次香港都不去、想在内地办成的，只有一条：中银香港见证开户，但你得已经是中国银行或中银香港的理财或特选客户。\n\n## 准备\n\n| 准备项 | 要求 |\n| --- | --- |\n| 往来港澳通行证 | 汇丰通行证路线：有效期不少于 6 个月。中银香港 App：申请日起不少于 30 天。livi：剩余有效期至少 6 个月 |\n| 内地居民身份证 | 中银香港 App：与通行证一起，申请日起不少于 30 天。ZA Bank：正本，开户日起不少于 30 天。livi：剩余有效期至少 6 个月 |\n| 香港身份证 | 渣打手机开户要 2018 年版。Mox 要香港身份证（永久或非永久）。汇丰、中银香港另有香港身份证路线 |\n| 出入境纪录 | 汇丰人在香港用通行证开户要上传。中银香港 App 要国家移民局出入境纪录，含申请日在内的最近 7 日内发出。ZA Bank 要国家移民管理局出入境证明。livi 写「如需要」 |\n| 内地手机号 | 中银香港 App 要有效内地手机号。ZA Bank 要在香港能收短信、接电话，且与内地储蓄卡预留号一致。livi 要能收香港短信并接听电话 |\n| 内地储蓄卡 | ZA Bank 用来核对身份，预留手机号须与开户手机号相同 |\n| 地址 | 中银香港 App 要内地地址和有效电邮。livi 访港路线要内地地址。Mox 要有效的香港居住地址和邮寄地址 |\n| 年龄 | 官网写的都是年满 18 岁。汇丰 App 还要求 18 至 75 岁 |\n\n汇丰 App 还接受部分海外护照，中国护照不在其中。没有那些护照，就走往来港澳通行证。\n\n## 先看你走哪条路\n\n| 路线 | 人要在哪 | 官网写明的费用或门槛 | 时效 |\n| --- | --- | --- | --- |\n| 汇丰，只有通行证，人在内地 | 内地提交；90 天内到香港用 App 启动 | 2026 年 1 月 1 日或之后新开的非香港身份证汇丰 One：过去 3 个月平均全面理财总值不足港币 1 万元，月费港币 100 元，达标豁免 | 90 天内启动 |\n| 汇丰，人在香港 | 香港。通行证路线要开 GPS 并上传出入境纪录 | 同上。卓越理财：全面理财总值港币 100 万元，不足月费港币 380 元，达标豁免 | 扣账卡或银联卡于开户后 4 至 6 个工作日寄出 |\n| 中银香港 App | 身处香港 | App 开户不收费。最低存款，已读页面没写 | 服务时间内提交成功开户一般可实时使用；3 个工作天内内部审阅 |\n| 中银香港内地见证 | 不用到香港。本人到指定见证网点 | 须已是中国银行或中银香港的理财或特选客户。开「中银理财」或「智盈理财」 | 文件齐备有效，最快约两星期 |\n| 渣打手机开户 | 居于香港或内地，且持有香港身份证 | 申请免费。「快易理财」不收服务月费 | 官网写数分钟内可开；2 个工作天内通知开户结果 |\n| ZA Bank | 本人在香港，官方建议在香港主要地区 | 不设最低存款 | 审核天数，已读页面没写 |\n| livi | 申请时身处香港 | 开户免费，活期存款无最低存款 | 最快 5 分钟，按银行开户政策审批 |\n| Mox | 官网资格是香港身份证加香港地址 | 开户不收费，官网写无隐藏收费 | 官网写数分钟 |\n\n材料齐也不等于一定批。中银香港写明由银行决定是否批核，livi 写明按既定开户政策审批。\n\n## 路线一：汇丰，人在内地先申请\n\n这是我查到唯一一条人在内地就能先提交的路。官网写明，同时符合下面四条，就能用 HSBC HK App 在网上申请：\n\n- 往来港澳通行证有效期不少于 6 个月\n- 汇丰新客户\n- 18 至 75 岁\n- 提交时人在中国内地或香港\n\n人在内地就三步：下载 HSBC HK App，用往来港澳通行证做身份验证并提交申请，提交后 90 天内去香港，在 App 里启动户口。官网写明这一步不用亲临分行。\n\n人在香港用通行证申请，还要允许 App 读取 GPS，并上传出入境纪录。人在内地提交的那一段，页面没写提交时就要上传出入境纪录。\n\nApp 开户页面列出的账户是汇丰 One 和汇丰卓越理财。还要满足：证件可以是往来港澳通行证；人在指定国家或地区（名单含中国内地）；尚未持有任何汇丰理财或投资户口，或者信用卡。页面写手机开户大约 5 分钟，同时注明实际时间因人而异。\n\n费用按身份和开户日分，官网的表是这样的：\n\n- 香港身份证持有人开汇丰 One：没有全面理财总值要求，没有低额结存服务费。\n- 非香港身份证、2026 年 1 月 1 日前已经开立汇丰 One：同样没有这项要求和月费。\n- 非香港身份证、2026 年 1 月 1 日或之后新开汇丰 One：过去 3 个月平均全面理财总值要达到港币 1 万元，否则每月港币 100 元。达到就豁免。\n- 汇丰卓越理财：全面理财总值港币 100 万元。达到豁免，不足每月港币 380 元。\n\n全面理财总值按过去 3 个月平均算，包含存款、投资市值、部分保险现金价值、强积金等，不是看某一天的余额。低额结存服务费按每个综合理财户口计。官方问答写：连续 3 个月平均值达不到要求，会在下一个月的第 4 个工作日从账户扣除。新开户不足 3 个月时怎样平均，官网没写。\n\n还有一条容易漏的：指定的汇丰 One 非香港身份证客户，开户后首 6 个月有较低的转账和现金提款限额。官网写明有这档限额，具体金额那页没写。\n\n不符合 App 条件，或年龄超过 75 岁，可以到汇丰分行、数码银行站，或打 852 2233 3000。开卓越理财尊尚、卓越理财可以提前网上预约。分行要带的文件，总页只写到身份证明、住址证明及其他可能文件，细项没列出来。\n\n汇丰官网写明：不要向任何第三方透露敏感个人资料，不要经中介开户。\n\n## 路线二：中银香港，人在香港用 App\n\n这条我一开始以为最顺，结果条件一点不少。官网常见问题里，内地居民身份证持有人用 App 开户要同时符合：\n\n- 年满 18 岁\n- 身处香港\n- 全新客户，或尚未持有任何中银香港个人或联名储蓄、往来账户\n- 有效内地居民身份证和往来港澳通行证，两种证件从申请日起都至少还有 30 天\n- 国家移民局发出的出入境纪录电子文件，含申请日在内的最近 7 日内发出\n- 国籍为中国内地\n- 有效的内地手机号和内地地址\n- 有效电邮\n- 能提供税务居民编号等资料\n\n通过 App 申请开户，官网写无需收费。开储蓄账户无需上载住址证明。其他服务收费另见收费表。\n\n成功开户后：服务时间内提交并成功开户，一般可实时使用账户；银行在 3 个工作天内对开户资料作内部审阅，审阅完成前小额转账每天上限港币 10,000 元，审阅后已登记第三者账户和小额转账每天最高总限额提升至港币 60,000 元。中银卡在成功开户后寄出，一般 4 个工作天内按通讯地址寄出，5 个工作天内启用。\n\n分行开户（人已在香港）一般要身份证明文件正本，内地居民对应的是有效往来港澳通行证连同内地居民身份证。开证券账户还要姓名与证件一致的住址证明。银行写明，视尽职审查可能再要职业和收入、开户原因、预期账户活动、税务居民身份和税务编号、财富及资金来源等。审多久，取决于资料够不够。\n\n## 路线三：中银香港，内地见证开户\n\n这是我翻到的唯一一条人不用到香港、在内地就能办中银香港账户的路，但门槛不低。\n\n条件：\n\n- 年满 18 岁\n- 已经是中国银行或中银香港的理财或特选客户\n- 本人到内地、澳门，或香港以外指定见证网点办，不接受他人代办\n- 符合当地见证行自己的准入条件，并按对方要求补文件\n\n可开的是「中银理财」和「智盈理财」，并可同时申请网上银行、电话银行。文件是身份证明；住址证明在适用时或开投资账户时要交，须为最近 3 个月内政府机构或公共事业机构发出、带姓名和地址的信函或账单。要做跨境汇款，一般还要有含英文姓名的证明文件。文件齐备有效，开户最快约两星期。\n\n内地、香港以外客户服务专线：内地拨 +86 400 800 2388；香港以外拨 +852 3988 2222（官网标注为收费电话）。指定网点以中银香港页面上的名单为准。\n\n「理财或特选客户」在内地中国银行要达到多少资产，中银香港这篇页面没有写死一个数字，只写还要符合见证行准入条件。网上流传的金额别当成官网门槛。\n\n中银香港综合理财层级的维持金额（达不到时，银行可以调低级别或收回该级别的专属优惠，这不是月费）：\n\n| 层级 | 综合理财总值 |\n| --- | --- |\n| 私人财富 | 港币 800 万元或以上 |\n| 中银理财 | 港币 100 万元或以上 |\n| 智盈理财 | 港币 20 万元或以上 |\n| 自在理财 | 港币 1 万元或以上 |\n\n官网写，自 2019 年 8 月 1 日起，已全面取消所有「综合理财服务」月费。见证开户开的是中银理财或智盈理财，不是页面上的自在理财。App 开出来的户口算哪一级，官网没写。\n\n另外还有一条相关路径：申请南向通的客户，可以到大湾区内地中国银行合资格见证网点办见证，再用中银香港手机银行提交「南向通投资专户」和一般储蓄账户。南向通投资者的具体资产门槛我没细看。南向通不是普通银行卡的替代说明。\n\n## 路线四：渣打\n\n渣打这条我查完就排除了——没有香港身份证，手机开户这条路走不通。官网要求：\n\n- 还没有渣打香港的存款户口（活期、往来或支票、综合存款、定期）\n- 有效香港身份证，2018 年版\n- 年满 18 岁\n- 不是美国居民、美国公民，也没有美国绿卡\n- 账户作个人用途\n- 居于香港或中国内地\n\nApp 申请不用上传文件，申请免费。银行若要补充资料，会请你到分行。官网写 2 个工作天内通知开户结果。官网存款页另写：申请人须为香港居民并年满 18 岁；没有香港永久性居民身份证的，带有照片的护照或身份证明亲临分行；不能为美国居民开立该户口。所以只持内地身份证和通行证的访客，官网没有给一条远程开户路径。\n\n「快易理财」（Easy Banking）官网写不收服务月费。升到「优先理财」后：季度内每日平均总结余低于港币 100 万元，该季服务费港币 900 元。优先理财推广页写，全新客户可享首两季服务费豁免；豁免过后仍按上述港币 900 元执行。推广是否仍在有效期，以你申请当天的页面为准。\n\n港币储蓄的一般最低开户额是港币 1,000 元；外币储蓄为所选货币 200 元，日元为 20,000 日元。同一页写明，这些最低开户额不适用于海外客户，海外客户的数字要问分行或客户经理。没有香港身份证的内地居民若走分行，最低开户额官网没写。\n\n官网没写渣打在内地网点见证开立一般香港个人账户。\n\n## 路线五：ZA Bank，人在香港\n\n众安这家我查下来是虚拟银行里对内地居民写得最清楚的一家，但第一条就卡人：必须本人到香港。官网写，访港旅客开户要本人在香港，申请时身处香港主要地区。须同时符合：\n\n1. 年满 18 岁\n2. 申请时身处香港\n3. 内地居民身份证正本，开户日起至少还有 30 天有效期\n4. 内地手机号，人在香港能收短信、接电话\n5. 内地银行储蓄卡，卡上预留手机号与开户手机号相同\n6. 国家移民管理局的有效出入境证明\n\n官方问答：必须本人来香港；开户不设最低存款；暂不接受护照，也不接受单独使用港澳通行证。内地储蓄卡是身份核对，预留电话要和开户电话一致。\n\n开户后官网写明可以使用的服务：\n\n- 港元、人民币、美元储蓄\n- 定期存款最低港币 1 元\n- 转数快（FPS）和 CHATS 付款、转账，暂时只支持本地转账\n- 跨境汇入（港元、人民币、美元）\n- ZA Card 签账、自动柜员机提款\n- 电子月结单、交易记录、外币兑换、自动转账\n\n官网写明目前不提供：私人贷款、保险和基金认购、支票结算、联名户口。\n\n还有一条我差点漏了：活期账户和「钱罂」若过去 18 个月没有任何金融交易（银行付利息、扣手续费不算），会变成不活跃账户，不能转账、入钱、开定期、申请贷款，要在 ZA Bank App 里重新激活。\n\n开户要审核几天、会不会寄实体卡，对应问答的标题在官网上，正文没看到。跨境汇出收费以收费表当期为准。\n\n## 路线六：livi，人在香港\n\nlivi 跟众安一样，访港旅客只能在香港境内开，官网写明只向位于香港境内的访港旅客提供服务。申请时必须身处香港。\n\n访港客户条件：\n\n- 年满 18 岁\n- 内地居民身份证剩余有效期至少 6 个月\n- 往来港澳通行证剩余有效期至少 6 个月\n- 内地手机号（能收香港短信、接听电话）和内地地址\n- 开户时身处香港\n- 国家移民局签发的有效出入境纪录（如需要）\n- 手机有前后镜头，Android 9.0 或以上，或 iOS 14.0 或以上\n\n邀请码那一条，官网写只适用于申请 livi Business 的新客户。个人访港开户不要按邀请码去理解。\n\n四步：选证件类型（内地身份证要开定位并验证手机号）；拍摄证件并做人脸识别；填写住址、职业、开户目的；设定登录密码。\n\n开户完全免费。页面写活期存款无最低存款要求，liviSave 无费用、无最低存款。最快 5 分钟，实际按开户政策审批。\n\n开户后官网列出的服务：港元、人民币、美元存款；本地转账；转数快缴费；二维码支付；柜员机二维码提款；电子月结单和交易记录。跨境汇入、汇出是否支持，官网没写。\n\n## 路线七：Mox\n\nMox 我查完就一句话：没有香港身份证，别想了。官网的开户资格是：\n\n- 香港身份证（永久或非永久居民）\n- 有效的香港居住地址和邮寄地址\n- 年满 18 岁\n\n要一部手机和香港身份证。开户不收服务费，官网写完全免费、无隐藏收费。过程中要填国籍、出生地、手机、电邮、地址、税务居民国家和税务编号、职业与收入、户口用途，并拍摄身份证正反面和本人照片。\n\n官网没有写接受内地居民身份证，也没有写人在内地、没有香港身份证可以开。没有香港身份证的内地居民，按这页资格对不上。\n\nMox Card 可加入 Apple Pay、Google Pay。官网步骤：用 Apple 设备打开 Mox App，选「加入 Apple Pay」，绑定电子版 Mox Card 后即可消费。用 Apple Pay 的费用与实体卡或电子卡相同。定期存款最低港币 1 元，提前支取不收费。Mox 写明是香港存款保障计划成员，合资格存款每人最高港币 80 万元。\n\n有没有最低开户存款，页面只写开户不收费，没有写一个最低金额。\n\n## 开户之后\n\n入金和转账：\n\n- 每位内地居民每年有等值 5 万美元的个人便利化购汇额度，汇出要走合规渠道。\n- ZA Bank：可以收港元、人民币、美元跨境汇入；本地用转数快和 CHATS。页面写暂时只支持本地转账，没有把跨境汇出写成可用服务。\n- 中银香港：理财服务页写转数快本地跨行转账费用全免，每日限额可高达港币 100 万元，支持港币及人民币，可在手机银行或网上银行办。\n- 汇丰：转账港币或人民币到大部分本地银行账户可获豁免收费。每日跨境转账总限额最高可设为港币 300 万元或等值，预设为港币 0 元，要自己调高。指定汇丰 One 非香港身份证客户开户后首 6 个月使用较低限额，具体数字官网没写。\n- livi：本地转账、转数快缴费、二维码支付、柜员机二维码提款。\n- 渣打、Mox 的跨境汇入步骤和收费，官网没写清。\n\n卡和 Apple Pay：\n\n- 汇丰：人在香港，Mastercard 扣账卡及／或银联自动柜员机卡在开户后 4 至 6 个工作日寄出（周一至周五，不含周六、日和公众假期）。人在海外，寄送可能更久。银联卡和 Mastercard 扣账卡可在 HSBC HK App 启动；也可打互动语音热线 852 3163 0633。\n- Mox：按上一节加入 Apple Pay。也可加入 Google Pay。\n- 中银香港、渣打、ZA Bank、livi 的卡能不能加入 Apple Pay，官网没写。\n\n汇丰账户若一段时间不用，限额会被重置。官方写：连续 6 个月没有调高或调低限额，并且连续 6 个月没有登录流动理财、网上理财或电话理财；或者连续 13 个月没有做过该类交易，就会把转给未登记收款人的分项限额、小额转账限额，以及缴给「证券公司」「体育及娱乐」商户的分项限额重置为港币 0 元。这是限额重置，不是休眠月费。汇丰香港休眠月费，官网没写。\n\n存款保障：汇丰、中银香港、渣打、ZA Bank、livi、Mox 都是香港存款保障计划成员，合资格存款受保障，每名存款人最高 80 万港币。\n\n## 避坑\n\n- **不要找中介代开。** 汇丰官网直接写：不要把敏感个人资料给第三方，不要经中介开户。\n- **证件有效期按银行自己的算法留够。** 汇丰通行证不少于 6 个月；livi 身份证和通行证都要剩余至少 6 个月；中银香港 App 和 ZA Bank 从申请日或开户日起至少 30 天。快到期再出发，系统可以直接不让提交。\n- **人在内地，不要按「虚拟银行全程远程」去试。** ZA Bank、livi 都写必须身处香港。中银香港 App 的内地身份证路线也写身处香港。\n- **汇丰 One 的港币 100 元月费看 3 个月平均，不看你某一天存了多少。** 2026 年 1 月 1 日或之后新开、又没有香港身份证，平均值不足港币 1 万元就收。\n- **卓越理财和优先理财是另一档费用。** 汇丰卓越理财不足港币 100 万元，每月港币 380 元。渣打优先理财季度日均不足港币 100 万元，该季港币 900 元。只为日常扣款，不必为了开户升到这两档。\n- **ZA Bank 放着不管，18 个月后会不能动账。** 银行付利息和扣手续费不算你自己的交易。要在 App 里重新激活。\n- **ZA Bank 不接受护照，也不接受只拿港澳通行证。** 证件是内地居民身份证正本，再加出入境证明和同号储蓄卡。\n- **渣打、Mox 的公开资格挂在香港身份证上。** 没有香港身份证，不要按这两家的手机开户教程准备材料。\n\n## 常见问题\n\n### 人在内地，一次香港都不去，能开成吗？\n\n我翻到的官方页面里，写明不用到香港的，是中银香港见证开户：你得已经是中国银行或中银香港的理财或特选客户，本人到指定网点，开中银理财或智盈理财。汇丰允许人在内地提交，但 90 天内仍要到香港用 App 启动。ZA Bank、livi 写明申请时必须在香港。渣打手机开户和 Mox 要香港身份证。\n\n### 哪家没有最低存款？\n\nZA Bank 写明开户不设最低存款。livi 写活期无最低存款、开户免费。Mox 写开户不收费，没有另写一个最低开户金额。汇丰没有香港身份证且在 2026 年 1 月 1 日或之后开汇丰 One，没有「开户当天必须存入」的句子，但有港币 1 万元的 3 个月平均总值，不够就每月港币 100 元。中银香港 App 开户不收费，最低存款没在官网页面出现。\n\n### 开好就能绑 Apple Pay 吗？\n\nMox 可以，官网有加入步骤。汇丰、中银香港、渣打、ZA Bank、livi 在官网页面里没有写 Apple Pay，我也不确定。\n\n### 内地的钱怎么转到这张卡？\n\nZA Bank 写明可接收港元、人民币、美元跨境汇入，本地转账用转数快和 CHATS。中银香港写本地转数快免费。汇丰写港币或人民币转到大部分本地银行可豁免收费，跨境总限额预设为 0，要自己设置。从哪家内地银行、用哪条汇路、手续费多少，官网没有一步步写完。\n\n### 长期不用会怎样？\n\nZA Bank：连续 18 个月没有客户发起的金融交易，账户变为不活跃，不能转账和入钱，须在 App 重新激活。汇丰：满足官网列明的不活动条件后，部分转账和缴费限额重置为港币 0 元。中银香港、渣打、livi、Mox 的不活跃规则，以及汇丰香港收不收休眠费，官网没写。\n\n### 为什么会被拒？\n\n官网没有公布一份「常见拒因」清单。能从资格页直接对上的情况包括：人不在银行要求的地方、证件剩余有效期不够、ZA Bank 的储蓄卡预留手机号和开户手机号不一致、已经是该行客户却走了新客户通道、渣打页写明的美国居民或美国公民或绿卡。银行还可以因尽职审查要求补充材料或不批。",
+    "_migration": {
+      "source": "hk-bank-card-guide.md",
+      "fixes": [],
+      "url": "/blog/hk-bank-card-guide/"
+    }
+  },
+  {
+    "_type": "guide",
+    "_id": "imported-proxy-tools",
+    "title": "代理工具入门：客户端、订阅与排错怎么分工",
+    "slug": {
+      "_type": "slug",
+      "current": "proxy-tools"
+    },
+    "description": "理清客户端、订阅管理、诊断与服务端的区别，按设备和配置格式选择工具，并掌握逐步排错方法。",
+    "audience": "已有服务配置，希望理解工具分工、完成首次连接和日常排错的新手。",
+    "tags": [
+      "代理工具",
+      "客户端",
+      "工具指南"
+    ],
+    "keywords": [
+      "代理客户端",
+      "订阅管理",
+      "网络排错",
+      "系统代理"
+    ],
+    "featured": true,
+    "pubDatetime": "2026-11-05T23:00:00.000Z",
+    "modDatetime": "2026-11-09T00:50:00.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2e75c325d505",
+            "text": "第一次接触代理工具，最容易混淆的是“软件”和“服务”。客户端负责读取配置、建立连接和执行规则；远端服务提供实际连接所需的节点与账号。安装客户端后，仍然需要与它兼容的有效配置。",
+            "marks": []
+          }
+        ],
+        "_key": "b3e966eec130",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "eb752ab864dd",
+            "text": "先分清各类工具的职责，再决定自己需要安装哪一种，可以少走很多弯路。",
+            "marks": []
+          }
+        ],
+        "_key": "a2d50785e1d5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e7b2741eec99",
+            "text": "四类工具分别做什么",
+            "marks": []
+          }
+        ],
+        "_key": "4baee126a273",
+        "markDefs": []
+      },
+      {
+        "_type": "tableBlock",
+        "header": [
+          "类别",
+          "负责的事情",
+          "什么时候需要"
+        ],
+        "rows": [
+          {
+            "_type": "tableRow",
+            "cells": [
+              "客户端",
+              "读取节点配置、建立连接、按规则处理请求",
+              "在电脑或手机上使用已有服务"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "订阅管理",
+              "整理多个配置来源、更新或转换格式",
+              "配置来源较多，手动维护开始重复时"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "测速与诊断",
+              "观察连通性、延迟、吞吐与错误信息",
+              "能否连接或使用体验出现问题时"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "服务端与运维",
+              "部署远端服务、更新系统、管理访问与日志",
+              "自己维护服务器时"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "42398cf77d79",
+            "text": "刚开始通常只需要一个客户端和一份兼容配置。订阅管理与服务端工具可以在出现具体需求后再补充。",
+            "marks": []
+          }
+        ],
+        "_key": "cfb6169c8899",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "1fe738d1e7a8",
+            "text": "选择客户端：先过这五关",
+            "marks": []
+          }
+        ],
+        "_key": "4783d831047a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b68d5d322626",
+            "text": "系统兼容。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "7711c2d09b68",
+            "text": " 确认设备系统版本与处理器架构，下载对应安装包。",
+            "marks": []
+          }
+        ],
+        "_key": "1659ea1a7f34",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "fd5fef6ccb2b",
+            "text": "配置兼容。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "2bea268dd816",
+            "text": " 让服务提供方说明支持哪些客户端或配置格式；名称相似不代表能直接互用。",
+            "marks": []
+          }
+        ],
+        "_key": "144c03017857",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0765e3991088",
+            "text": "日常操作。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "5011839880e2",
+            "text": " 看能否方便地更新配置、切换节点、查看连接状态和日志。",
+            "marks": []
+          }
+        ],
+        "_key": "579e6813a86c",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de0c6c83a1c7",
+            "text": "获取渠道。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "72d5580b67f9",
+            "text": " 从项目官网、官方仓库或官方指向的应用商店获取，核对发布者。",
+            "marks": []
+          }
+        ],
+        "_key": "20ec9ca93933",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0f807368a645",
+            "text": "维护方式。",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "febdd7d8ebfb",
+            "text": " 了解更新说明在哪里、配置能否导出、遇到问题怎样提交日志。",
+            "marks": []
+          }
+        ],
+        "_key": "8ed1038cd30f",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b2394a14d133",
+            "text": "不要在第一次连接时同时更换多个客户端。先选一个与服务文档对应的工具，把整个流程跑通，再比较界面与附加功能。",
+            "marks": []
+          }
+        ],
+        "_key": "a19cd4f24302",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e3140b466e2c",
+            "text": "第一次连接的顺序",
+            "marks": []
+          }
+        ],
+        "_key": "1f909ba88a20",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ecf650cf5965",
+            "text": "1. 先确认普通网络正常",
+            "marks": []
+          }
+        ],
+        "_key": "f2ab2d6d82ef",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "180a848d9311",
+            "text": "关闭其他代理或 VPN，检查常规网页能否打开。若基础网络本身有问题，导入再多配置也无法解决。",
+            "marks": []
+          }
+        ],
+        "_key": "75ad9996c1b7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "944f8bad9153",
+            "text": "2. 导入一份配置",
+            "marks": []
+          }
+        ],
+        "_key": "9649cfa6f9da",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "07cededcbfa0",
+            "text": "按服务文档导入订阅链接或配置文件。订阅链接可能带有访问凭据，应像密码一样保存；截图、工单和公开代码仓库里都不应出现完整链接。",
+            "marks": []
+          }
+        ],
+        "_key": "803d8309df19",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b3293dda84fa",
+            "text": "导入后检查是否出现节点和规则，确认账号状态与剩余流量。不要先堆叠多个来源，避免分不清当前使用的是哪一份配置。",
+            "marks": []
+          }
+        ],
+        "_key": "3d601e621ca2",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "01753e901b45",
+            "text": "3. 从默认规则开始",
+            "marks": []
+          }
+        ],
+        "_key": "af8305233b75",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "452a1b56b393",
+            "text": "系统代理通常依赖应用是否遵循系统设置；TUN 一类模式通过虚拟网络接口处理符合其路由范围的流量，往往涉及更高权限与额外配置。两者具体覆盖哪些流量取决于工具和系统。",
+            "marks": []
+          }
+        ],
+        "_key": "7db01c469a3a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "49b2b643566e",
+            "text": "初次使用先按官方说明选择模式。只有明确遇到某个应用不遵循当前设置时，再研究相应模式，避免把“开启更多开关”当作通用解法。",
+            "marks": []
+          }
+        ],
+        "_key": "b975e8aa8eec",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b21cb4c1d583",
+            "text": "4. 用真实任务验证",
+            "marks": []
+          }
+        ],
+        "_key": "0f6e039e89b8",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2c3439d8fa42",
+            "text": "先访问常用网站或完成一次实际操作，再查看客户端连接记录。确认任务能完成后，记录一个可用配置，后续调整时就有可回退的起点。",
+            "marks": []
+          }
+        ],
+        "_key": "3d276015f825",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "714803f90c19",
+            "text": "订阅管理什么时候才值得加入",
+            "marks": []
+          }
+        ],
+        "_key": "c611ed9beb82",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "724dd462ffae",
+            "text": "当你需要维护多个来源、统一节点命名，或给不同设备生成配置时，订阅管理会更有价值。只有一个来源、更新也很顺畅时，可以先用客户端自带的更新功能。",
+            "marks": []
+          }
+        ],
+        "_key": "6e72ce1551ec",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f257b2859f48",
+            "text": "采用在线转换或管理工具前，先弄清数据在哪里处理、是否保存原始订阅、是否能自行部署。转换工具能改变配置结构，却无法让客户端凭空支持它本来不支持的协议或功能。",
+            "marks": []
+          }
+        ],
+        "_key": "e3d92936ecd7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "6cd8506cae55",
+            "text": "修改规则前保存原配置。连接不正常时，先恢复已知可用的版本，比不断叠加补丁更容易定位问题。",
+            "marks": []
+          }
+        ],
+        "_key": "8366ad0273fa",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0ac82859eade",
+            "text": "连接不通时按这个顺序检查",
+            "marks": []
+          }
+        ],
+        "_key": "b0c2a7fe451a",
+        "markDefs": []
+      },
+      {
+        "_type": "tableBlock",
+        "header": [
+          "现象",
+          "先检查",
+          "下一步"
+        ],
+        "rows": [
+          {
+            "_type": "tableRow",
+            "cells": [
+              "普通网页也打不开",
+              "本地网络、其他代理或 VPN 是否冲突",
+              "暂停代理后测试基础网络"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "订阅更新失败",
+              "账号状态、链接是否完整、订阅地址能否访问",
+              "查看明确的错误信息，必要时重新获取链接"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "所有节点都连接失败",
+              "流量与有效期、配置格式、客户端日志",
+              "换一个网络测试，区分本地与服务问题"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "只有一个节点异常",
+              "该节点状态与配置",
+              "在相同网络下比较另一节点"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "浏览器可用，某个应用不可用",
+              "应用是否遵循当前代理设置、分流规则",
+              "查应用与客户端的模式说明"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "能连但很慢",
+              "当前网络、任务类型、节点负载与时间段",
+              "固定一个变量，重复同一任务"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "474b88a8ff66",
+            "text": "一次只调整一个变量，才能判断变化来自哪里。如果网络、节点、客户端和规则同时更换，即便恢复连接也很难复现。",
+            "marks": []
+          }
+        ],
+        "_key": "f89bd221656e",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a8ca1033d885",
+            "text": "测速数字应该怎样看",
+            "marks": []
+          }
+        ],
+        "_key": "ba5c7e947b34",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "1b5067480452",
+            "text": "连通性",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "9afbd51cbc0a",
+            "text": "回答目标是否可达；",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "a12d5946bfcd",
+            "text": "延迟",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "a5d9ec5fdb67",
+            "text": "描述请求往返时间；",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "83e7f4f21472",
+            "text": "吞吐",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "f6ab645ff2f9",
+            "text": "描述一定时间能传输多少数据。这些指标各自回答不同问题，不能用一个分数代替完整体验。",
+            "marks": []
+          }
+        ],
+        "_key": "82011a9fcbb8",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ed0e263e1085",
+            "text": "测试应记录目标、时间、网络、客户端版本与节点。连续几次观察通常比单次结果更有参考价值，但大型下载测速会消耗流量，按需测试即可。",
+            "marks": []
+          }
+        ],
+        "_key": "65b837b1d93a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2107279a772a",
+            "text": "提交问题时可以整理下面的信息，并遮盖账号、IP、令牌与订阅链接等敏感内容：",
+            "marks": []
+          }
+        ],
+        "_key": "a6eef4b08052",
+        "markDefs": []
+      },
+      {
+        "_key": "c765eee79897",
+        "_type": "code",
+        "language": "text",
+        "code": "设备与系统版本：\n客户端与版本：\n网络环境：\n发生问题的时间：\n预期行为 / 实际行为：\n可复现的最短步骤：\n已尝试的方法：\n脱敏后的相关日志："
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "c672e072c55c",
+            "text": "需要自己维护服务端吗",
+            "marks": []
+          }
+        ],
+        "_key": "04ae309a4ca5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "195a18afc020",
+            "text": "如果只是连接已有服务，日常工作主要在客户端。只有需要自行部署和管理远端服务时，才涉及服务器操作系统、端口、防火墙、更新和备份。",
+            "marks": []
+          }
+        ],
+        "_key": "8c731b437529",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "bf43d80e38c9",
+            "text": "准备自建之前，先读 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "baffea201518",
+            "text": "VPS 选择指南",
+            "marks": [
+              "250204ee6f5f"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "8699c42d703a",
+            "text": "，理解 IP 类型与维护成本。仍在选择服务时，可用 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "fefd9bc9255f",
+            "text": "服务选购与试用指南",
+            "marks": [
+              "a8248e28ac0c"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "7341842c157d",
+            "text": " 的记录表建立自己的比较依据。",
+            "marks": []
+          }
+        ],
+        "_key": "c6a7cf61b022",
+        "markDefs": [
+          {
+            "_key": "250204ee6f5f",
+            "_type": "link",
+            "href": "/blog/vps-recommendation/"
+          },
+          {
+            "_key": "a8248e28ac0c",
+            "_type": "link",
+            "href": "/blog/airport-recommendation/"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "38474a0dd75b",
+            "text": "常见问题",
+            "marks": []
+          }
+        ],
+        "_key": "d9df07d8f151",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f1eb96c79664",
+            "text": "同时开两个客户端会更稳定吗？",
+            "marks": []
+          }
+        ],
+        "_key": "e5fcd364e9c7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "281de70eb2ce",
+            "text": "两个工具可能同时修改系统代理、路由或 DNS 设置，反而增加排错变量。先使用一个已配置好的工具，确认退出后网络设置能正常恢复。",
+            "marks": []
+          }
+        ],
+        "_key": "5225b485c7cd",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "806282b929f4",
+            "text": "更新软件后突然无法连接怎么办？",
+            "marks": []
+          }
+        ],
+        "_key": "d47d816262d8",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "56f14725cc31",
+            "text": "先查看版本说明与配置格式变化，保留日志和原配置。若需要回退，应使用官方提供的版本并确认配置兼容，避免从不明来源下载旧安装包。",
+            "marks": []
+          }
+        ],
+        "_key": "d8f20bbab38c",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "6572beb3e6a4",
+            "text": "为什么不直接公开订阅链接求助？",
+            "marks": []
+          }
+        ],
+        "_key": "5b89cc11c128",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9e3ba62f3cb9",
+            "text": "链接可能允许他人使用你的服务或读取配置。公开前先脱敏；如果已经泄露，应到服务后台更换订阅地址或凭据。",
+            "marks": []
+          }
+        ],
+        "_key": "89b50847e1f5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "65e575ab7ab7",
+            "text": "更新记录",
+            "marks": []
+          }
+        ],
+        "_key": "19c2746631f9",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "41f70449039d",
+            "text": "2026-11-09：补充工具分工、首次连接、模式说明与逐步排错方法。",
+            "marks": []
+          }
+        ],
+        "_key": "7202d23ef9cc",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "393439684bd6",
+            "text": "2026-11-06：建立工具分类与新手路线。",
+            "marks": []
+          }
+        ],
+        "_key": "25b20124f685",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      }
+    ],
+    "bodyMarkdown": "第一次接触代理工具，最容易混淆的是“软件”和“服务”。客户端负责读取配置、建立连接和执行规则；远端服务提供实际连接所需的节点与账号。安装客户端后，仍然需要与它兼容的有效配置。\n\n先分清各类工具的职责，再决定自己需要安装哪一种，可以少走很多弯路。\n\n## 四类工具分别做什么\n\n| 类别         | 负责的事情                             | 什么时候需要                     |\n| ------------ | -------------------------------------- | -------------------------------- |\n| 客户端       | 读取节点配置、建立连接、按规则处理请求 | 在电脑或手机上使用已有服务       |\n| 订阅管理     | 整理多个配置来源、更新或转换格式       | 配置来源较多，手动维护开始重复时 |\n| 测速与诊断   | 观察连通性、延迟、吞吐与错误信息       | 能否连接或使用体验出现问题时     |\n| 服务端与运维 | 部署远端服务、更新系统、管理访问与日志 | 自己维护服务器时                 |\n\n刚开始通常只需要一个客户端和一份兼容配置。订阅管理与服务端工具可以在出现具体需求后再补充。\n\n## 选择客户端：先过这五关\n\n1. **系统兼容。** 确认设备系统版本与处理器架构，下载对应安装包。\n2. **配置兼容。** 让服务提供方说明支持哪些客户端或配置格式；名称相似不代表能直接互用。\n3. **日常操作。** 看能否方便地更新配置、切换节点、查看连接状态和日志。\n4. **获取渠道。** 从项目官网、官方仓库或官方指向的应用商店获取，核对发布者。\n5. **维护方式。** 了解更新说明在哪里、配置能否导出、遇到问题怎样提交日志。\n\n不要在第一次连接时同时更换多个客户端。先选一个与服务文档对应的工具，把整个流程跑通，再比较界面与附加功能。\n\n## 第一次连接的顺序\n\n### 1. 先确认普通网络正常\n\n关闭其他代理或 VPN，检查常规网页能否打开。若基础网络本身有问题，导入再多配置也无法解决。\n\n### 2. 导入一份配置\n\n按服务文档导入订阅链接或配置文件。订阅链接可能带有访问凭据，应像密码一样保存；截图、工单和公开代码仓库里都不应出现完整链接。\n\n导入后检查是否出现节点和规则，确认账号状态与剩余流量。不要先堆叠多个来源，避免分不清当前使用的是哪一份配置。\n\n### 3. 从默认规则开始\n\n系统代理通常依赖应用是否遵循系统设置；TUN 一类模式通过虚拟网络接口处理符合其路由范围的流量，往往涉及更高权限与额外配置。两者具体覆盖哪些流量取决于工具和系统。\n\n初次使用先按官方说明选择模式。只有明确遇到某个应用不遵循当前设置时，再研究相应模式，避免把“开启更多开关”当作通用解法。\n\n### 4. 用真实任务验证\n\n先访问常用网站或完成一次实际操作，再查看客户端连接记录。确认任务能完成后，记录一个可用配置，后续调整时就有可回退的起点。\n\n## 订阅管理什么时候才值得加入\n\n当你需要维护多个来源、统一节点命名，或给不同设备生成配置时，订阅管理会更有价值。只有一个来源、更新也很顺畅时，可以先用客户端自带的更新功能。\n\n采用在线转换或管理工具前，先弄清数据在哪里处理、是否保存原始订阅、是否能自行部署。转换工具能改变配置结构，却无法让客户端凭空支持它本来不支持的协议或功能。\n\n修改规则前保存原配置。连接不正常时，先恢复已知可用的版本，比不断叠加补丁更容易定位问题。\n\n## 连接不通时按这个顺序检查\n\n| 现象                       | 先检查                                   | 下一步                                 |\n| -------------------------- | ---------------------------------------- | -------------------------------------- |\n| 普通网页也打不开           | 本地网络、其他代理或 VPN 是否冲突        | 暂停代理后测试基础网络                 |\n| 订阅更新失败               | 账号状态、链接是否完整、订阅地址能否访问 | 查看明确的错误信息，必要时重新获取链接 |\n| 所有节点都连接失败         | 流量与有效期、配置格式、客户端日志       | 换一个网络测试，区分本地与服务问题     |\n| 只有一个节点异常           | 该节点状态与配置                         | 在相同网络下比较另一节点               |\n| 浏览器可用，某个应用不可用 | 应用是否遵循当前代理设置、分流规则       | 查应用与客户端的模式说明               |\n| 能连但很慢                 | 当前网络、任务类型、节点负载与时间段     | 固定一个变量，重复同一任务             |\n\n一次只调整一个变量，才能判断变化来自哪里。如果网络、节点、客户端和规则同时更换，即便恢复连接也很难复现。\n\n## 测速数字应该怎样看\n\n**连通性**回答目标是否可达；**延迟**描述请求往返时间；**吞吐**描述一定时间能传输多少数据。这些指标各自回答不同问题，不能用一个分数代替完整体验。\n\n测试应记录目标、时间、网络、客户端版本与节点。连续几次观察通常比单次结果更有参考价值，但大型下载测速会消耗流量，按需测试即可。\n\n提交问题时可以整理下面的信息，并遮盖账号、IP、令牌与订阅链接等敏感内容：\n\n```text\n设备与系统版本：\n客户端与版本：\n网络环境：\n发生问题的时间：\n预期行为 / 实际行为：\n可复现的最短步骤：\n已尝试的方法：\n脱敏后的相关日志：\n```\n\n## 需要自己维护服务端吗\n\n如果只是连接已有服务，日常工作主要在客户端。只有需要自行部署和管理远端服务时，才涉及服务器操作系统、端口、防火墙、更新和备份。\n\n准备自建之前，先读 [VPS 选择指南](/blog/vps-recommendation/)，理解 IP 类型与维护成本。仍在选择服务时，可用 [服务选购与试用指南](/blog/airport-recommendation/) 的记录表建立自己的比较依据。\n\n## 常见问题\n\n### 同时开两个客户端会更稳定吗？\n\n两个工具可能同时修改系统代理、路由或 DNS 设置，反而增加排错变量。先使用一个已配置好的工具，确认退出后网络设置能正常恢复。\n\n### 更新软件后突然无法连接怎么办？\n\n先查看版本说明与配置格式变化，保留日志和原配置。若需要回退，应使用官方提供的版本并确认配置兼容，避免从不明来源下载旧安装包。\n\n### 为什么不直接公开订阅链接求助？\n\n链接可能允许他人使用你的服务或读取配置。公开前先脱敏；如果已经泄露，应到服务后台更换订阅地址或凭据。\n\n## 更新记录\n\n- 2026-11-09：补充工具分工、首次连接、模式说明与逐步排错方法。\n- 2026-11-06：建立工具分类与新手路线。",
+    "_migration": {
+      "source": "proxy-tools.md",
+      "fixes": [],
+      "url": "/blog/proxy-tools/"
+    }
+  },
+  {
+    "_type": "guide",
+    "_id": "imported-us-apple-id-guide",
+    "title": "美区 Apple ID 注册与使用",
+    "slug": {
+      "_type": "slug",
+      "current": "us-apple-id-guide"
+    },
+    "description": "从零注册美区 Apple ID：准备材料、两条注册路线、已有账号换区、付款方式选“无”、礼品卡充值与避坑，关键步骤以 Apple 官方文档为准。",
+    "audience": "在国内使用海外服务，需要一个美区 Apple ID 下载 App、订阅服务的用户。",
+    "tags": [
+      "Apple ID",
+      "注册指南"
+    ],
+    "keywords": [
+      "美区 Apple ID",
+      "Apple ID 注册",
+      "Apple ID 换区",
+      "Apple ID 付款方式无",
+      "Apple ID 礼品卡充值",
+      "免税州"
+    ],
+    "featured": false,
+    "pubDatetime": "2026-11-10T10:45:00.000Z",
+    "modDatetime": "2026-11-13T05:49:36.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "93a835f7e29b",
+            "text": "我要下一个美区才有的 App，国区号下不了，就办了个美区号。注册本身不花钱，卡我的就三件事：地区选美国、付款方式选“无”、账单地址填免税州。这三件弄对了，后面就顺了。",
+            "marks": []
+          }
+        ],
+        "_key": "7fff970243da",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "39bf4da7a790",
+            "text": "先准备这几样",
+            "marks": []
+          }
+        ],
+        "_key": "0e6fb6b2a54a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "bf80f39de6d7",
+            "text": "邮箱得是没注册过 Apple 账户的。手机号用国内 +86 就行，注册时要收验证码。出生日期按真实的填。手头有一台 iPhone，或者一台能打开网页的电脑，都行。",
+            "marks": []
+          }
+        ],
+        "_key": "24f56671bf57",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "881734e36b86",
+            "text": "账单地址要一个美国地址。我填的是免税州，买东西不加销售税。免税州就五个：Oregon（俄勒冈州）、Alaska（阿拉斯加州）、Delaware（特拉华州）、Montana（蒙大拿州）、New Hampshire（新罕布什尔州）。Alaska 有些地方还会收地方销售税，Oregon 最干净，我用的就是 Oregon。",
+            "marks": []
+          }
+        ],
+        "_key": "9f0c0d3e55ca",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "12f992b48942",
+            "text": "注册：我走的是官网这条路",
+            "marks": []
+          }
+        ],
+        "_key": "c5c61dccc4f7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9d8361550696",
+            "text": "打开 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "f04bb1c71095",
+            "text": "account.apple.com",
+            "marks": [
+              "c08224b9de00"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "7c4a1aca0eac",
+            "text": "，点“创建你的 Apple 账户”。填邮箱、设一个强密码，地区选美国。填生日和随时能用的电话号码。最后按提示验证邮箱和手机号，就成了。",
+            "marks": []
+          }
+        ],
+        "_key": "318062ce4fa1",
+        "markDefs": [
+          {
+            "_key": "c08224b9de00",
+            "_type": "link",
+            "href": "http://account.apple.com"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f490982cdb1c",
+            "text": "另外两条路也走得通，我都试着走过流程：",
+            "marks": []
+          }
+        ],
+        "_key": "8cf8b063f20e",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4e5de83b7650",
+            "text": "iCloud 官网注册。打开 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "165d2cceda98",
+            "text": "www.icloud.com",
+            "marks": [
+              "d810d6c39d01"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "f16d6a8b22e4",
+            "text": "，点登录页下方的“创建 Apple 账户”。姓名用英文填，国家和地区选美国，填邮箱、密码、电话号码，国内 +86 能用。邮箱和手机号分别验证一遍。注册完在 iCloud 个人信息里能看到账号在哪个地区。",
+            "marks": []
+          }
+        ],
+        "_key": "85c80c8a8ae0",
+        "markDefs": [
+          {
+            "_key": "d810d6c39d01",
+            "_type": "link",
+            "href": "http://www.icloud.com"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "5511717c99c7",
+            "text": "iPhone 上直接注册。先把设备地区改成美国，定位服务关掉。打开“设置 → 邮件 → 添加账户 → iCloud → 创建新 Apple 账户”。按流程填姓名、出生日期、邮箱、密码、绑手机号。注册完去“设置 → 账户 → 媒体与购买项目”登录刚注册的账号，再用手机浏览器打开 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "2862ab9078ce",
+            "text": "apps.apple.com/us/app，把商店切到美区。下载一个免费",
+            "marks": [
+              "3fd767253d66"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "f005202b3a9e",
+            "text": " App，会提示完善付款方式和地址。",
+            "marks": []
+          }
+        ],
+        "_key": "4be3ed5f8532",
+        "markDefs": [
+          {
+            "_key": "3fd767253d66",
+            "_type": "link",
+            "href": "http://apps.apple.com/us/app%EF%BC%8C%E6%8A%8A%E5%95%86%E5%BA%97%E5%88%87%E5%88%B0%E7%BE%8E%E5%8C%BA%E3%80%82%E4%B8%8B%E8%BD%BD%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "49ac8057f6f4",
+            "text": "刚注册的号还不能直接下 App，得先把账单地址完善了，见下一步。",
+            "marks": []
+          }
+        ],
+        "_key": "6e0f24d3e579",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2de93f09fd5d",
+            "text": "付款方式选“无”，别手滑",
+            "marks": []
+          }
+        ],
+        "_key": "0a31b5196181",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "072bcd64419a",
+            "text": "创建账户时 Apple 会让你填付款方式和账单信息。付款方式那一栏可以直接选“无”。没买东西就不会扣钱。",
+            "marks": []
+          }
+        ],
+        "_key": "61039c9e315a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "664efe51608d",
+            "text": "这一步我差点手滑：千万别点信用卡或者 PayPal。点了就得填付款信息。只有确实要绑卡的时候才点。选了“无”之后，账单地址那一栏还是要填，填个免税州地址就行。",
+            "marks": []
+          }
+        ],
+        "_key": "aee575e48a4f",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "488892d2c01a",
+            "text": "已有国区号，换区也行",
+            "marks": []
+          }
+        ],
+        "_key": "dbd1a5e2e67a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "cea7ae8e8ddd",
+            "text": "我最后是新注册了一个，没走换区。但换区这条路我也对过流程，手头已经有国区号的人可以走：打开“设置”，点你的姓名，点“媒体与购买项目”，点“国家/地区”，选美国，点“继续”，看完条款点“同意”，选付款方式，输入新的付款信息和账单邮寄地址，点“完成”。",
+            "marks": []
+          }
+        ],
+        "_key": "fa7efa469ea5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0b0d7a94a277",
+            "text": "换区之前有三件事得先做：把账户里剩下的余额花掉；把会挡住换区的订阅取消掉，等到订阅期结束；等所有待处理的退款完成。",
+            "marks": []
+          }
+        ],
+        "_key": "735bfce1da4c",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ca0c00db9010",
+            "text": "换区和新注册的区别得说清楚：官方的说法是，换区要准备好新地区有效的付款方式。如果不想填付款方式，官方建议等本人到了新国家或地区再处理，或者直接创建一个新账户。所以手头没有现成国区号的话，新注册更顺。",
+            "marks": []
+          }
+        ],
+        "_key": "91575d11aa34",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "fa97e27fe3b7",
+            "text": "充值：买美区礼品卡",
+            "marks": []
+          }
+        ],
+        "_key": "0b5b2c1bcfdc",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "67191a841fdf",
+            "text": "美区账户的消费和订阅从账户余额里扣。充值办法是买美区 Apple Gift Card，兑换到账户余额里。Apple 官网就有礼品卡卖。拿到卡后在 App Store 或者账户设置里兑换，余额到账后再订阅。订阅之前先确认余额够不够。",
+            "marks": []
+          }
+        ],
+        "_key": "af5d8c38f50a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d7977efb217c",
+            "text": "我踩过的坑",
+            "marks": []
+          }
+        ],
+        "_key": "9f3853a9898d",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "532ffa8906c4",
+            "text": "付款方式菜单别乱点。只在确实要绑卡时才点信用卡或者 PayPal，不然会被要求填付款信息。",
+            "marks": []
+          }
+        ],
+        "_key": "0fbf33eea885",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2a7f7f3d2a6b",
+            "text": "注册时如果跳出“此时无法创建你的账户”，别慌。晚点再试一次，或者换一条路线注册。",
+            "marks": []
+          }
+        ],
+        "_key": "0c4a9710b7b8",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d00296471dea",
+            "text": "没选免税州也能注册，但买东西的时候可能被加销售税。",
+            "marks": []
+          }
+        ],
+        "_key": "9eccb9a81b45",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2d736d2d583b",
+            "text": "主号和美区号别混着用。个人 Apple 账户（设置里的那个）保留原来的，美区号只登录 App Store。",
+            "marks": []
+          }
+        ],
+        "_key": "30b4407be5e5",
+        "markDefs": []
+      }
+    ],
+    "bodyMarkdown": "我要下一个美区才有的 App，国区号下不了，就办了个美区号。注册本身不花钱，卡我的就三件事：地区选美国、付款方式选“无”、账单地址填免税州。这三件弄对了，后面就顺了。\n\n## 先准备这几样\n\n邮箱得是没注册过 Apple 账户的。手机号用国内 +86 就行，注册时要收验证码。出生日期按真实的填。手头有一台 iPhone，或者一台能打开网页的电脑，都行。\n\n账单地址要一个美国地址。我填的是免税州，买东西不加销售税。免税州就五个：Oregon（俄勒冈州）、Alaska（阿拉斯加州）、Delaware（特拉华州）、Montana（蒙大拿州）、New Hampshire（新罕布什尔州）。Alaska 有些地方还会收地方销售税，Oregon 最干净，我用的就是 Oregon。\n\n## 注册：我走的是官网这条路\n\n打开 account.apple.com，点“创建你的 Apple 账户”。填邮箱、设一个强密码，地区选美国。填生日和随时能用的电话号码。最后按提示验证邮箱和手机号，就成了。\n\n另外两条路也走得通，我都试着走过流程：\n\niCloud 官网注册。打开 www.icloud.com，点登录页下方的“创建 Apple 账户”。姓名用英文填，国家和地区选美国，填邮箱、密码、电话号码，国内 +86 能用。邮箱和手机号分别验证一遍。注册完在 iCloud 个人信息里能看到账号在哪个地区。\n\niPhone 上直接注册。先把设备地区改成美国，定位服务关掉。打开“设置 → 邮件 → 添加账户 → iCloud → 创建新 Apple 账户”。按流程填姓名、出生日期、邮箱、密码、绑手机号。注册完去“设置 → 账户 → 媒体与购买项目”登录刚注册的账号，再用手机浏览器打开 apps.apple.com/us/app，把商店切到美区。下载一个免费 App，会提示完善付款方式和地址。\n\n刚注册的号还不能直接下 App，得先把账单地址完善了，见下一步。\n\n## 付款方式选“无”，别手滑\n\n创建账户时 Apple 会让你填付款方式和账单信息。付款方式那一栏可以直接选“无”。没买东西就不会扣钱。\n\n这一步我差点手滑：千万别点信用卡或者 PayPal。点了就得填付款信息。只有确实要绑卡的时候才点。选了“无”之后，账单地址那一栏还是要填，填个免税州地址就行。\n\n## 已有国区号，换区也行\n\n我最后是新注册了一个，没走换区。但换区这条路我也对过流程，手头已经有国区号的人可以走：打开“设置”，点你的姓名，点“媒体与购买项目”，点“国家/地区”，选美国，点“继续”，看完条款点“同意”，选付款方式，输入新的付款信息和账单邮寄地址，点“完成”。\n\n换区之前有三件事得先做：把账户里剩下的余额花掉；把会挡住换区的订阅取消掉，等到订阅期结束；等所有待处理的退款完成。\n\n换区和新注册的区别得说清楚：官方的说法是，换区要准备好新地区有效的付款方式。如果不想填付款方式，官方建议等本人到了新国家或地区再处理，或者直接创建一个新账户。所以手头没有现成国区号的话，新注册更顺。\n\n## 充值：买美区礼品卡\n\n美区账户的消费和订阅从账户余额里扣。充值办法是买美区 Apple Gift Card，兑换到账户余额里。Apple 官网就有礼品卡卖。拿到卡后在 App Store 或者账户设置里兑换，余额到账后再订阅。订阅之前先确认余额够不够。\n\n## 我踩过的坑\n\n付款方式菜单别乱点。只在确实要绑卡时才点信用卡或者 PayPal，不然会被要求填付款信息。\n\n注册时如果跳出“此时无法创建你的账户”，别慌。晚点再试一次，或者换一条路线注册。\n\n没选免税州也能注册，但买东西的时候可能被加销售税。\n\n主号和美区号别混着用。个人 Apple 账户（设置里的那个）保留原来的，美区号只登录 App Store。",
+    "_migration": {
+      "source": "us-apple-id-guide.md",
+      "fixes": [],
+      "url": "/blog/us-apple-id-guide/"
+    }
+  },
+  {
+    "_type": "guide",
+    "_id": "imported-vps-recommendation",
+    "title": "VPS 怎么选：用途、IP 类型与总成本一次理清",
+    "slug": {
+      "_type": "slug",
+      "current": "vps-recommendation"
+    },
+    "description": "从是否需要服务器开始，比较独立 IPv4、NAT 与纯 IPv6，列清账单、备份和迁移成本。",
+    "audience": "准备部署个人应用或购买第一台 VPS，希望了解配置和维护成本的用户。",
+    "tags": [
+      "VPS",
+      "IPv4",
+      "选购指南"
+    ],
+    "keywords": [
+      "VPS选择",
+      "独立IPv4",
+      "NAT",
+      "IPv6",
+      "服务器成本"
+    ],
+    "featured": true,
+    "pubDatetime": "2026-11-05T23:00:00.000Z",
+    "modDatetime": "2026-11-09T00:50:00.000Z",
+    "body": [
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9fd94ba7e136",
+            "text": "VPS 是需要自己维护的一台虚拟服务器。购买时你得到的不只是 CPU、内存和磁盘，也承担系统更新、访问控制、备份与故障处理。先确认要运行什么，再看套餐，通常比从促销列表开始更容易选对。",
+            "marks": []
+          }
+        ],
+        "_key": "d15aaa7c22d1",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "24f9b47ec387",
+            "text": "先判断是否需要 VPS",
+            "marks": []
+          }
+        ],
+        "_key": "0dd14a2ac193",
+        "markDefs": []
+      },
+      {
+        "_type": "tableBlock",
+        "header": [
+          "目标",
+          "可以先考虑的方案",
+          "什么时候需要服务器"
+        ],
+        "rows": [
+          {
+            "_type": "tableRow",
+            "cells": [
+              "发布静态博客或作品集",
+              "静态托管",
+              "需要长期运行自己的后端进程时"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "运行个人 API 或小型应用",
+              "托管应用平台或 VPS",
+              "需要控制运行环境、系统依赖或后台进程时"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "学习 Linux 与系统管理",
+              "本地虚拟机或短期 VPS",
+              "需要从外部网络访问、练习公网部署时"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "保存重要文件",
+              "专门的存储与备份方案",
+              "需要自建应用，且已安排另一份独立备份时"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "76ce0c563d35",
+            "text": "例如本站这样的静态博客，构建后主要是 HTML、CSS 和 JavaScript 文件。静态托管就可以提供这些文件，不必为了发布博客额外维护一台 VPS。",
+            "marks": []
+          }
+        ],
+        "_key": "77fbfce8cb39",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "eb54b5c6f1a9",
+            "text": "写一份最小需求单",
+            "marks": []
+          }
+        ],
+        "_key": "33b234b39c0a",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "91144d786cf7",
+            "text": "购买前先回答这些问题：",
+            "marks": []
+          }
+        ],
+        "_key": "4d9853f676e1",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "da0f1a9dad44",
+            "text": "应用是否需要特定系统、处理器架构或容器环境？",
+            "marks": []
+          }
+        ],
+        "_key": "99843cd63930",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "62e7b5ae19b8",
+            "text": "文档要求多少内存？部署、构建和升级时是否会有更高峰值？",
+            "marks": []
+          }
+        ],
+        "_key": "65b995c4ec98",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "06f0fc99067c",
+            "text": "数据会增长多快？日志、镜像与临时文件是否也计入磁盘预算？",
+            "marks": []
+          }
+        ],
+        "_key": "ec9f24ad1012",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "7cd9b93dddeb",
+            "text": "谁会访问应用，访问者主要在哪些地区？",
+            "marks": []
+          }
+        ],
+        "_key": "a35a2a1f5215",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "af5bcf469ae0",
+            "text": "需要哪些入站端口，是否需要发送邮件等特殊用途？",
+            "marks": []
+          }
+        ],
+        "_key": "f49628327796",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "b864ed4005fc",
+            "text": "可以接受多长停机时间？由谁恢复数据和处理账单？",
+            "marks": []
+          }
+        ],
+        "_key": "e1f35ec72a17",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e8fd6b26b2fc",
+            "text": "资源需求不明确时，可以先在本地运行应用，观察内存和磁盘，再选可升级的短期套餐。注意“可升级”也可能伴随重启或迁移，是否能降配以及磁盘能否缩小需要单独了解。",
+            "marks": []
+          }
+        ],
+        "_key": "50ec764e3f66",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "653b405e29e8",
+            "text": "分清三种 IP 类型",
+            "marks": []
+          }
+        ],
+        "_key": "389eea3fd404",
+        "markDefs": []
+      },
+      {
+        "_type": "tableBlock",
+        "header": [
+          "类型",
+          "意味着什么",
+          "重点检查"
+        ],
+        "rows": [
+          {
+            "_type": "tableRow",
+            "cells": [
+              "独立 IPv4",
+              "该公网 IPv4 分配给你的实例使用",
+              "是否包含在价格内、哪些端口可用、能否更换 IP"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "NAT / 共享 IPv4",
+              "多个实例通过共享公网 IPv4 进行通信",
+              "分配哪些入站端口、端口映射如何配置、是否满足应用要求"
+            ]
+          },
+          {
+            "_type": "tableRow",
+            "cells": [
+              "纯 IPv6",
+              "实例只有 IPv6 公网连接能力",
+              "访问者和外部依赖是否支持 IPv6，是否另需转接方案"
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "e1c5d72999ae",
+            "text": "NAT 实例不等于无法提供服务，但不能假设任意公网端口都能直接映射给你。若应用要求特定端口，先确认套餐允许的映射方式。",
+            "marks": []
+          }
+        ],
+        "_key": "4d5a9190f260",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "bb359354bad4",
+            "text": "纯 IPv6 也不等于所有 IPv4 用户都能直接访问。接入转换或代理会增加配置和成本，应该在购买前验证完整的访问路径。产品标题里的“公网”两个字不足以代替规格说明。",
+            "marks": []
+          }
+        ],
+        "_key": "cabbfa4b35eb",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "6b5e5d7fddd0",
+            "text": "看配置时，不要只看数字大小",
+            "marks": []
+          }
+        ],
+        "_key": "ca05f7bad0b6",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8c5e4fdd33fd",
+            "text": "CPU：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "d322149138f5",
+            "text": " vCPU 数量没有说明所有性能差异。共享与专用资源、持续占用限制，以及应用偏向单核还是多核，都会影响选择。",
+            "marks": []
+          }
+        ],
+        "_key": "f4a22b3ef5ad",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "49cc57c7002b",
+            "text": "内存：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "1ce68259e7b0",
+            "text": " 既要容纳业务进程，也要留给操作系统、数据库和更新任务。内存长期不足可能导致进程退出；交换空间不能替代足够的工作内存。",
+            "marks": []
+          }
+        ],
+        "_key": "758da92c37b7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "665e30ee32d4",
+            "text": "磁盘：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "a7085a0dc449",
+            "text": " 容量、性能与可靠性是不同问题。快照便于回退，但若仍依赖同一账户或平台，应另保留可独立恢复的数据副本。",
+            "marks": []
+          }
+        ],
+        "_key": "e697a564f8ca",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "212a3dcb08be",
+            "text": "网络：",
+            "marks": [
+              "strong"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "df76d7ef87bc",
+            "text": " 端口带宽描述瞬时传输能力，月流量描述一个计费周期的用量。两者都要看，还要了解超量后是降速、停机还是继续计费。",
+            "marks": []
+          }
+        ],
+        "_key": "fe5cecae7f8d",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9ddf13f684a6",
+            "text": "把总成本写成一张账单",
+            "marks": []
+          }
+        ],
+        "_key": "83fa492b6092",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "blockquote",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "ce3057cbcccc",
+            "text": "首年总成本 = 主机费用 + IP 附加费 + 备份与存储 + 必需的附加服务 + 税费及支付成本",
+            "marks": []
+          }
+        ],
+        "_key": "535d0e68504f",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "eb549a113cf5",
+            "text": "再单独列一遍续费金额。首期优惠可能只覆盖主机的一部分费用，也可能不适用于后续续费。",
+            "marks": []
+          }
+        ],
+        "_key": "35b95a2b1a1d",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d46e62d85671",
+            "text": "下面只是演示算法，不是商家报价：主机每月 30 元、IP 每月 8 元、备份每月 5 元，那么一年合计为 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "fc7e8e04c685",
+            "text": "(30 + 8 + 5) × 12 = 516 元",
+            "marks": [
+              "code"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "93d492b10945",
+            "text": "，尚未加入其他可能的费用。若只用主机标价计算，会把预算低估 156 元。",
+            "marks": []
+          }
+        ],
+        "_key": "0f78282aa3c0",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "408c69f7d881",
+            "text": "除金额外，再留出维护时间。经常手工修复、缺少备份和迁移方式的低价方案，未必符合你的实际需求。",
+            "marks": []
+          }
+        ],
+        "_key": "da62a81324fa",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4284889063b7",
+            "text": "付款前的检查表",
+            "marks": []
+          }
+        ],
+        "_key": "fa26346a4e1f",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "52c50c11db64",
+            "text": "确认首期价、续费价、币种和计费周期，保存订单摘要。",
+            "marks": []
+          }
+        ],
+        "_key": "f1a361b8d9ff",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "8ec78ce1f696",
+            "text": "确认 IP 类型、入站端口与应用用途是否被允许。",
+            "marks": []
+          }
+        ],
+        "_key": "35a6d4949c04",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "05a0ac4d2c2b",
+            "text": "看清流量统计方向、超量处理与资源使用限制。",
+            "marks": []
+          }
+        ],
+        "_key": "387d3e5fc75c",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "09269b326608",
+            "text": "了解退款条件、取消方式和账户余额是否可退。",
+            "marks": []
+          }
+        ],
+        "_key": "98ab1a9e2be5",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "a32318859691",
+            "text": "找到控制台、重装、救援或远程控制入口。",
+            "marks": []
+          }
+        ],
+        "_key": "a8bc410f2f94",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "89a628f886c3",
+            "text": "预先确定备份存放位置和恢复步骤。",
+            "marks": []
+          }
+        ],
+        "_key": "24153ba12f78",
+        "markDefs": [],
+        "listItem": "number",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "3e4129ddfca7",
+            "text": "开通后的第一周",
+            "marks": []
+          }
+        ],
+        "_key": "88e4603b72f6",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "2d3c6d30d67b",
+            "text": "先更新系统，使用可靠的登录方式并限制管理入口。配置防火墙时保留当前会话，在新会话验证可以登录后再退出，避免把自己锁在服务器外。",
+            "marks": []
+          }
+        ],
+        "_key": "4a75e5867fad",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "9bcb71765c42",
+            "text": "随后部署一个最小版本，检查实际资源占用，配置日志轮转与备份。至少尝试一次恢复：能创建备份并不意味着已经知道如何恢复应用、配置与数据。",
+            "marks": []
+          }
+        ],
+        "_key": "74a9351b355b",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "787a464ff66e",
+            "text": "一周后再决定是否长期使用。记录的重点应包括真实任务是否完成、故障能否定位、费用是否符合预期，而不是只留下一个跑分截图。",
+            "marks": []
+          }
+        ],
+        "_key": "d0ee97984de8",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "469659d51d0b",
+            "text": "常见问题",
+            "marks": []
+          }
+        ],
+        "_key": "41d880f8db56",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "261b7eb5201b",
+            "text": "个人博客一定要买服务器吗？",
+            "marks": []
+          }
+        ],
+        "_key": "bfabb0ff9768",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "f08074cde649",
+            "text": "不一定。静态博客可以使用静态托管。需要动态后端时，也可以比较托管平台与自行维护 VPS 的工作量。",
+            "marks": []
+          }
+        ],
+        "_key": "19d462d25e60",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "151739c81256",
+            "text": "内存不够，可以之后升级吗？",
+            "marks": []
+          }
+        ],
+        "_key": "ebb46533f5aa",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "d3e853bc86c1",
+            "text": "这取决于套餐规则与宿主机资源。购买前确认升级是否需要迁移、是否停机、如何计算差价，以及能否回退。",
+            "marks": []
+          }
+        ],
+        "_key": "8ad5071f1993",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "16aa40d932be",
+            "text": "只用于连接已有服务，需要买 VPS 吗？",
+            "marks": []
+          }
+        ],
+        "_key": "c79fe310b2e5",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4223e5d2d2f8",
+            "text": "通常先了解现有服务与客户端即可。参见 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "460cd84064c3",
+            "text": "代理工具入门",
+            "marks": [
+              "484f06b2c12a"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "523982c9181d",
+            "text": " 和 ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "13005db95ede",
+            "text": "服务选择指南",
+            "marks": [
+              "743ce2a99106"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "0422362bacc3",
+            "text": "，再判断是否确实需要自己维护服务端。",
+            "marks": []
+          }
+        ],
+        "_key": "976e2f241ae3",
+        "markDefs": [
+          {
+            "_key": "484f06b2c12a",
+            "_type": "link",
+            "href": "/blog/proxy-tools/"
+          },
+          {
+            "_key": "743ce2a99106",
+            "_type": "link",
+            "href": "/blog/airport-recommendation/"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "aa8b30d7528e",
+            "text": "更新记录",
+            "marks": []
+          }
+        ],
+        "_key": "49f338f4a4b7",
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "4327bda4176d",
+            "text": "2026-11-09：补充用途判断、IP 对照、总成本示例与开通后的检查步骤。",
+            "marks": []
+          }
+        ],
+        "_key": "699fff8c8efc",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "6447833f02d0",
+            "text": "2026-11-06：建立配置与 IP 类型比较框架。",
+            "marks": []
+          }
+        ],
+        "_key": "b8ffc08022ac",
+        "markDefs": [],
+        "listItem": "bullet",
+        "level": 1
+      }
+    ],
+    "bodyMarkdown": "VPS 是需要自己维护的一台虚拟服务器。购买时你得到的不只是 CPU、内存和磁盘，也承担系统更新、访问控制、备份与故障处理。先确认要运行什么，再看套餐，通常比从促销列表开始更容易选对。\n\n## 先判断是否需要 VPS\n\n| 目标                    | 可以先考虑的方案     | 什么时候需要服务器                     |\n| ----------------------- | -------------------- | -------------------------------------- |\n| 发布静态博客或作品集    | 静态托管             | 需要长期运行自己的后端进程时           |\n| 运行个人 API 或小型应用 | 托管应用平台或 VPS   | 需要控制运行环境、系统依赖或后台进程时 |\n| 学习 Linux 与系统管理   | 本地虚拟机或短期 VPS | 需要从外部网络访问、练习公网部署时     |\n| 保存重要文件            | 专门的存储与备份方案 | 需要自建应用，且已安排另一份独立备份时 |\n\n例如本站这样的静态博客，构建后主要是 HTML、CSS 和 JavaScript 文件。静态托管就可以提供这些文件，不必为了发布博客额外维护一台 VPS。\n\n## 写一份最小需求单\n\n购买前先回答这些问题：\n\n- 应用是否需要特定系统、处理器架构或容器环境？\n- 文档要求多少内存？部署、构建和升级时是否会有更高峰值？\n- 数据会增长多快？日志、镜像与临时文件是否也计入磁盘预算？\n- 谁会访问应用，访问者主要在哪些地区？\n- 需要哪些入站端口，是否需要发送邮件等特殊用途？\n- 可以接受多长停机时间？由谁恢复数据和处理账单？\n\n资源需求不明确时，可以先在本地运行应用，观察内存和磁盘，再选可升级的短期套餐。注意“可升级”也可能伴随重启或迁移，是否能降配以及磁盘能否缩小需要单独了解。\n\n## 分清三种 IP 类型\n\n| 类型            | 意味着什么                         | 重点检查                                             |\n| --------------- | ---------------------------------- | ---------------------------------------------------- |\n| 独立 IPv4       | 该公网 IPv4 分配给你的实例使用     | 是否包含在价格内、哪些端口可用、能否更换 IP          |\n| NAT / 共享 IPv4 | 多个实例通过共享公网 IPv4 进行通信 | 分配哪些入站端口、端口映射如何配置、是否满足应用要求 |\n| 纯 IPv6         | 实例只有 IPv6 公网连接能力         | 访问者和外部依赖是否支持 IPv6，是否另需转接方案      |\n\nNAT 实例不等于无法提供服务，但不能假设任意公网端口都能直接映射给你。若应用要求特定端口，先确认套餐允许的映射方式。\n\n纯 IPv6 也不等于所有 IPv4 用户都能直接访问。接入转换或代理会增加配置和成本，应该在购买前验证完整的访问路径。产品标题里的“公网”两个字不足以代替规格说明。\n\n## 看配置时，不要只看数字大小\n\n**CPU：** vCPU 数量没有说明所有性能差异。共享与专用资源、持续占用限制，以及应用偏向单核还是多核，都会影响选择。\n\n**内存：** 既要容纳业务进程，也要留给操作系统、数据库和更新任务。内存长期不足可能导致进程退出；交换空间不能替代足够的工作内存。\n\n**磁盘：** 容量、性能与可靠性是不同问题。快照便于回退，但若仍依赖同一账户或平台，应另保留可独立恢复的数据副本。\n\n**网络：** 端口带宽描述瞬时传输能力，月流量描述一个计费周期的用量。两者都要看，还要了解超量后是降速、停机还是继续计费。\n\n## 把总成本写成一张账单\n\n> 首年总成本 = 主机费用 + IP 附加费 + 备份与存储 + 必需的附加服务 + 税费及支付成本\n\n再单独列一遍续费金额。首期优惠可能只覆盖主机的一部分费用，也可能不适用于后续续费。\n\n下面只是演示算法，不是商家报价：主机每月 30 元、IP 每月 8 元、备份每月 5 元，那么一年合计为 `(30 + 8 + 5) × 12 = 516 元`，尚未加入其他可能的费用。若只用主机标价计算，会把预算低估 156 元。\n\n除金额外，再留出维护时间。经常手工修复、缺少备份和迁移方式的低价方案，未必符合你的实际需求。\n\n## 付款前的检查表\n\n1. 确认首期价、续费价、币种和计费周期，保存订单摘要。\n2. 确认 IP 类型、入站端口与应用用途是否被允许。\n3. 看清流量统计方向、超量处理与资源使用限制。\n4. 了解退款条件、取消方式和账户余额是否可退。\n5. 找到控制台、重装、救援或远程控制入口。\n6. 预先确定备份存放位置和恢复步骤。\n\n## 开通后的第一周\n\n先更新系统，使用可靠的登录方式并限制管理入口。配置防火墙时保留当前会话，在新会话验证可以登录后再退出，避免把自己锁在服务器外。\n\n随后部署一个最小版本，检查实际资源占用，配置日志轮转与备份。至少尝试一次恢复：能创建备份并不意味着已经知道如何恢复应用、配置与数据。\n\n一周后再决定是否长期使用。记录的重点应包括真实任务是否完成、故障能否定位、费用是否符合预期，而不是只留下一个跑分截图。\n\n## 常见问题\n\n### 个人博客一定要买服务器吗？\n\n不一定。静态博客可以使用静态托管。需要动态后端时，也可以比较托管平台与自行维护 VPS 的工作量。\n\n### 内存不够，可以之后升级吗？\n\n这取决于套餐规则与宿主机资源。购买前确认升级是否需要迁移、是否停机、如何计算差价，以及能否回退。\n\n### 只用于连接已有服务，需要买 VPS 吗？\n\n通常先了解现有服务与客户端即可。参见 [代理工具入门](/blog/proxy-tools/) 和 [服务选择指南](/blog/airport-recommendation/)，再判断是否确实需要自己维护服务端。\n\n## 更新记录\n\n- 2026-11-09：补充用途判断、IP 对照、总成本示例与开通后的检查步骤。\n- 2026-11-06：建立配置与 IP 类型比较框架。",
+    "_migration": {
+      "source": "vps-recommendation.md",
+      "fixes": [],
+      "url": "/blog/vps-recommendation/"
+    }
+  }
+]

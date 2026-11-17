@@ -1,0 +1,385 @@
+{
+  "_type": "deal",
+  "_id": "imported-epic-knightica-free",
+  "title": "Epic 限免：Knightica 免费领，原价 $14.99",
+  "slug": {
+    "_type": "slug",
+    "current": "epic-knightica-free"
+  },
+  "description": "Epic Games Store 本周限免 Knightica，原价 $14.99，北京时间 2026-11-13 至 11-20 免费领取，领后永久入库。",
+  "audience": "需 Epic Games 账号；Windows PC",
+  "benefit": "Knightica，Windows PC 版，原价 $14.99，领后永久入库",
+  "cost": "免费（$0）；需 Epic Games 账号",
+  "conditions": "在 Epic Games Store 完成免费领取；领后永久保留",
+  "expiresAt": "2026-11-19T16:00:00.000Z",
+  "claimUrl": "https://store.epicgames.com/p/knightica-3be45c",
+  "verification": "official-page",
+  "dealStatus": "ready",
+  "dealValidUntil": "2026-11-19T16:00:00.000Z",
+  "dealRecord": {
+    "id": "epic-knightica-free",
+    "checkedAt": "2026-11-13T06:08:00.000Z",
+    "deadlineStatus": "confirmed",
+    "expiryNote": "北京时间 2026-11-20 00:00 截止（UTC 11 月 19 日 16:00）；Epic 商店商品页已核对",
+    "steps": [
+      "登录 Epic Games 账号",
+      "在 Epic Games Store 找到 Knightica 商品页",
+      "点获取，确认总价是 0，再下订单"
+    ],
+    "evidence": [
+      {
+        "field": "benefit",
+        "note": "商品页显示免费，原价 US$14.99 划线 -100%",
+        "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+      },
+      {
+        "field": "cost",
+        "note": "商品页显示免费，$0",
+        "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+      },
+      {
+        "field": "audience",
+        "note": "商品页正常展示，未见地区限制",
+        "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+      },
+      {
+        "field": "conditions",
+        "note": "商品页显示获取按钮",
+        "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+      },
+      {
+        "field": "deadline",
+        "note": "商品页写优惠截止于 2026/11/20 GMT+8 00:00",
+        "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+      },
+      {
+        "field": "claimUrl",
+        "note": "商品页地址即领取入口",
+        "sourceUrl": "https://store.epicgames.com/p/knightica-3be45c"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "discovery",
+        "title": "Epic 本周限免：Knightica 免费领",
+        "url": "https://linux.do/c/welfare/36/l/top"
+      },
+      {
+        "kind": "official",
+        "title": "Knightica",
+        "url": "https://store.epicgames.com/p/knightica-3be45c"
+      },
+      {
+        "kind": "secondary",
+        "title": "Epic free games for 12-19 November 2026 — GamerGuru",
+        "url": "https://gamerguru.net/pc-games/epic-games-store-free-games"
+      },
+      {
+        "kind": "secondary",
+        "title": "Free Epic Games This Week (November 2026) - CriticDB",
+        "url": "https://criticdb.com/epic-free-games"
+      },
+      {
+        "kind": "secondary",
+        "title": "本週 Epic Games Store 免費遊戲",
+        "url": "https://games.gg/zh-Hant/lists/free/epic-games/"
+      },
+      {
+        "kind": "secondary",
+        "title": "Free Games This Week: Epic, PS Plus, Prime Gaming and Steam",
+        "url": "https://gamingroute.com/free-games-this-week/"
+      },
+      {
+        "kind": "secondary",
+        "title": "Knightica: Claim This Free Fantasy Strategy Game Now",
+        "url": "https://www.trishtech.com/2026/11/knightica-claim-this-free-fantasy-strategy-game-now/"
+      }
+    ]
+  },
+  "unknowns": [],
+  "tags": [
+    "游戏",
+    "Epic",
+    "限免"
+  ],
+  "pubDatetime": "2026-11-12T16:40:00.000Z",
+  "modDatetime": "2026-11-13T06:08:00.000Z",
+  "body": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3ebe0afdf0a9",
+          "text": "Epic 每周四换限免，这周轮到 Knightica。原价 $14.99，北京时间 11 月 13 日 0 点到 11 月 20 日 0 点免费领，领了就永久留在库里，不下载也不会丢。",
+          "marks": []
+        }
+      ],
+      "_key": "61b53ccea88f",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dff692baf443",
+          "text": "一眼看清",
+          "marks": []
+        }
+      ],
+      "_key": "3cef4ddf7dc7",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "408b0693e350",
+          "text": "能获得什么：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "0c4393b93405",
+          "text": " Knightica，Windows PC 版，原价 $14.99，领后永久入库",
+          "marks": []
+        }
+      ],
+      "_key": "d313f0f174d3",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ca08d34e4425",
+          "text": "实际费用：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "c746c1f43246",
+          "text": " 免费（$0）；需 Epic Games 账号",
+          "marks": []
+        }
+      ],
+      "_key": "f58adf35f88c",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "40ad0445410f",
+          "text": "适用人群：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "b7d880e58af9",
+          "text": " 需 Epic Games 账号；Windows PC",
+          "marks": []
+        }
+      ],
+      "_key": "d5e57e8acc5b",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cd11e2c346c7",
+          "text": "截止时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "febc3874d773",
+          "text": " 北京时间 2026-11-20 00:00（UTC 11 月 19 日 16:00）",
+          "marks": []
+        }
+      ],
+      "_key": "64c0d6988a29",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "779488ff74f8",
+          "text": "核对时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "a6e25b27c91c",
+          "text": " 2026-11-13T06:08:00Z",
+          "marks": []
+        }
+      ],
+      "_key": "167da0a861fe",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d631a5a0be46",
+          "text": "核对情况：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "6a9dd3470dc2",
+          "text": " 已核对 Epic 商店商品页：显示免费，原价 US$14.99 划线 -100%，优惠截止于 2026/11/20 GMT+8 00:00，未见地区限制。",
+          "marks": []
+        }
+      ],
+      "_key": "60bb842083e6",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6b78d9c6c39b",
+          "text": "领取步骤",
+          "marks": []
+        }
+      ],
+      "_key": "210b649ed70a",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7e2ea8192cf0",
+          "text": "官方领取入口",
+          "marks": [
+            "541af651ef51"
+          ]
+        }
+      ],
+      "_key": "450dd048850d",
+      "markDefs": [
+        {
+          "_key": "541af651ef51",
+          "_type": "link",
+          "href": "https://store.epicgames.com/p/knightica-3be45c"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ce55cef87887",
+          "text": "登录 Epic Games 账号",
+          "marks": []
+        }
+      ],
+      "_key": "cca33e9ad775",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "14a8b27e51f7",
+          "text": "在 Epic Games Store 找到 Knightica 商品页",
+          "marks": []
+        }
+      ],
+      "_key": "d7e91fdf7d30",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "704bb14855c4",
+          "text": "点获取，确认总价是 0，再下订单",
+          "marks": []
+        }
+      ],
+      "_key": "4dff91ef154d",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "86616c39af0b",
+          "text": "过期就回原价，想玩只能等下次打折。",
+          "marks": []
+        }
+      ],
+      "_key": "2b3704e94ce9",
+      "markDefs": []
+    }
+  ],
+  "bodyMarkdown": "Epic 每周四换限免，这周轮到 Knightica。原价 $14.99，北京时间 11 月 13 日 0 点到 11 月 20 日 0 点免费领，领了就永久留在库里，不下载也不会丢。\n\n## 一眼看清\n\n- **能获得什么：** Knightica，Windows PC 版，原价 $14.99，领后永久入库\n- **实际费用：** 免费（$0）；需 Epic Games 账号\n- **适用人群：** 需 Epic Games 账号；Windows PC\n- **截止时间：** 北京时间 2026-11-20 00:00（UTC 11 月 19 日 16:00）\n- **核对时间：** 2026-11-13T06:08:00Z\n- **核对情况：** 已核对 Epic 商店商品页：显示免费，原价 US$14.99 划线 -100%，优惠截止于 2026/11/20 GMT+8 00:00，未见地区限制。\n\n## 领取步骤\n\n[官方领取入口](<https://store.epicgames.com/p/knightica-3be45c>)\n\n1. 登录 Epic Games 账号\n2. 在 Epic Games Store 找到 Knightica 商品页\n3. 点获取，确认总价是 0，再下订单\n\n过期就回原价，想玩只能等下次打折。",
+  "_migration": {
+    "source": "deals/epic-knightica-free.md",
+    "fixes": [],
+    "url": "/blog/deals/epic-knightica-free/"
+  }
+}

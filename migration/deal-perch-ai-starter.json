@@ -1,0 +1,450 @@
+{
+  "_type": "deal",
+  "_id": "imported-perch-ai-starter",
+  "title": "Perch AI Starter 免费方案：每月 20,000 PT，约合 $20 用量",
+  "slug": {
+    "_type": "slug",
+    "current": "perch-ai-starter"
+  },
+  "description": "Perch AI 免费 Starter 方案，每月含 20,000 PT，不需要信用卡，可在 Web、桌面版和 CLI 使用轮替的前沿模型。",
+  "audience": "需注册 Perch 账号；地区限制未确认",
+  "benefit": "Perch AI Starter 免费方案：每月 20,000 PT，约合 $20 用量",
+  "cost": "",
+  "conditions": "",
+  "expiresAt": null,
+  "claimUrl": null,
+  "verification": null,
+  "dealStatus": "blocked",
+  "dealValidUntil": null,
+  "dealRecord": {
+    "id": "perch-ai-starter",
+    "checkedAt": null,
+    "deadlineStatus": null,
+    "expiryNote": null,
+    "steps": [],
+    "evidence": [],
+    "sources": []
+  },
+  "unknowns": [],
+  "tags": [
+    "AI 工具",
+    "免费额度",
+    "Perch AI"
+  ],
+  "pubDatetime": "2026-11-07T15:20:25.000Z",
+  "modDatetime": "2026-11-07T15:20:25.000Z",
+  "body": [
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9f603d3acb0a",
+          "text": "一眼看清",
+          "marks": []
+        }
+      ],
+      "_key": "5493cc0a7f6c",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d6bf53a34cba",
+          "text": "能获得什么：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "d33a23cda530",
+          "text": " 每月 20,000 PT，官方称相当于 Starter Roost 模型池上最多价值 $20 的内含托管用量",
+          "marks": []
+        }
+      ],
+      "_key": "8436c5b97437",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2edea9d4641d",
+          "text": "实际费用：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "cdec8e7ca1b4",
+          "text": " 免费（$0），不需要信用卡",
+          "marks": []
+        }
+      ],
+      "_key": "cbe1dbcf8cf5",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "173708eee5e0",
+          "text": "适用人群：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "db8d1ea988e6",
+          "text": " 需注册 Perch 账号；地区限制未确认",
+          "marks": []
+        }
+      ],
+      "_key": "fdf9b41d25c3",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c0f08954c6b8",
+          "text": "截止时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "2f9c22be1cd1",
+          "text": " 未确认；官方未写 Starter 免费方案的截止日，无截止日不等于永久有效；Qwen 3.8 Max 仅提供至 2026-11-20，与免费额度本身的期限不是同一回事",
+          "marks": []
+        }
+      ],
+      "_key": "0c7564d370f1",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a695bd3ceb8e",
+          "text": "核对时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "937a991ca69c",
+          "text": " 2026-11-07T15:20:25Z",
+          "marks": []
+        }
+      ],
+      "_key": "96316c90f539",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ebcc2f2fcb41",
+          "text": "核对情况：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "c1e64f4f0e1f",
+          "text": " 记录附有官方页面依据；未实际完成领取，未知条件见下文。",
+          "marks": []
+        }
+      ],
+      "_key": "727d731c4496",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b25afd6e6025",
+          "text": "领取条件",
+          "marks": []
+        }
+      ],
+      "_key": "6765cfc7f867",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7be552c9a4e8",
+          "text": "用量按每个日历月依 UTC 时间重置；Starter 模型池轮替，依可用情况而定；不含直接 API 存取；免费活动可能成为衍生训练数据，可在设置中关闭 Starter Data Program",
+          "marks": []
+        }
+      ],
+      "_key": "58c0faff8f00",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2ac7e42f6808",
+          "text": "领取入口与步骤",
+          "marks": []
+        }
+      ],
+      "_key": "4453d71326ca",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cadbc08bc4f8",
+          "text": "官方领取入口",
+          "marks": [
+            "4e3da7a47f05"
+          ]
+        }
+      ],
+      "_key": "a1d9532a62b9",
+      "markDefs": [
+        {
+          "_key": "4e3da7a47f05",
+          "_type": "link",
+          "href": "https://www.perchai.app/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ef011dc9b07a",
+          "text": "在 chat.perchai.app 建立免费账号",
+          "marks": []
+        }
+      ],
+      "_key": "b893b2a491eb",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "78dcf204317b",
+          "text": "首次登录时选择 Starter 方案",
+          "marks": []
+        }
+      ],
+      "_key": "7967cdd7d2a8",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "74b38660df52",
+          "text": "在 Web、桌面版或 CLI 中使用，每月用量按日历月重置",
+          "marks": []
+        }
+      ],
+      "_key": "a9c7ae87683e",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2c80553c7894",
+          "text": "尚未确认",
+          "marks": []
+        }
+      ],
+      "_key": "b53301ce8b7e",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a35f4d2b7c34",
+          "text": "地区限制未确认",
+          "marks": []
+        }
+      ],
+      "_key": "932d6663159d",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5607ac8fd0f9",
+          "text": "免费方案是否有长期保留承诺未确认",
+          "marks": []
+        }
+      ],
+      "_key": "c496f633627c",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "559463d2eee5",
+          "text": "周末额度加倍活动的具体规则未确认，原帖称以产品页为准，官方 FAQ 未写",
+          "marks": []
+        }
+      ],
+      "_key": "1f1c5880cf0d",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "732a29a72e52",
+          "text": "来源",
+          "marks": []
+        }
+      ],
+      "_key": "d866f4b7903d",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3a8e65e299c7",
+          "text": "发现来源：",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "7b2a38dc1afb",
+          "text": "Perch AI 每个月20刀免费额度。",
+          "marks": [
+            "1aae2a6b96ad"
+          ]
+        }
+      ],
+      "_key": "d12d8ce262ef",
+      "markDefs": [
+        {
+          "_key": "1aae2a6b96ad",
+          "_type": "link",
+          "href": "https://linux.do/t/topic/3137866"
+        }
+      ],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4ca6ff71fcb4",
+          "text": "官方依据：",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "f94ce241423b",
+          "text": "常見問題 | Perch AI",
+          "marks": [
+            "082bd9a990bc"
+          ]
+        }
+      ],
+      "_key": "58abbbcd525a",
+      "markDefs": [
+        {
+          "_key": "082bd9a990bc",
+          "_type": "link",
+          "href": "https://www.perchai.app/zh-tw/faq"
+        }
+      ],
+      "listItem": "bullet",
+      "level": 1
+    }
+  ],
+  "bodyMarkdown": "<!-- 自动导入的候选草稿。字段校验不等于事实核实，当前不会自动公开发布。 -->\n\n## 一眼看清\n\n- **能获得什么：** 每月 20,000 PT，官方称相当于 Starter Roost 模型池上最多价值 $20 的内含托管用量\n- **实际费用：** 免费（$0），不需要信用卡\n- **适用人群：** 需注册 Perch 账号；地区限制未确认\n- **截止时间：** 未确认；官方未写 Starter 免费方案的截止日，无截止日不等于永久有效；Qwen 3.8 Max 仅提供至 2026-11-20，与免费额度本身的期限不是同一回事\n- **核对时间：** 2026-11-07T15:20:25Z\n- **核对情况：** 记录附有官方页面依据；未实际完成领取，未知条件见下文。\n\n## 领取条件\n\n用量按每个日历月依 UTC 时间重置；Starter 模型池轮替，依可用情况而定；不含直接 API 存取；免费活动可能成为衍生训练数据，可在设置中关闭 Starter Data Program\n\n## 领取入口与步骤\n\n[官方领取入口](<https://www.perchai.app/>)\n\n1. 在 chat.perchai.app 建立免费账号\n2. 首次登录时选择 Starter 方案\n3. 在 Web、桌面版或 CLI 中使用，每月用量按日历月重置\n\n## 尚未确认\n\n- 地区限制未确认\n- 免费方案是否有长期保留承诺未确认\n- 周末额度加倍活动的具体规则未确认，原帖称以产品页为准，官方 FAQ 未写\n\n## 来源\n\n- 发现来源：[Perch AI 每个月20刀免费额度。](<https://linux.do/t/topic/3137866>)\n- 官方依据：[常見問題 \\| Perch AI](<https://www.perchai.app/zh-tw/faq>)\n\n<!-- deal-import:v1 sha256:9a3eda99b644d250e9fe90efda47f62252b50cdc51b457d67e015052702f5267 -->",
+  "_migration": {
+    "source": "deals/perch-ai-starter.md",
+    "fixes": [],
+    "url": "/blog/deals/perch-ai-starter/"
+  }
+}

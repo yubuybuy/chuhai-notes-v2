@@ -1,0 +1,379 @@
+{
+  "_type": "deal",
+  "_id": "imported-openrouter-ernie-5-5-flash-preview-free",
+  "title": "OpenRouter 免费模型：百度 ERNIE-5.5-Flash-Preview，$0、1M 上下文",
+  "slug": {
+    "_type": "slug",
+    "current": "openrouter-ernie-5-5-flash-preview-free"
+  },
+  "description": "百度 ERNIE-5.5-Flash-Preview 在 OpenRouter 上免费调用，输入输出都是 $0，上下文 1M，模型号 baidu/ernie-5.5-flash-preview:free。",
+  "audience": "需 OpenRouter 账号；会调 API 用",
+  "benefit": "ERNIE-5.5-Flash-Preview，输入输出 $0，上下文 1,024,000 tokens",
+  "cost": "免费（$0）；需 OpenRouter 账号",
+  "conditions": "注册 OpenRouter 账号、建一把 API key，模型号填 baidu/ernie-5.5-flash-preview:free；免费档有限速",
+  "expiresAt": null,
+  "claimUrl": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
+  "verification": "official-page",
+  "dealStatus": "ready",
+  "dealValidUntil": null,
+  "dealRecord": {
+    "id": "openrouter-ernie-5-5-flash-preview-free",
+    "checkedAt": "2026-11-14T02:40:00.000Z",
+    "deadlineStatus": "not-published",
+    "expiryNote": "官方未写截止日",
+    "steps": [
+      "注册 OpenRouter 账号",
+      "建一把 API key",
+      "把客户端接到 https://openrouter.ai/api/v1",
+      "模型填 baidu/ernie-5.5-flash-preview:free"
+    ],
+    "evidence": [
+      {
+        "field": "benefit",
+        "note": "官方模型页显示免费，上下文 1.0M，2026-11-10 上线",
+        "sourceUrl": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free"
+      },
+      {
+        "field": "cost",
+        "note": "官方模型页写明价格是 0，输入输出都不收费",
+        "sourceUrl": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free"
+      },
+      {
+        "field": "conditions",
+        "note": "官方页写明免费端点有限速，超了按限速文档处理",
+        "sourceUrl": "https://openrouter.ai/docs/use-cases/limits"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "official",
+        "title": "ERNIE-5.5-Flash-Preview (free)",
+        "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free"
+      },
+      {
+        "kind": "official",
+        "title": "API Credit & Rate Limits",
+        "url": "https://openrouter.ai/docs/use-cases/limits"
+      }
+    ]
+  },
+  "unknowns": [
+    "免费档每分钟、每天的具体次数，官方限速页的表格在这次打开时没读出来",
+    "我没实际调过这个模型，只对了官方页"
+  ],
+  "tags": [
+    "AI 工具",
+    "免费额度",
+    "OpenRouter"
+  ],
+  "pubDatetime": "2026-11-14T02:40:00.000Z",
+  "modDatetime": "2026-11-14T02:40:00.000Z",
+  "body": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fda6634f000e",
+          "text": "百度这个新模型 11 月 10 日才上 OpenRouter，免费，上下文 1M。我对着官方页看了一遍，输入输出都是 $0，拿来跑代码、读长文档都够用了。",
+          "marks": []
+        }
+      ],
+      "_key": "30c31de97a48",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3cebf789595b",
+          "text": "一眼看清",
+          "marks": []
+        }
+      ],
+      "_key": "9ceff16dd09d",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f629cc262eb2",
+          "text": "能获得什么：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "b8436f43dcaf",
+          "text": " ERNIE-5.5-Flash-Preview，输入输出 $0，上下文 1,024,000 tokens",
+          "marks": []
+        }
+      ],
+      "_key": "79e644836903",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d4d0041255ec",
+          "text": "实际费用：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "688878c9c318",
+          "text": " 免费（$0）；需 OpenRouter 账号",
+          "marks": []
+        }
+      ],
+      "_key": "9ca23ef8cdbd",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1bbfd15fd98f",
+          "text": "适用人群：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "e67039f366e1",
+          "text": " 需 OpenRouter 账号；会调 API 用",
+          "marks": []
+        }
+      ],
+      "_key": "8f7c240f2982",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f819f7e7b559",
+          "text": "截止时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "49a813f95b43",
+          "text": " 官方未写",
+          "marks": []
+        }
+      ],
+      "_key": "a077fbbe597b",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f44de34eecd7",
+          "text": "核对时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "2fcbb6a59313",
+          "text": " 2026-11-14T02:40:00Z",
+          "marks": []
+        }
+      ],
+      "_key": "61c77d62e6a4",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9ffa1d0f9bc9",
+          "text": "核对情况：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "1956f3d9c973",
+          "text": " 已核对 OpenRouter 官方模型页：显示免费，上下文 1.0M，2026-11-10 上线，由百度 Qianfan 提供。",
+          "marks": []
+        }
+      ],
+      "_key": "1e706716645e",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6157b02f5639",
+          "text": "领取步骤",
+          "marks": []
+        }
+      ],
+      "_key": "18f27327558d",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a993ef97270a",
+          "text": "官方模型页",
+          "marks": [
+            "4f6d787042d3"
+          ]
+        }
+      ],
+      "_key": "902e320bf2c2",
+      "markDefs": [
+        {
+          "_key": "4f6d787042d3",
+          "_type": "link",
+          "href": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "82811ab22152",
+          "text": "注册 OpenRouter 账号",
+          "marks": []
+        }
+      ],
+      "_key": "5e2e84111ac8",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e2247727e219",
+          "text": "建一把 API key",
+          "marks": []
+        }
+      ],
+      "_key": "a9f394fa979e",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "07f276cb3621",
+          "text": "把客户端接到 ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "1dbaad7ac32a",
+          "text": "https://openrouter.ai/api/v1",
+          "marks": [
+            "c5a50799982d"
+          ]
+        }
+      ],
+      "_key": "4746b1d9ead4",
+      "markDefs": [
+        {
+          "_key": "c5a50799982d",
+          "_type": "link",
+          "href": "https://openrouter.ai/api/v1"
+        }
+      ],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3ebd2adad7d3",
+          "text": "模型填 baidu/ernie-5.5-flash-preview:free",
+          "marks": []
+        }
+      ],
+      "_key": "43ae2b84b724",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "679529bba800",
+          "text": "免费档有限速，请求太密会报 429，等一等再试。模型名里的 :free 别漏了，漏了就不是免费那个。",
+          "marks": []
+        }
+      ],
+      "_key": "b664249b698d",
+      "markDefs": []
+    }
+  ],
+  "bodyMarkdown": "百度这个新模型 11 月 10 日才上 OpenRouter，免费，上下文 1M。我对着官方页看了一遍，输入输出都是 $0，拿来跑代码、读长文档都够用了。\n\n## 一眼看清\n\n- **能获得什么：** ERNIE-5.5-Flash-Preview，输入输出 $0，上下文 1,024,000 tokens\n- **实际费用：** 免费（$0）；需 OpenRouter 账号\n- **适用人群：** 需 OpenRouter 账号；会调 API 用\n- **截止时间：** 官方未写\n- **核对时间：** 2026-11-14T02:40:00Z\n- **核对情况：** 已核对 OpenRouter 官方模型页：显示免费，上下文 1.0M，2026-11-10 上线，由百度 Qianfan 提供。\n\n## 领取步骤\n\n[官方模型页](<https://openrouter.ai/baidu/ernie-5.5-flash-preview:free>)\n\n1. 注册 OpenRouter 账号\n2. 建一把 API key\n3. 把客户端接到 https://openrouter.ai/api/v1\n4. 模型填 baidu/ernie-5.5-flash-preview:free\n\n免费档有限速，请求太密会报 429，等一等再试。模型名里的 :free 别漏了，漏了就不是免费那个。",
+  "_migration": {
+    "source": "deals/openrouter-ernie-5-5-flash-preview-free.md",
+    "fixes": [],
+    "url": "/blog/deals/openrouter-ernie-5-5-flash-preview-free/"
+  }
+}

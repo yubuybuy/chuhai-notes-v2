@@ -1,0 +1,867 @@
+{
+  "_type": "guide",
+  "_id": "imported-vps-recommendation",
+  "title": "VPS 怎么选：用途、IP 类型与总成本一次理清",
+  "slug": {
+    "_type": "slug",
+    "current": "vps-recommendation"
+  },
+  "description": "从是否需要服务器开始，比较独立 IPv4、NAT 与纯 IPv6，列清账单、备份和迁移成本。",
+  "audience": "准备部署个人应用或购买第一台 VPS，希望了解配置和维护成本的用户。",
+  "tags": [
+    "VPS",
+    "IPv4",
+    "选购指南"
+  ],
+  "keywords": [
+    "VPS选择",
+    "独立IPv4",
+    "NAT",
+    "IPv6",
+    "服务器成本"
+  ],
+  "featured": true,
+  "pubDatetime": "2026-11-05T23:00:00.000Z",
+  "modDatetime": "2026-11-09T00:50:00.000Z",
+  "body": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9fd94ba7e136",
+          "text": "VPS 是需要自己维护的一台虚拟服务器。购买时你得到的不只是 CPU、内存和磁盘，也承担系统更新、访问控制、备份与故障处理。先确认要运行什么，再看套餐，通常比从促销列表开始更容易选对。",
+          "marks": []
+        }
+      ],
+      "_key": "d15aaa7c22d1",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "24f9b47ec387",
+          "text": "先判断是否需要 VPS",
+          "marks": []
+        }
+      ],
+      "_key": "0dd14a2ac193",
+      "markDefs": []
+    },
+    {
+      "_type": "tableBlock",
+      "header": [
+        "目标",
+        "可以先考虑的方案",
+        "什么时候需要服务器"
+      ],
+      "rows": [
+        {
+          "_type": "tableRow",
+          "cells": [
+            "发布静态博客或作品集",
+            "静态托管",
+            "需要长期运行自己的后端进程时"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "运行个人 API 或小型应用",
+            "托管应用平台或 VPS",
+            "需要控制运行环境、系统依赖或后台进程时"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "学习 Linux 与系统管理",
+            "本地虚拟机或短期 VPS",
+            "需要从外部网络访问、练习公网部署时"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "保存重要文件",
+            "专门的存储与备份方案",
+            "需要自建应用，且已安排另一份独立备份时"
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "76ce0c563d35",
+          "text": "例如本站这样的静态博客，构建后主要是 HTML、CSS 和 JavaScript 文件。静态托管就可以提供这些文件，不必为了发布博客额外维护一台 VPS。",
+          "marks": []
+        }
+      ],
+      "_key": "77fbfce8cb39",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "eb54b5c6f1a9",
+          "text": "写一份最小需求单",
+          "marks": []
+        }
+      ],
+      "_key": "33b234b39c0a",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "91144d786cf7",
+          "text": "购买前先回答这些问题：",
+          "marks": []
+        }
+      ],
+      "_key": "4d9853f676e1",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "da0f1a9dad44",
+          "text": "应用是否需要特定系统、处理器架构或容器环境？",
+          "marks": []
+        }
+      ],
+      "_key": "99843cd63930",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "62e7b5ae19b8",
+          "text": "文档要求多少内存？部署、构建和升级时是否会有更高峰值？",
+          "marks": []
+        }
+      ],
+      "_key": "65b995c4ec98",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "06f0fc99067c",
+          "text": "数据会增长多快？日志、镜像与临时文件是否也计入磁盘预算？",
+          "marks": []
+        }
+      ],
+      "_key": "ec9f24ad1012",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7cd9b93dddeb",
+          "text": "谁会访问应用，访问者主要在哪些地区？",
+          "marks": []
+        }
+      ],
+      "_key": "a35a2a1f5215",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "af5bcf469ae0",
+          "text": "需要哪些入站端口，是否需要发送邮件等特殊用途？",
+          "marks": []
+        }
+      ],
+      "_key": "f49628327796",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b864ed4005fc",
+          "text": "可以接受多长停机时间？由谁恢复数据和处理账单？",
+          "marks": []
+        }
+      ],
+      "_key": "e1f35ec72a17",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e8fd6b26b2fc",
+          "text": "资源需求不明确时，可以先在本地运行应用，观察内存和磁盘，再选可升级的短期套餐。注意“可升级”也可能伴随重启或迁移，是否能降配以及磁盘能否缩小需要单独了解。",
+          "marks": []
+        }
+      ],
+      "_key": "50ec764e3f66",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "653b405e29e8",
+          "text": "分清三种 IP 类型",
+          "marks": []
+        }
+      ],
+      "_key": "389eea3fd404",
+      "markDefs": []
+    },
+    {
+      "_type": "tableBlock",
+      "header": [
+        "类型",
+        "意味着什么",
+        "重点检查"
+      ],
+      "rows": [
+        {
+          "_type": "tableRow",
+          "cells": [
+            "独立 IPv4",
+            "该公网 IPv4 分配给你的实例使用",
+            "是否包含在价格内、哪些端口可用、能否更换 IP"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "NAT / 共享 IPv4",
+            "多个实例通过共享公网 IPv4 进行通信",
+            "分配哪些入站端口、端口映射如何配置、是否满足应用要求"
+          ]
+        },
+        {
+          "_type": "tableRow",
+          "cells": [
+            "纯 IPv6",
+            "实例只有 IPv6 公网连接能力",
+            "访问者和外部依赖是否支持 IPv6，是否另需转接方案"
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e1c5d72999ae",
+          "text": "NAT 实例不等于无法提供服务，但不能假设任意公网端口都能直接映射给你。若应用要求特定端口，先确认套餐允许的映射方式。",
+          "marks": []
+        }
+      ],
+      "_key": "4d5a9190f260",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bb359354bad4",
+          "text": "纯 IPv6 也不等于所有 IPv4 用户都能直接访问。接入转换或代理会增加配置和成本，应该在购买前验证完整的访问路径。产品标题里的“公网”两个字不足以代替规格说明。",
+          "marks": []
+        }
+      ],
+      "_key": "cabbfa4b35eb",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6b5e5d7fddd0",
+          "text": "看配置时，不要只看数字大小",
+          "marks": []
+        }
+      ],
+      "_key": "ca05f7bad0b6",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8c5e4fdd33fd",
+          "text": "CPU：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "d322149138f5",
+          "text": " vCPU 数量没有说明所有性能差异。共享与专用资源、持续占用限制，以及应用偏向单核还是多核，都会影响选择。",
+          "marks": []
+        }
+      ],
+      "_key": "f4a22b3ef5ad",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "49cc57c7002b",
+          "text": "内存：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "1ce68259e7b0",
+          "text": " 既要容纳业务进程，也要留给操作系统、数据库和更新任务。内存长期不足可能导致进程退出；交换空间不能替代足够的工作内存。",
+          "marks": []
+        }
+      ],
+      "_key": "758da92c37b7",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "665e30ee32d4",
+          "text": "磁盘：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "a7085a0dc449",
+          "text": " 容量、性能与可靠性是不同问题。快照便于回退，但若仍依赖同一账户或平台，应另保留可独立恢复的数据副本。",
+          "marks": []
+        }
+      ],
+      "_key": "e697a564f8ca",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "212a3dcb08be",
+          "text": "网络：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "df76d7ef87bc",
+          "text": " 端口带宽描述瞬时传输能力，月流量描述一个计费周期的用量。两者都要看，还要了解超量后是降速、停机还是继续计费。",
+          "marks": []
+        }
+      ],
+      "_key": "fe5cecae7f8d",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9ddf13f684a6",
+          "text": "把总成本写成一张账单",
+          "marks": []
+        }
+      ],
+      "_key": "83fa492b6092",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "blockquote",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ce3057cbcccc",
+          "text": "首年总成本 = 主机费用 + IP 附加费 + 备份与存储 + 必需的附加服务 + 税费及支付成本",
+          "marks": []
+        }
+      ],
+      "_key": "535d0e68504f",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "eb549a113cf5",
+          "text": "再单独列一遍续费金额。首期优惠可能只覆盖主机的一部分费用，也可能不适用于后续续费。",
+          "marks": []
+        }
+      ],
+      "_key": "35b95a2b1a1d",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d46e62d85671",
+          "text": "下面只是演示算法，不是商家报价：主机每月 30 元、IP 每月 8 元、备份每月 5 元，那么一年合计为 ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "fc7e8e04c685",
+          "text": "(30 + 8 + 5) × 12 = 516 元",
+          "marks": [
+            "code"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "93d492b10945",
+          "text": "，尚未加入其他可能的费用。若只用主机标价计算，会把预算低估 156 元。",
+          "marks": []
+        }
+      ],
+      "_key": "0f78282aa3c0",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "408c69f7d881",
+          "text": "除金额外，再留出维护时间。经常手工修复、缺少备份和迁移方式的低价方案，未必符合你的实际需求。",
+          "marks": []
+        }
+      ],
+      "_key": "da62a81324fa",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4284889063b7",
+          "text": "付款前的检查表",
+          "marks": []
+        }
+      ],
+      "_key": "fa26346a4e1f",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "52c50c11db64",
+          "text": "确认首期价、续费价、币种和计费周期，保存订单摘要。",
+          "marks": []
+        }
+      ],
+      "_key": "f1a361b8d9ff",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8ec78ce1f696",
+          "text": "确认 IP 类型、入站端口与应用用途是否被允许。",
+          "marks": []
+        }
+      ],
+      "_key": "35a6d4949c04",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "05a0ac4d2c2b",
+          "text": "看清流量统计方向、超量处理与资源使用限制。",
+          "marks": []
+        }
+      ],
+      "_key": "387d3e5fc75c",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "09269b326608",
+          "text": "了解退款条件、取消方式和账户余额是否可退。",
+          "marks": []
+        }
+      ],
+      "_key": "98ab1a9e2be5",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a32318859691",
+          "text": "找到控制台、重装、救援或远程控制入口。",
+          "marks": []
+        }
+      ],
+      "_key": "a8bc410f2f94",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "89a628f886c3",
+          "text": "预先确定备份存放位置和恢复步骤。",
+          "marks": []
+        }
+      ],
+      "_key": "24153ba12f78",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3e4129ddfca7",
+          "text": "开通后的第一周",
+          "marks": []
+        }
+      ],
+      "_key": "88e4603b72f6",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2d3c6d30d67b",
+          "text": "先更新系统，使用可靠的登录方式并限制管理入口。配置防火墙时保留当前会话，在新会话验证可以登录后再退出，避免把自己锁在服务器外。",
+          "marks": []
+        }
+      ],
+      "_key": "4a75e5867fad",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9bcb71765c42",
+          "text": "随后部署一个最小版本，检查实际资源占用，配置日志轮转与备份。至少尝试一次恢复：能创建备份并不意味着已经知道如何恢复应用、配置与数据。",
+          "marks": []
+        }
+      ],
+      "_key": "74a9351b355b",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "787a464ff66e",
+          "text": "一周后再决定是否长期使用。记录的重点应包括真实任务是否完成、故障能否定位、费用是否符合预期，而不是只留下一个跑分截图。",
+          "marks": []
+        }
+      ],
+      "_key": "d0ee97984de8",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "469659d51d0b",
+          "text": "常见问题",
+          "marks": []
+        }
+      ],
+      "_key": "41d880f8db56",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "261b7eb5201b",
+          "text": "个人博客一定要买服务器吗？",
+          "marks": []
+        }
+      ],
+      "_key": "bfabb0ff9768",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f08074cde649",
+          "text": "不一定。静态博客可以使用静态托管。需要动态后端时，也可以比较托管平台与自行维护 VPS 的工作量。",
+          "marks": []
+        }
+      ],
+      "_key": "19d462d25e60",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "151739c81256",
+          "text": "内存不够，可以之后升级吗？",
+          "marks": []
+        }
+      ],
+      "_key": "ebb46533f5aa",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d3e853bc86c1",
+          "text": "这取决于套餐规则与宿主机资源。购买前确认升级是否需要迁移、是否停机、如何计算差价，以及能否回退。",
+          "marks": []
+        }
+      ],
+      "_key": "8ad5071f1993",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "16aa40d932be",
+          "text": "只用于连接已有服务，需要买 VPS 吗？",
+          "marks": []
+        }
+      ],
+      "_key": "c79fe310b2e5",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4223e5d2d2f8",
+          "text": "通常先了解现有服务与客户端即可。参见 ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "460cd84064c3",
+          "text": "代理工具入门",
+          "marks": [
+            "484f06b2c12a"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "523982c9181d",
+          "text": " 和 ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "13005db95ede",
+          "text": "服务选择指南",
+          "marks": [
+            "743ce2a99106"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "0422362bacc3",
+          "text": "，再判断是否确实需要自己维护服务端。",
+          "marks": []
+        }
+      ],
+      "_key": "976e2f241ae3",
+      "markDefs": [
+        {
+          "_key": "484f06b2c12a",
+          "_type": "link",
+          "href": "/blog/proxy-tools/"
+        },
+        {
+          "_key": "743ce2a99106",
+          "_type": "link",
+          "href": "/blog/airport-recommendation/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "aa8b30d7528e",
+          "text": "更新记录",
+          "marks": []
+        }
+      ],
+      "_key": "49f338f4a4b7",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4327bda4176d",
+          "text": "2026-11-09：补充用途判断、IP 对照、总成本示例与开通后的检查步骤。",
+          "marks": []
+        }
+      ],
+      "_key": "699fff8c8efc",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6447833f02d0",
+          "text": "2026-11-06：建立配置与 IP 类型比较框架。",
+          "marks": []
+        }
+      ],
+      "_key": "b8ffc08022ac",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    }
+  ],
+  "bodyMarkdown": "VPS 是需要自己维护的一台虚拟服务器。购买时你得到的不只是 CPU、内存和磁盘，也承担系统更新、访问控制、备份与故障处理。先确认要运行什么，再看套餐，通常比从促销列表开始更容易选对。\n\n## 先判断是否需要 VPS\n\n| 目标                    | 可以先考虑的方案     | 什么时候需要服务器                     |\n| ----------------------- | -------------------- | -------------------------------------- |\n| 发布静态博客或作品集    | 静态托管             | 需要长期运行自己的后端进程时           |\n| 运行个人 API 或小型应用 | 托管应用平台或 VPS   | 需要控制运行环境、系统依赖或后台进程时 |\n| 学习 Linux 与系统管理   | 本地虚拟机或短期 VPS | 需要从外部网络访问、练习公网部署时     |\n| 保存重要文件            | 专门的存储与备份方案 | 需要自建应用，且已安排另一份独立备份时 |\n\n例如本站这样的静态博客，构建后主要是 HTML、CSS 和 JavaScript 文件。静态托管就可以提供这些文件，不必为了发布博客额外维护一台 VPS。\n\n## 写一份最小需求单\n\n购买前先回答这些问题：\n\n- 应用是否需要特定系统、处理器架构或容器环境？\n- 文档要求多少内存？部署、构建和升级时是否会有更高峰值？\n- 数据会增长多快？日志、镜像与临时文件是否也计入磁盘预算？\n- 谁会访问应用，访问者主要在哪些地区？\n- 需要哪些入站端口，是否需要发送邮件等特殊用途？\n- 可以接受多长停机时间？由谁恢复数据和处理账单？\n\n资源需求不明确时，可以先在本地运行应用，观察内存和磁盘，再选可升级的短期套餐。注意“可升级”也可能伴随重启或迁移，是否能降配以及磁盘能否缩小需要单独了解。\n\n## 分清三种 IP 类型\n\n| 类型            | 意味着什么                         | 重点检查                                             |\n| --------------- | ---------------------------------- | ---------------------------------------------------- |\n| 独立 IPv4       | 该公网 IPv4 分配给你的实例使用     | 是否包含在价格内、哪些端口可用、能否更换 IP          |\n| NAT / 共享 IPv4 | 多个实例通过共享公网 IPv4 进行通信 | 分配哪些入站端口、端口映射如何配置、是否满足应用要求 |\n| 纯 IPv6         | 实例只有 IPv6 公网连接能力         | 访问者和外部依赖是否支持 IPv6，是否另需转接方案      |\n\nNAT 实例不等于无法提供服务，但不能假设任意公网端口都能直接映射给你。若应用要求特定端口，先确认套餐允许的映射方式。\n\n纯 IPv6 也不等于所有 IPv4 用户都能直接访问。接入转换或代理会增加配置和成本，应该在购买前验证完整的访问路径。产品标题里的“公网”两个字不足以代替规格说明。\n\n## 看配置时，不要只看数字大小\n\n**CPU：** vCPU 数量没有说明所有性能差异。共享与专用资源、持续占用限制，以及应用偏向单核还是多核，都会影响选择。\n\n**内存：** 既要容纳业务进程，也要留给操作系统、数据库和更新任务。内存长期不足可能导致进程退出；交换空间不能替代足够的工作内存。\n\n**磁盘：** 容量、性能与可靠性是不同问题。快照便于回退，但若仍依赖同一账户或平台，应另保留可独立恢复的数据副本。\n\n**网络：** 端口带宽描述瞬时传输能力，月流量描述一个计费周期的用量。两者都要看，还要了解超量后是降速、停机还是继续计费。\n\n## 把总成本写成一张账单\n\n> 首年总成本 = 主机费用 + IP 附加费 + 备份与存储 + 必需的附加服务 + 税费及支付成本\n\n再单独列一遍续费金额。首期优惠可能只覆盖主机的一部分费用，也可能不适用于后续续费。\n\n下面只是演示算法，不是商家报价：主机每月 30 元、IP 每月 8 元、备份每月 5 元，那么一年合计为 `(30 + 8 + 5) × 12 = 516 元`，尚未加入其他可能的费用。若只用主机标价计算，会把预算低估 156 元。\n\n除金额外，再留出维护时间。经常手工修复、缺少备份和迁移方式的低价方案，未必符合你的实际需求。\n\n## 付款前的检查表\n\n1. 确认首期价、续费价、币种和计费周期，保存订单摘要。\n2. 确认 IP 类型、入站端口与应用用途是否被允许。\n3. 看清流量统计方向、超量处理与资源使用限制。\n4. 了解退款条件、取消方式和账户余额是否可退。\n5. 找到控制台、重装、救援或远程控制入口。\n6. 预先确定备份存放位置和恢复步骤。\n\n## 开通后的第一周\n\n先更新系统，使用可靠的登录方式并限制管理入口。配置防火墙时保留当前会话，在新会话验证可以登录后再退出，避免把自己锁在服务器外。\n\n随后部署一个最小版本，检查实际资源占用，配置日志轮转与备份。至少尝试一次恢复：能创建备份并不意味着已经知道如何恢复应用、配置与数据。\n\n一周后再决定是否长期使用。记录的重点应包括真实任务是否完成、故障能否定位、费用是否符合预期，而不是只留下一个跑分截图。\n\n## 常见问题\n\n### 个人博客一定要买服务器吗？\n\n不一定。静态博客可以使用静态托管。需要动态后端时，也可以比较托管平台与自行维护 VPS 的工作量。\n\n### 内存不够，可以之后升级吗？\n\n这取决于套餐规则与宿主机资源。购买前确认升级是否需要迁移、是否停机、如何计算差价，以及能否回退。\n\n### 只用于连接已有服务，需要买 VPS 吗？\n\n通常先了解现有服务与客户端即可。参见 [代理工具入门](/blog/proxy-tools/) 和 [服务选择指南](/blog/airport-recommendation/)，再判断是否确实需要自己维护服务端。\n\n## 更新记录\n\n- 2026-11-09：补充用途判断、IP 对照、总成本示例与开通后的检查步骤。\n- 2026-11-06：建立配置与 IP 类型比较框架。",
+  "_migration": {
+    "source": "vps-recommendation.md",
+    "fixes": [],
+    "url": "/blog/vps-recommendation/"
+  }
+}

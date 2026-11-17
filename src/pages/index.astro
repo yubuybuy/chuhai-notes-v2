@@ -1,0 +1,79 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Card from "@/components/Card.astro";
+import DealCard from "@/components/DealCard.astro";
+import { getDeals, getFeaturedGuides, dealToPost, guideToPost } from "@/lib/content";
+const deals = (await getDeals()).slice(0, 3).map(dealToPost);
+const guides = (await getFeaturedGuides()).map(guideToPost);
+---
+
+<Layout>
+  <Header />
+  <main id="main-content" class="app-layout">
+    <section class="border-border border-b py-12 sm:py-16">
+      <p class="text-accent mb-4 text-sm tracking-widest">
+        工具指南 · 实用优惠 · 使用笔记
+      </p>
+      <h1 class="mb-6 text-4xl leading-tight font-bold sm:text-5xl">
+        把工具选明白，<br />把优惠用起来。
+      </h1>
+      <p class="text-muted-foreground max-w-xl leading-8">
+        从机场、VPS
+        到日常代理工具，梳理选择方法；也记录值得留意的免费额度与限时福利，把费用、条件和操作步骤放在一起。
+      </p>
+      <div class="mt-7 flex flex-wrap gap-4">
+        <a
+          href="/deals/"
+          class="bg-accent text-accent-foreground rounded-lg px-5 py-3 text-sm font-medium"
+          >看看近期优惠 →</a
+        >
+        <a
+          href="#guides"
+          class="border-border hover:text-accent rounded-lg border px-5 py-3 text-sm font-medium"
+          >先读入门指南</a
+        >
+      </div>
+    </section>
+    {
+      deals.length > 0 && (
+        <section
+          class="border-border border-b py-10"
+          aria-labelledby="deals-title"
+        >
+          <div class="mb-3 flex flex-wrap items-center justify-between gap-3">
+            <h2 id="deals-title" class="text-2xl font-bold">
+              近期优惠
+            </h2>
+            <a
+              href="/deals/"
+              class="text-accent text-sm underline underline-offset-4"
+            >
+              查看全部 →
+            </a>
+          </div>
+          <p class="text-muted-foreground mb-6 leading-7">
+            先了解能获得什么，再看费用与领取条件。
+          </p>
+          <ul class="grid gap-5">
+            {deals.map(post => (
+              <DealCard {post} />
+            ))}
+          </ul>
+        </section>
+      )
+    }
+    <section id="guides" class="py-10" aria-labelledby="guides-title">
+      <h2 id="guides-title" class="text-2xl font-bold">从这三篇开始</h2>
+      <p class="text-muted-foreground mt-3 leading-7">
+        选服务、选服务器、选客户端，按你的需求找到起点。
+      </p>
+      <ul>{guides.map(post => <Card variant="h3" {...post} />)}</ul>
+      <a href="/blog/" class="text-accent underline underline-offset-4"
+        >浏览全部文章 →</a
+      >
+    </section>
+  </main>
+  <Footer />
+</Layout>

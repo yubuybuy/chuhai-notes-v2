@@ -1,0 +1,45 @@
+---
+import type { PostEntry } from "@/lib/content";
+import { getPostUrl } from "@/utils/getPostPaths";
+
+type Props = { post: PostEntry };
+const { post } = Astro.props;
+const record = post.data.dealRecord;
+const cost =
+  typeof record?.cost === "string"
+    ? record.cost.split("；")[0]
+    : "查看活动详情";
+---
+
+<li
+  class="border-border flex flex-col rounded-xl border p-5 sm:p-6"
+  data-deal-card
+>
+  <div class="text-muted-foreground mb-3 flex flex-wrap gap-2 text-xs">
+    {
+      post.data.tags
+        .slice(0, 2)
+        .map(tag => <span class="bg-muted/40 rounded px-2 py-1">{tag}</span>)
+    }
+  </div>
+  <h3 class="text-xl leading-8 font-semibold">
+    <a
+      class="hover:text-accent underline-offset-4 hover:underline"
+      href={getPostUrl(post.id, post.filePath, Astro.currentLocale)}
+      >{post.data.title}</a
+    >
+  </h3>
+  <p class="text-muted-foreground mt-3 text-sm leading-7">
+    {post.data.description}
+  </p>
+  <div
+    class="border-border mt-5 flex flex-wrap items-center justify-between gap-3 border-t pt-4 text-sm"
+  >
+    <span class="font-medium">{cost}</span>
+    <a
+      class="text-accent underline underline-offset-4"
+      href={getPostUrl(post.id, post.filePath, Astro.currentLocale)}
+      aria-label={`查看${post.data.title}的领取说明`}>领取说明 →</a
+    >
+  </div>
+</li>

@@ -1,0 +1,119 @@
+{
+  "title": "关于出海手记",
+  "description": "了解本站的推荐原则、信息核实方式与隐私说明。",
+  "audience": "所有读者",
+  "body": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8bcd79f0761a",
+          "text": "出海手记是面向中文用户的工具与优惠信息博客，关注机场服务、VPS、代理工具，以及数字服务与游戏优惠。我们把使用场景、费用和操作步骤整理在一起，帮助读者先了解需求，再作选择。",
+          "marks": []
+        }
+      ],
+      "_key": "70a22fd6f97f",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d1454110ddf7",
+          "text": "推荐原则",
+          "marks": []
+        }
+      ],
+      "_key": "8aaae71608a1",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "48f2cbbfe515",
+          "text": "先说明适合谁与不适合谁，再比较价格与功能。公开资料与亲身实测会明确区分；没有实测记录时不会声称已经测过。三篇入门指南介绍选择方法、成本计算和排错流程；文中的计算示例只用于说明方法。",
+          "marks": []
+        }
+      ],
+      "_key": "47efd69eb108",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3951e80292ed",
+          "text": "优惠文章集中列出福利、费用、适用人群、领取步骤与来源，方便读者查看完整条件。本站不提供节点订阅，不代买商品或服务。",
+          "marks": []
+        }
+      ],
+      "_key": "2c5b0e8e2f11",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "979aa648b1df",
+          "text": "隐私与统计",
+          "marks": []
+        }
+      ],
+      "_key": "8a175cc74635",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "efb643fe63fd",
+          "text": "本站没有登录、评论或广告弹窗。启用统计后使用 Cloudflare Web Analytics 了解访问量，不在文章中加入广告追踪脚本。当前仓库默认未配置统计凭据。",
+          "marks": []
+        }
+      ],
+      "_key": "daff4b178a74",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "589ef978d90a",
+          "text": "更正记录",
+          "marks": []
+        }
+      ],
+      "_key": "778c3a2c84ba",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2165cdbdfab8",
+          "text": "如发现错误，请通过项目仓库提交 issue；请勿公开账户、密码、订阅链接或支付记录等个人信息。",
+          "marks": []
+        }
+      ],
+      "_key": "d2ebf62307b5",
+      "markDefs": []
+    }
+  ]
+}

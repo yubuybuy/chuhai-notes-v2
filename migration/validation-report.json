@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-11-14T08:11:36.811Z",
+  "source": "/home/hatch/workspace/chuhai-notes-v2/_source/src/content/blog",
+  "counts": {
+    "deals": 6,
+    "guides": 5
+  },
+  "slugs": [
+    "airport-recommendation",
+    "epic-gmh-good-morning-human",
+    "epic-knightica-free",
+    "hk-bank-card-guide",
+    "migu-music-one-year",
+    "octopus-mobile-new-user-150",
+    "openrouter-ernie-5-5-flash-preview-free",
+    "perch-ai-starter",
+    "proxy-tools",
+    "us-apple-id-guide",
+    "vps-recommendation"
+  ],
+  "warnings": [
+    "openrouter-ernie-5-5-flash-preview-free：dealStatus=ready 但 dealValidUntil 为空，按可见性规则不会上线（ERNIE 同款问题）",
+    "openrouter-ernie-5-5-flash-preview-free：unknowns 有 2 条但状态仍是 ready，按旧站 deal-policy 应为 blocked"
+  ],
+  "errors": []
+}

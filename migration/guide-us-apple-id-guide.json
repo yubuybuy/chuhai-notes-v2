@@ -1,0 +1,430 @@
+{
+  "_type": "guide",
+  "_id": "imported-us-apple-id-guide",
+  "title": "美区 Apple ID 注册与使用",
+  "slug": {
+    "_type": "slug",
+    "current": "us-apple-id-guide"
+  },
+  "description": "从零注册美区 Apple ID：准备材料、两条注册路线、已有账号换区、付款方式选“无”、礼品卡充值与避坑，关键步骤以 Apple 官方文档为准。",
+  "audience": "在国内使用海外服务，需要一个美区 Apple ID 下载 App、订阅服务的用户。",
+  "tags": [
+    "Apple ID",
+    "注册指南"
+  ],
+  "keywords": [
+    "美区 Apple ID",
+    "Apple ID 注册",
+    "Apple ID 换区",
+    "Apple ID 付款方式无",
+    "Apple ID 礼品卡充值",
+    "免税州"
+  ],
+  "featured": false,
+  "pubDatetime": "2026-11-10T10:45:00.000Z",
+  "modDatetime": "2026-11-13T05:49:36.000Z",
+  "body": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "93a835f7e29b",
+          "text": "我要下一个美区才有的 App，国区号下不了，就办了个美区号。注册本身不花钱，卡我的就三件事：地区选美国、付款方式选“无”、账单地址填免税州。这三件弄对了，后面就顺了。",
+          "marks": []
+        }
+      ],
+      "_key": "7fff970243da",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "39bf4da7a790",
+          "text": "先准备这几样",
+          "marks": []
+        }
+      ],
+      "_key": "0e6fb6b2a54a",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bf80f39de6d7",
+          "text": "邮箱得是没注册过 Apple 账户的。手机号用国内 +86 就行，注册时要收验证码。出生日期按真实的填。手头有一台 iPhone，或者一台能打开网页的电脑，都行。",
+          "marks": []
+        }
+      ],
+      "_key": "24f56671bf57",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "881734e36b86",
+          "text": "账单地址要一个美国地址。我填的是免税州，买东西不加销售税。免税州就五个：Oregon（俄勒冈州）、Alaska（阿拉斯加州）、Delaware（特拉华州）、Montana（蒙大拿州）、New Hampshire（新罕布什尔州）。Alaska 有些地方还会收地方销售税，Oregon 最干净，我用的就是 Oregon。",
+          "marks": []
+        }
+      ],
+      "_key": "9f0c0d3e55ca",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "12f992b48942",
+          "text": "注册：我走的是官网这条路",
+          "marks": []
+        }
+      ],
+      "_key": "c5c61dccc4f7",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9d8361550696",
+          "text": "打开 ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "f04bb1c71095",
+          "text": "account.apple.com",
+          "marks": [
+            "c08224b9de00"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "7c4a1aca0eac",
+          "text": "，点“创建你的 Apple 账户”。填邮箱、设一个强密码，地区选美国。填生日和随时能用的电话号码。最后按提示验证邮箱和手机号，就成了。",
+          "marks": []
+        }
+      ],
+      "_key": "318062ce4fa1",
+      "markDefs": [
+        {
+          "_key": "c08224b9de00",
+          "_type": "link",
+          "href": "http://account.apple.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f490982cdb1c",
+          "text": "另外两条路也走得通，我都试着走过流程：",
+          "marks": []
+        }
+      ],
+      "_key": "8cf8b063f20e",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4e5de83b7650",
+          "text": "iCloud 官网注册。打开 ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "165d2cceda98",
+          "text": "www.icloud.com",
+          "marks": [
+            "d810d6c39d01"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "f16d6a8b22e4",
+          "text": "，点登录页下方的“创建 Apple 账户”。姓名用英文填，国家和地区选美国，填邮箱、密码、电话号码，国内 +86 能用。邮箱和手机号分别验证一遍。注册完在 iCloud 个人信息里能看到账号在哪个地区。",
+          "marks": []
+        }
+      ],
+      "_key": "85c80c8a8ae0",
+      "markDefs": [
+        {
+          "_key": "d810d6c39d01",
+          "_type": "link",
+          "href": "http://www.icloud.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5511717c99c7",
+          "text": "iPhone 上直接注册。先把设备地区改成美国，定位服务关掉。打开“设置 → 邮件 → 添加账户 → iCloud → 创建新 Apple 账户”。按流程填姓名、出生日期、邮箱、密码、绑手机号。注册完去“设置 → 账户 → 媒体与购买项目”登录刚注册的账号，再用手机浏览器打开 ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "2862ab9078ce",
+          "text": "apps.apple.com/us/app，把商店切到美区。下载一个免费",
+          "marks": [
+            "3fd767253d66"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "f005202b3a9e",
+          "text": " App，会提示完善付款方式和地址。",
+          "marks": []
+        }
+      ],
+      "_key": "4be3ed5f8532",
+      "markDefs": [
+        {
+          "_key": "3fd767253d66",
+          "_type": "link",
+          "href": "http://apps.apple.com/us/app%EF%BC%8C%E6%8A%8A%E5%95%86%E5%BA%97%E5%88%87%E5%88%B0%E7%BE%8E%E5%8C%BA%E3%80%82%E4%B8%8B%E8%BD%BD%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "49ac8057f6f4",
+          "text": "刚注册的号还不能直接下 App，得先把账单地址完善了，见下一步。",
+          "marks": []
+        }
+      ],
+      "_key": "6e0f24d3e579",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2de93f09fd5d",
+          "text": "付款方式选“无”，别手滑",
+          "marks": []
+        }
+      ],
+      "_key": "0a31b5196181",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "072bcd64419a",
+          "text": "创建账户时 Apple 会让你填付款方式和账单信息。付款方式那一栏可以直接选“无”。没买东西就不会扣钱。",
+          "marks": []
+        }
+      ],
+      "_key": "61039c9e315a",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "664efe51608d",
+          "text": "这一步我差点手滑：千万别点信用卡或者 PayPal。点了就得填付款信息。只有确实要绑卡的时候才点。选了“无”之后，账单地址那一栏还是要填，填个免税州地址就行。",
+          "marks": []
+        }
+      ],
+      "_key": "aee575e48a4f",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "488892d2c01a",
+          "text": "已有国区号，换区也行",
+          "marks": []
+        }
+      ],
+      "_key": "dbd1a5e2e67a",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cea7ae8e8ddd",
+          "text": "我最后是新注册了一个，没走换区。但换区这条路我也对过流程，手头已经有国区号的人可以走：打开“设置”，点你的姓名，点“媒体与购买项目”，点“国家/地区”，选美国，点“继续”，看完条款点“同意”，选付款方式，输入新的付款信息和账单邮寄地址，点“完成”。",
+          "marks": []
+        }
+      ],
+      "_key": "fa7efa469ea5",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0b0d7a94a277",
+          "text": "换区之前有三件事得先做：把账户里剩下的余额花掉；把会挡住换区的订阅取消掉，等到订阅期结束；等所有待处理的退款完成。",
+          "marks": []
+        }
+      ],
+      "_key": "735bfce1da4c",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ca0c00db9010",
+          "text": "换区和新注册的区别得说清楚：官方的说法是，换区要准备好新地区有效的付款方式。如果不想填付款方式，官方建议等本人到了新国家或地区再处理，或者直接创建一个新账户。所以手头没有现成国区号的话，新注册更顺。",
+          "marks": []
+        }
+      ],
+      "_key": "91575d11aa34",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fa97e27fe3b7",
+          "text": "充值：买美区礼品卡",
+          "marks": []
+        }
+      ],
+      "_key": "0b5b2c1bcfdc",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "67191a841fdf",
+          "text": "美区账户的消费和订阅从账户余额里扣。充值办法是买美区 Apple Gift Card，兑换到账户余额里。Apple 官网就有礼品卡卖。拿到卡后在 App Store 或者账户设置里兑换，余额到账后再订阅。订阅之前先确认余额够不够。",
+          "marks": []
+        }
+      ],
+      "_key": "af5d8c38f50a",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d7977efb217c",
+          "text": "我踩过的坑",
+          "marks": []
+        }
+      ],
+      "_key": "9f3853a9898d",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "532ffa8906c4",
+          "text": "付款方式菜单别乱点。只在确实要绑卡时才点信用卡或者 PayPal，不然会被要求填付款信息。",
+          "marks": []
+        }
+      ],
+      "_key": "0fbf33eea885",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2a7f7f3d2a6b",
+          "text": "注册时如果跳出“此时无法创建你的账户”，别慌。晚点再试一次，或者换一条路线注册。",
+          "marks": []
+        }
+      ],
+      "_key": "0c4a9710b7b8",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d00296471dea",
+          "text": "没选免税州也能注册，但买东西的时候可能被加销售税。",
+          "marks": []
+        }
+      ],
+      "_key": "9eccb9a81b45",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2d736d2d583b",
+          "text": "主号和美区号别混着用。个人 Apple 账户（设置里的那个）保留原来的，美区号只登录 App Store。",
+          "marks": []
+        }
+      ],
+      "_key": "30b4407be5e5",
+      "markDefs": []
+    }
+  ],
+  "bodyMarkdown": "我要下一个美区才有的 App，国区号下不了，就办了个美区号。注册本身不花钱，卡我的就三件事：地区选美国、付款方式选“无”、账单地址填免税州。这三件弄对了，后面就顺了。\n\n## 先准备这几样\n\n邮箱得是没注册过 Apple 账户的。手机号用国内 +86 就行，注册时要收验证码。出生日期按真实的填。手头有一台 iPhone，或者一台能打开网页的电脑，都行。\n\n账单地址要一个美国地址。我填的是免税州，买东西不加销售税。免税州就五个：Oregon（俄勒冈州）、Alaska（阿拉斯加州）、Delaware（特拉华州）、Montana（蒙大拿州）、New Hampshire（新罕布什尔州）。Alaska 有些地方还会收地方销售税，Oregon 最干净，我用的就是 Oregon。\n\n## 注册：我走的是官网这条路\n\n打开 account.apple.com，点“创建你的 Apple 账户”。填邮箱、设一个强密码，地区选美国。填生日和随时能用的电话号码。最后按提示验证邮箱和手机号，就成了。\n\n另外两条路也走得通，我都试着走过流程：\n\niCloud 官网注册。打开 www.icloud.com，点登录页下方的“创建 Apple 账户”。姓名用英文填，国家和地区选美国，填邮箱、密码、电话号码，国内 +86 能用。邮箱和手机号分别验证一遍。注册完在 iCloud 个人信息里能看到账号在哪个地区。\n\niPhone 上直接注册。先把设备地区改成美国，定位服务关掉。打开“设置 → 邮件 → 添加账户 → iCloud → 创建新 Apple 账户”。按流程填姓名、出生日期、邮箱、密码、绑手机号。注册完去“设置 → 账户 → 媒体与购买项目”登录刚注册的账号，再用手机浏览器打开 apps.apple.com/us/app，把商店切到美区。下载一个免费 App，会提示完善付款方式和地址。\n\n刚注册的号还不能直接下 App，得先把账单地址完善了，见下一步。\n\n## 付款方式选“无”，别手滑\n\n创建账户时 Apple 会让你填付款方式和账单信息。付款方式那一栏可以直接选“无”。没买东西就不会扣钱。\n\n这一步我差点手滑：千万别点信用卡或者 PayPal。点了就得填付款信息。只有确实要绑卡的时候才点。选了“无”之后，账单地址那一栏还是要填，填个免税州地址就行。\n\n## 已有国区号，换区也行\n\n我最后是新注册了一个，没走换区。但换区这条路我也对过流程，手头已经有国区号的人可以走：打开“设置”，点你的姓名，点“媒体与购买项目”，点“国家/地区”，选美国，点“继续”，看完条款点“同意”，选付款方式，输入新的付款信息和账单邮寄地址，点“完成”。\n\n换区之前有三件事得先做：把账户里剩下的余额花掉；把会挡住换区的订阅取消掉，等到订阅期结束；等所有待处理的退款完成。\n\n换区和新注册的区别得说清楚：官方的说法是，换区要准备好新地区有效的付款方式。如果不想填付款方式，官方建议等本人到了新国家或地区再处理，或者直接创建一个新账户。所以手头没有现成国区号的话，新注册更顺。\n\n## 充值：买美区礼品卡\n\n美区账户的消费和订阅从账户余额里扣。充值办法是买美区 Apple Gift Card，兑换到账户余额里。Apple 官网就有礼品卡卖。拿到卡后在 App Store 或者账户设置里兑换，余额到账后再订阅。订阅之前先确认余额够不够。\n\n## 我踩过的坑\n\n付款方式菜单别乱点。只在确实要绑卡时才点信用卡或者 PayPal，不然会被要求填付款信息。\n\n注册时如果跳出“此时无法创建你的账户”，别慌。晚点再试一次，或者换一条路线注册。\n\n没选免税州也能注册，但买东西的时候可能被加销售税。\n\n主号和美区号别混着用。个人 Apple 账户（设置里的那个）保留原来的，美区号只登录 App Store。",
+  "_migration": {
+    "source": "us-apple-id-guide.md",
+    "fixes": [],
+    "url": "/blog/us-apple-id-guide/"
+  }
+}

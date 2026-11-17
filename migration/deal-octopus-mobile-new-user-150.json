@@ -1,0 +1,498 @@
+{
+  "_type": "deal",
+  "_id": "imported-octopus-mobile-new-user-150",
+  "title": "手机八达通新用户：消费满 $100 返 $150 充值额",
+  "slug": {
+    "_type": "slug",
+    "current": "octopus-mobile-new-user-150"
+  },
+  "description": "香港手机八达通新客户推广，2026-11-05 至 2027-01-03 期间加入并完成一次 $100 或以上交易、登记推广，可赚 $150 八达通充值额，另可免费领一张自选卡面。",
+  "audience": "香港；推广期前从未加入手机八达通的新客户，首次为合资格装置加入全新合资格八达通；Android 版须加入 Google Wallet；不适用于透过旅客八达通 App 加入的八达通",
+  "benefit": "手机八达通新用户：消费满 $100 返 $150 充值额",
+  "cost": "",
+  "conditions": "",
+  "expiresAt": null,
+  "claimUrl": null,
+  "verification": null,
+  "dealStatus": "blocked",
+  "dealValidUntil": null,
+  "dealRecord": {
+    "id": "octopus-mobile-new-user-150",
+    "checkedAt": null,
+    "deadlineStatus": null,
+    "expiryNote": null,
+    "steps": [],
+    "evidence": [],
+    "sources": []
+  },
+  "unknowns": [],
+  "tags": [
+    "香港",
+    "八达通",
+    "新用户"
+  ],
+  "pubDatetime": "2026-11-07T15:20:25.000Z",
+  "modDatetime": "2026-11-07T15:20:25.000Z",
+  "body": [
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5b708b2f53e8",
+          "text": "一眼看清",
+          "marks": []
+        }
+      ],
+      "_key": "955eaedad063",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a4eff2148bfd",
+          "text": "能获得什么：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "f4b0c2cdc8a1",
+          "text": " $150 八达通充值额，另加一张免费自选卡面",
+          "marks": []
+        }
+      ],
+      "_key": "b73fde6ce98b",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bed962ea6fae",
+          "text": "实际费用：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "0764c8501715",
+          "text": " 需一次消费 $100 港币或以上；开卡费官方页面未写明",
+          "marks": []
+        }
+      ],
+      "_key": "12ecbd8c8d0b",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a31d912ee137",
+          "text": "适用人群：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "fbe73e447dc4",
+          "text": " 香港；推广期前从未加入手机八达通的新客户，首次为合资格装置加入全新合资格八达通；Android 版须加入 Google Wallet；不适用于透过旅客八达通 App 加入的八达通",
+          "marks": []
+        }
+      ],
+      "_key": "407ff33de734",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "695d7d8c21c0",
+          "text": "截止时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "5fafe896c4f5",
+          "text": " 未确认；官方写推广期至 2027-01-03，未给具体时刻与时区，故不补写完整截止时间；卡面领取截至 2027-01-10",
+          "marks": []
+        }
+      ],
+      "_key": "f2cacf9de587",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2285082747cb",
+          "text": "核对时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "59cb03d02258",
+          "text": " 2026-11-07T15:20:25Z",
+          "marks": []
+        }
+      ],
+      "_key": "ae1b4e793528",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e99ec4021a36",
+          "text": "核对情况：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "6b55a14aab58",
+          "text": " 记录附有官方页面依据；未实际完成领取，未知条件见下文。",
+          "marks": []
+        }
+      ],
+      "_key": "130623acf5ba",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a5399cfa6164",
+          "text": "领取条件",
+          "marks": []
+        }
+      ],
+      "_key": "8b9abfb7ba9b",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1bc0935da018",
+          "text": "推广期内登记推广并完成一次 $100 或以上交易；奖赏于符合推广要求后 7 天后发放；数量有限，先到先得；卡面须于 2027-01-10 或之前在八达通 App 内领取",
+          "marks": []
+        }
+      ],
+      "_key": "e78fd2812c64",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "23d021ab6799",
+          "text": "领取入口与步骤",
+          "marks": []
+        }
+      ],
+      "_key": "ad9fc26acca7",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "678025002f3f",
+          "text": "官方领取入口",
+          "marks": [
+            "6cf01c418f47"
+          ]
+        }
+      ],
+      "_key": "28173e03d8b5",
+      "markDefs": [
+        {
+          "_key": "6cf01c418f47",
+          "_type": "link",
+          "href": "https://www.octopuscards.com/onlineform/promotion/general/registration/sc/step1.jsp?promotionRegRefCode=202611MO"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bf654d4a34ae",
+          "text": "加入或转移实体八达通至手机八达通",
+          "marks": []
+        }
+      ],
+      "_key": "bf09a140bab5",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f12b6d345881",
+          "text": "填妥推广登记表格",
+          "marks": []
+        }
+      ],
+      "_key": "07c4ffa86c54",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0f63fd1e6692",
+          "text": "以手机八达通作一次 $100 或以上消费交易",
+          "marks": []
+        }
+      ],
+      "_key": "a4021f3aa121",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "567ed8bc4f08",
+          "text": "开启八达通 App 通知功能领取奖赏",
+          "marks": []
+        }
+      ],
+      "_key": "e85b319f2d81",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "14c75b87e72b",
+          "text": "于 2027-01-10 或之前在卡面商店免费领取卡面",
+          "marks": []
+        }
+      ],
+      "_key": "a314c3c0bd52",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "804e48cf52e7",
+          "text": "尚未确认",
+          "marks": []
+        }
+      ],
+      "_key": "3d0d560edea4",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "730ac0e77ba2",
+          "text": "是否需要香港手机号注册，官方页面未写，原帖称需要",
+          "marks": []
+        }
+      ],
+      "_key": "97a5a5809c6f",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "12ebbd6260ba",
+          "text": "开卡费金额官方页面未写",
+          "marks": []
+        }
+      ],
+      "_key": "3b521c7302f5",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "68b16b8b1e3b",
+          "text": "奖赏名额是否已满未确认",
+          "marks": []
+        }
+      ],
+      "_key": "ad07324efd52",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "88cbd0ff2bd1",
+          "text": "是否需要实名认证未确认",
+          "marks": []
+        }
+      ],
+      "_key": "2ab4fd38623c",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8f86e258dbe2",
+          "text": "来源",
+          "marks": []
+        }
+      ],
+      "_key": "a5d715e492cd",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b6ee39427026",
+          "text": "发现来源：",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "c12a4899bc11",
+          "text": "11月八达通新用户羊毛消费100返150",
+          "marks": [
+            "9850dcd7b0ae"
+          ]
+        }
+      ],
+      "_key": "1d8c9c5de582",
+      "markDefs": [
+        {
+          "_key": "9850dcd7b0ae",
+          "_type": "link",
+          "href": "https://linux.do/t/topic/3134715"
+        }
+      ],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6512c5e187f4",
+          "text": "官方依据：",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "b53b10bc4802",
+          "text": "新客户加入手机八达通可赚$150及自选卡面！",
+          "marks": [
+            "75f498139594"
+          ]
+        }
+      ],
+      "_key": "070f9621e6d1",
+      "markDefs": [
+        {
+          "_key": "75f498139594",
+          "_type": "link",
+          "href": "https://www.octopuscards.com/onlineform/promotion/general/registration/sc/step1.jsp?promotionRegRefCode=202611MO"
+        }
+      ],
+      "listItem": "bullet",
+      "level": 1
+    }
+  ],
+  "bodyMarkdown": "<!-- 自动导入的候选草稿。字段校验不等于事实核实，当前不会自动公开发布。 -->\n\n## 一眼看清\n\n- **能获得什么：** $150 八达通充值额，另加一张免费自选卡面\n- **实际费用：** 需一次消费 $100 港币或以上；开卡费官方页面未写明\n- **适用人群：** 香港；推广期前从未加入手机八达通的新客户，首次为合资格装置加入全新合资格八达通；Android 版须加入 Google Wallet；不适用于透过旅客八达通 App 加入的八达通\n- **截止时间：** 未确认；官方写推广期至 2027-01-03，未给具体时刻与时区，故不补写完整截止时间；卡面领取截至 2027-01-10\n- **核对时间：** 2026-11-07T15:20:25Z\n- **核对情况：** 记录附有官方页面依据；未实际完成领取，未知条件见下文。\n\n## 领取条件\n\n推广期内登记推广并完成一次 $100 或以上交易；奖赏于符合推广要求后 7 天后发放；数量有限，先到先得；卡面须于 2027-01-10 或之前在八达通 App 内领取\n\n## 领取入口与步骤\n\n[官方领取入口](<https://www.octopuscards.com/onlineform/promotion/general/registration/sc/step1.jsp?promotionRegRefCode=202611MO>)\n\n1. 加入或转移实体八达通至手机八达通\n2. 填妥推广登记表格\n3. 以手机八达通作一次 $100 或以上消费交易\n4. 开启八达通 App 通知功能领取奖赏\n5. 于 2027-01-10 或之前在卡面商店免费领取卡面\n\n## 尚未确认\n\n- 是否需要香港手机号注册，官方页面未写，原帖称需要\n- 开卡费金额官方页面未写\n- 奖赏名额是否已满未确认\n- 是否需要实名认证未确认\n\n## 来源\n\n- 发现来源：[11月八达通新用户羊毛消费100返150](<https://linux.do/t/topic/3134715>)\n- 官方依据：[新客户加入手机八达通可赚$150及自选卡面！](<https://www.octopuscards.com/onlineform/promotion/general/registration/sc/step1.jsp?promotionRegRefCode=202611MO>)\n\n<!-- deal-import:v1 sha256:156c07f9ce8add29f9d86e920d480d294fcb73292c85911bd397bd75beec01da -->",
+  "_migration": {
+    "source": "deals/octopus-mobile-new-user-150.md",
+    "fixes": [],
+    "url": "/blog/deals/octopus-mobile-new-user-150/"
+  }
+}

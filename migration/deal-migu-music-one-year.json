@@ -1,0 +1,311 @@
+{
+  "_type": "deal",
+  "_id": "imported-migu-music-one-year",
+  "title": "咪咕音乐一年会员免费领",
+  "slug": {
+    "_type": "slug",
+    "current": "migu-music-one-year"
+  },
+  "description": "咪咕音乐一年天籁会员免费领，扫码填手机号、微信登录就能领，限新用户，我自己已经领到了。",
+  "audience": "限新用户，老会员领不了",
+  "benefit": "一年咪咕音乐天籁会员",
+  "cost": "免费；需手机号+微信登录",
+  "conditions": "扫码填手机号收验证码，微信登录领取；限新用户",
+  "expiresAt": null,
+  "claimUrl": null,
+  "verification": "unverified",
+  "dealStatus": "blocked",
+  "dealValidUntil": null,
+  "dealRecord": {
+    "id": "migu-music-one-year",
+    "checkedAt": "2026-11-13T06:08:00.000Z",
+    "deadlineStatus": "not-published",
+    "expiryNote": "官方未公布截止日",
+    "steps": [
+      "扫薛之谦应援棒上的二维码",
+      "填手机号收验证码",
+      "微信登录领取"
+    ],
+    "evidence": [],
+    "sources": [
+      {
+        "kind": "discovery",
+        "title": "免费领咪咕音乐会员年卡",
+        "url": "https://linux.do/t/topic/2992391"
+      },
+      {
+        "kind": "secondary",
+        "title": "How to get a year of Migu membership for free",
+        "url": "https://www.nodeloc.com/t/topic/117548"
+      }
+    ]
+  },
+  "unknowns": [
+    "官方活动页未找到，条款以实际领取为准",
+    "每天 17:00–23:00 的领取窗口未确认",
+    "闲鱼有人 10–40 元倒卖这个领取资格"
+  ],
+  "tags": [
+    "音乐",
+    "咪咕",
+    "会员"
+  ],
+  "pubDatetime": "2026-11-12T16:45:00.000Z",
+  "modDatetime": "2026-11-13T06:08:00.000Z",
+  "body": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8bca444ba2cb",
+          "text": "这个活动是真的，我自己已经领到了。一年天籁会员，扫码填手机号，微信登录就行。",
+          "marks": []
+        }
+      ],
+      "_key": "8348b5d9bd81",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8cd91438d7b8",
+          "text": "一眼看清",
+          "marks": []
+        }
+      ],
+      "_key": "7ddf475542f1",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0ff2e5b79dc0",
+          "text": "能获得什么：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "6579b95cd070",
+          "text": " 一年咪咕音乐天籁会员",
+          "marks": []
+        }
+      ],
+      "_key": "31a60567fb9a",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7c975c124759",
+          "text": "实际费用：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "02d455602b01",
+          "text": " 免费；需手机号+微信登录",
+          "marks": []
+        }
+      ],
+      "_key": "0daf1b4ec0c9",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "32696891d5ce",
+          "text": "适用人群：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "a55dab914aee",
+          "text": " 限新用户，老会员领不了",
+          "marks": []
+        }
+      ],
+      "_key": "6f63f8f91a0b",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8543866180e6",
+          "text": "截止时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "b5248c1f9d38",
+          "text": " 官方未公布",
+          "marks": []
+        }
+      ],
+      "_key": "2fd576bbf891",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "00d833703265",
+          "text": "核对时间：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "854a14db5c15",
+          "text": " 2026-11-13T06:08:00Z",
+          "marks": []
+        }
+      ],
+      "_key": "3a0f837601c6",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cf401acb1487",
+          "text": "核对情况：",
+          "marks": [
+            "strong"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "3af026fa34ea",
+          "text": " 我自己已经领到了；官方活动页未找到。",
+          "marks": []
+        }
+      ],
+      "_key": "11cfe243fa12",
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ac0af8fda29d",
+          "text": "领取步骤",
+          "marks": []
+        }
+      ],
+      "_key": "41da3271e3f8",
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "87dfe6599556",
+          "text": "扫薛之谦应援棒上的二维码",
+          "marks": []
+        }
+      ],
+      "_key": "c0536fe8dbc2",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c43f32ee59a2",
+          "text": "填手机号收验证码",
+          "marks": []
+        }
+      ],
+      "_key": "5a4e95975f78",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bff918e3c3b3",
+          "text": "微信登录领取",
+          "marks": []
+        }
+      ],
+      "_key": "caf03de8d95e",
+      "markDefs": [],
+      "listItem": "number",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "10618e16cdac",
+          "text": "注意别跟下载领 30 天那个混了，那是另一个。",
+          "marks": []
+        }
+      ],
+      "_key": "356aa54ef59e",
+      "markDefs": []
+    }
+  ],
+  "bodyMarkdown": "这个活动是真的，我自己已经领到了。一年天籁会员，扫码填手机号，微信登录就行。\n\n## 一眼看清\n\n- **能获得什么：** 一年咪咕音乐天籁会员\n- **实际费用：** 免费；需手机号+微信登录\n- **适用人群：** 限新用户，老会员领不了\n- **截止时间：** 官方未公布\n- **核对时间：** 2026-11-13T06:08:00Z\n- **核对情况：** 我自己已经领到了；官方活动页未找到。\n\n## 领取步骤\n\n1. 扫薛之谦应援棒上的二维码\n2. 填手机号收验证码\n3. 微信登录领取\n\n注意别跟下载领 30 天那个混了，那是另一个。",
+  "_migration": {
+    "source": "deals/migu-music-one-year.md",
+    "fixes": [],
+    "url": "/blog/deals/migu-music-one-year/"
+  }
+}
